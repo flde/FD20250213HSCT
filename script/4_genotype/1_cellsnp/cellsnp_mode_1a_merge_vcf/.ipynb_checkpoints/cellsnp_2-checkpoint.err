@@ -1,0 +1,35 @@
+[I::main] start time: 2023-06-23 14:01:42
+[W::check_args] Max depth set to maximum value (2147483647)
+[I::main] loading the VCF file for given SNPs ...
+[I::main] fetching 36331179 candidate variants ...
+[I::main] mode 1a: fetch given SNPs in 7503 single cells.
+[I::csp_fetch_core][Thread-21] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-25] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-14] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-47] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-35] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-7] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-32] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-5] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-18] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-11] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-9] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-22] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-23] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-24] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-12] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-4] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-1] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-20] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-14] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-16] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-31] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-34] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-21] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-25] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-35] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-42] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-47] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-9] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-5] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-7] 4.00% SNPs processed.

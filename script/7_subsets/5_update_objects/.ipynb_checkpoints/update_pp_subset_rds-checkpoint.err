@@ -1,0 +1,77 @@
+[NbConvertApp] Converting notebook update_pp_subset_rds.r.ipynb to html
+Traceback (most recent call last):
+  File "/nobackup/peer/fdeckert/miniconda3/bin/jupyter-nbconvert", line 11, in <module>
+    sys.exit(main())
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/jupyter_core/application.py", line 277, in launch_instance
+    return super().launch_instance(argv=argv, **kwargs)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/traitlets/config/application.py", line 992, in launch_instance
+    app.start()
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/nbconvertapp.py", line 423, in start
+    self.convert_notebooks()
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/nbconvertapp.py", line 597, in convert_notebooks
+    self.convert_single_notebook(notebook_filename)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/nbconvertapp.py", line 560, in convert_single_notebook
+    output, resources = self.export_single_notebook(
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/nbconvertapp.py", line 488, in export_single_notebook
+    output, resources = self.exporter.from_filename(
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/exporter.py", line 189, in from_filename
+    return self.from_file(f, resources=resources, **kw)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/exporter.py", line 206, in from_file
+    return self.from_notebook_node(
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/html.py", line 223, in from_notebook_node
+    return super().from_notebook_node(nb, resources, **kw)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/templateexporter.py", line 397, in from_notebook_node
+    nb_copy, resources = super().from_notebook_node(nb, resources, **kw)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/exporter.py", line 146, in from_notebook_node
+    nb_copy, resources = self._preprocess(nb_copy, resources)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/exporter.py", line 335, in _preprocess
+    nbc, resc = preprocessor(nbc, resc)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/preprocessors/base.py", line 47, in __call__
+    return self.preprocess(nb, resources)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/preprocessors/execute.py", line 89, in preprocess
+    self.preprocess_cell(cell, resources, index)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/preprocessors/execute.py", line 110, in preprocess_cell
+    cell = self.execute_cell(cell, index, store_history=True)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbclient/util.py", line 84, in wrapped
+    return just_run(coro(*args, **kwargs))
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbclient/util.py", line 62, in just_run
+    return loop.run_until_complete(coro)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+    return future.result()
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbclient/client.py", line 965, in async_execute_cell
+    await self._check_raise_for_error(cell, cell_index, exec_reply)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbclient/client.py", line 862, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+so@meta.datatype_leiden_subset_1 <- read.csv(cell_type_leiden_subset_file_1, row.names=1) %>% dplyr::mutate(domain_leiden_subset='lymphocyte')
+cell_type_leiden_subset_2 <- read.csv(cell_type_leiden_subset_file_2, row.names=1) %>% dplyr::mutate(domain_leiden_subset='myeloid')
+cell_type_leiden_subset_3 <- read.csv(cell_type_leiden_subset_file_3, row.names=1) %>% dplyr::mutate(domain_leiden_subset='structural')
+------------------
+
+Error in (function (cl, name, valueClass) : ‘meta.datatype_leiden_subset_1’ is not a slot in class “Seurat”
+Traceback:
+
+1. (function (cl, name, valueClass) 
+ . {
+ .     ClassDef <- getClass(cl)
+ .     slotClass <- ClassDef@slots[[name]]
+ .     if (is.null(slotClass)) 
+ .         stop(gettextf("%s is not a slot in class %s", sQuote(name), 
+ .             dQuote(cl)), domain = NA)
+ .     if (.identC(slotClass, valueClass)) 
+ .         return(TRUE)
+ .     ok <- possibleExtends(valueClass, slotClass, ClassDef2 = getClassDef(slotClass, 
+ .         where = .classEnv(ClassDef)))
+ .     if (isFALSE(ok)) 
+ .         stop(gettextf("assignment of an object of class %s is not valid for @%s in an object of class %s; is(value, \"%s\") is not TRUE", 
+ .             dQuote(valueClass), sQuote(name), dQuote(cl), slotClass), 
+ .             domain = NA)
+ .     TRUE
+ . })(structure("Seurat", package = "SeuratObject"), "meta.datatype_leiden_subset_1", 
+ .     "data.frame")
+2. stop(gettextf("%s is not a slot in class %s", sQuote(name), dQuote(cl)), 
+ .     domain = NA)
+ERROR: Error in (function (cl, name, valueClass) : ‘meta.datatype_leiden_subset_1’ is not a slot in class “Seurat”
+
+

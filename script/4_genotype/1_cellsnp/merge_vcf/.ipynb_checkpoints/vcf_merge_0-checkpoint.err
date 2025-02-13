@@ -1,0 +1,10 @@
+/cm/local/apps/slurm/var/spool/job2985451/slurm_script: line 125: /research/peer/fdeckert/FD20220623HSCT/data/object/vcf_merge/Patient_1_genome1k_cellsnp_mode2b_1/merge.vcf.gz: No such file or directory
+[E::idx_find_and_load] Could not retrieve index file for '/research/peer/fdeckert/FD20220623HSCT/data/reference/genome1k/genome1K.phase3.SNP_AF5e4.chr1toX.hg38.vcf.gz'
+Could not load .tbi index of /research/peer/fdeckert/FD20220623HSCT/data/reference/genome1k/genome1K.phase3.SNP_AF5e4.chr1toX.hg38.vcf.gz
+The command "tabix -l /research/peer/fdeckert/FD20220623HSCT/data/reference/genome1k/genome1K.phase3.SNP_AF5e4.chr1toX.hg38.vcf.gz" exited with an error. Is the file tabix indexed?
+
+ at /cm/shared/specific/apps/VCFtools/0.1.16-GCC-9.3.0/lib/perl5/site_perl/5.30.2/Vcf.pm line 172.
+	Vcf::throw(Vcf4_1=HASH(0x7818c8), "The command \"tabix -l /research/peer/fdeckert/FD20220623HSCT/"...) called at /cm/shared/specific/apps/VCFtools/0.1.16-GCC-9.3.0/lib/perl5/site_perl/5.30.2/Vcf.pm line 2675
+	VcfReader::get_chromosomes(Vcf4_1=HASH(0x7818c8)) called at /cm/shared/specific/apps/VCFtools/0.1.16-GCC-9.3.0/bin/vcf-merge line 197
+	main::init_cols(HASH(0xcb8858), Vcf4_2=HASH(0x781178)) called at /cm/shared/specific/apps/VCFtools/0.1.16-GCC-9.3.0/bin/vcf-merge line 279
+	main::merge_vcf_files(HASH(0xcb8858)) called at /cm/shared/specific/apps/VCFtools/0.1.16-GCC-9.3.0/bin/vcf-merge line 12

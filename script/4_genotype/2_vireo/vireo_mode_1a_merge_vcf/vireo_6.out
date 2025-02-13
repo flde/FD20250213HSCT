@@ -1,0 +1,143 @@
+Patient_7
+/research/peer/fdeckert/FD20220623HSCT/data/object/genotype/cellsnp/cellsnp_mode_1a_merge_vcf/
+/research/peer/fdeckert/FD20220623HSCT/data/object/genotype/vireo/vireo_mode_1a_merge_vcf/
+[vireo] Loading cell folder ...
+[vireo] Demultiplex 48578 cells to 2 donors with 306660 variants.
+[vireo] lower bound ranges [-7499243.1, -7414923.7, -7330871.9]
+[vireo] allelic rate mean and concentrations:
+[[0.001 0.349 0.99 ]]
+[[93206996.2 11571733.9  3029567.9]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+25085	23493
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+10950	19180	10699	7749
+[vireo] All done: 15 min 47.9 sec
+
+[vireo] Loading vartrix files ...
+[vireo] Demultiplex 48578 cells to 2 donors with 306660 variants.
+[vireo] lower bound ranges [-8197111.4, -8110209.4, -8024621.8]
+[vireo] allelic rate mean and concentrations:
+[[0.002 0.331 0.858]]
+[[96031756.6 11618737.3   456865.1]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+23247	25331
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+19181	11597	9256	8544
+[vireo] All done: 15 min 19.4 sec
+
+[vireo] Loading vartrix files ...
+[vireo] Demultiplex 48578 cells to 2 donors with 87586 variants.
+[vireo] lower bound ranges [-7676332.0, -7606356.2, -7522812.1]
+[vireo] allelic rate mean and concentrations:
+[[0.003 0.332 0.853]]
+[[80010769.9 11526165.8   477223.3]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+23595	24983
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+19026	11440	9169	8943
+[vireo] All done: 9 min 46.9 sec
+
+[vireo] Loading vartrix files ...
+[vireo] Demultiplex 48578 cells to 2 donors with 87169 variants.
+[vireo] lower bound ranges [-7656792.8, -7587436.6, -7513555.8]
+[vireo] allelic rate mean and concentrations:
+[[0.003 0.332 0.899]]
+[[77679070.4 11644848.    404396.6]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+23591	24987
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+19066	11402	9434	8676
+[vireo] All done: 10 min 0.9 sec
+
+[vireo] Loading vartrix files ...
+[vireo] Demultiplex 48578 cells to 2 donors with 84841 variants.
+[vireo] lower bound ranges [-7596094.0, -7475025.5, -7417228.1]
+[vireo] allelic rate mean and concentrations:
+[[0.004 0.333 0.885]]
+[[63021159.8 11535189.7   432441.5]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+24489	24089
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+10948	19183	9829	8618
+[vireo] All done: 8 min 4.4 sec
+
+[vireo] Loading vartrix files ...
+[vireo] Demultiplex 48578 cells to 2 donors with 64631 variants.
+[vireo] lower bound ranges [-6665291.4, -6587460.5, -6514480.7]
+[vireo] allelic rate mean and concentrations:
+[[0.035 0.388 0.904]]
+[[12019740.1  9199354.1   401215.8]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+27777	20801
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+20202	9918	10873	7585
+[vireo] All done: 2 min 57.8 sec
+
+[vireo] Loading vartrix files ...
+[vireo] Demultiplex 48578 cells to 2 donors with 54566 variants.
+[vireo] lower bound ranges [-6370456.4, -6287347.1, -6209349.5]
+[vireo] allelic rate mean and concentrations:
+[[0.059 0.402 0.927]]
+[[8377384.5 8603177.2  392192.3]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+19553	29025
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+9846	20797	9366	8569
+[vireo] All done: 2 min 13.8 sec
+
+[vireo] Loading vartrix files ...
+[vireo] Demultiplex 48578 cells to 2 donors with 31750 variants.
+[vireo] lower bound ranges [-5958096.0, -5893498.6, -5826822.3]
+[vireo] allelic rate mean and concentrations:
+[[0.085 0.411 0.935]]
+[[6005174.  8263958.7  384660.3]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+29242	19336
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+20792	9963	7867	9956
+[vireo] All done: 1 min 35.0 sec
+
+[vireo] Loading vartrix files ...
+[vireo] Demultiplex 48578 cells to 2 donors with 27763 variants.
+[vireo] lower bound ranges [-5663361.7, -5586714.5, -5525080.8]
+[vireo] allelic rate mean and concentrations:
+[[0.098 0.415 0.935]]
+[[4949884.5 7989485.4  380158.1]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+20066	28512
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+10313	19555	6911	11799
+[vireo] All done: 1 min 33.9 sec
+
+[vireo] Loading vartrix files ...
+[vireo] Demultiplex 48578 cells to 2 donors with 19096 variants.
+[vireo] lower bound ranges [-4549943.6, -4489116.5, -4441922.4]
+[vireo] allelic rate mean and concentrations:
+[[0.004 0.385 0.981]]
+[[ 513378.6 8752244.9  251956.5]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+24860	23718
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+1559	731	481	45807
+[vireo] All done: 1 min 0.5 sec
+

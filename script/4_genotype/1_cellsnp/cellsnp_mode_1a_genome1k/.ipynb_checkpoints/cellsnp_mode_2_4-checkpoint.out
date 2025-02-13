@@ -1,0 +1,6 @@
+/nobackup/lab_bsf/projects/BSA_0738_Stary_amalgamation/OUT/COUNT/HSCT_7831_transcriptome/possorted_genome_bam.bam,/nobackup/lab_bsf/projects/BSA_0738_Stary_amalgamation/OUT/COUNT/HSCT_7833_transcriptome/possorted_genome_bam.bam,/nobackup/lab_bsf/projects/BSA_0738_Stary_amalgamation/OUT/COUNT/HSCT_7834_transcriptome/possorted_genome_bam.bam
+/nobackup/lab_bsf/projects/BSA_0738_Stary_amalgamation/OUT/COUNT/HSCT_7831_transcriptome/filtered_feature_bc_matrix/barcodes.tsv.gz,/nobackup/lab_bsf/projects/BSA_0738_Stary_amalgamation/OUT/COUNT/HSCT_7833_transcriptome/filtered_feature_bc_matrix/barcodes.tsv.gz,/nobackup/lab_bsf/projects/BSA_0738_Stary_amalgamation/OUT/COUNT/HSCT_7834_transcriptome/filtered_feature_bc_matrix/barcodes.tsv.gz
+Patient_5
+Patient_5_Baseline,Patient_5_D14,Patient_5_D100
+/research/peer/fdeckert/FD20220623HSCT/data/object/cellsnp/
+/research/peer/fdeckert/FD20220623HSCT/data/object/cellsnp/genome1K.phase3.SNP_AF5e4.chr1toX.hg38.vcf.gz

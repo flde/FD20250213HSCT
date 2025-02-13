@@ -1,0 +1,71 @@
+Patient_8
+[vireo] Loading cell folder ...
+[vireo] Demultiplex 11673 cells to 2 donors with 93906 variants.
+[vireo] lower bound ranges [-3246841.3, -3244064.9, -3243057.5]
+[vireo] allelic rate mean and concentrations:
+[[0.012 0.033 0.357]]
+[[16552099.4  8630095.4  1803137.2]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+6540	5133
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+5794	4685	405	789
+[vireo] All done: 4 min 44.1 sec
+
+[vireo] Loading vartrix files ...
+[vireo] Demultiplex 11673 cells to 2 donors with 93906 variants.
+[vireo] lower bound ranges [-3265709.4, -3256015.2, -3253201.6]
+[vireo] allelic rate mean and concentrations:
+[[0.013 0.033 0.357]]
+[[16539359.6  8644722.5  1804385.9]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+5148	6525
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+4684	5777	404	808
+[vireo] All done: 4 min 45.7 sec
+
+[vireo] Loading vartrix files ...
+[vireo] Demultiplex 11673 cells to 2 donors with 6058 variants.
+[vireo] lower bound ranges [-1307621.7, -1306394.4, -1306366.5]
+[vireo] allelic rate mean and concentrations:
+[[0.084 0.411 0.799]]
+[[2527041.7 1232682.6   57760.7]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+5079	6594
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+4534	6059	300	780
+[vireo] All done: 0 min 20.5 sec
+
+[vireo] Loading vartrix files ...
+[vireo] Demultiplex 11673 cells to 2 donors with 3522 variants.
+[vireo] lower bound ranges [-1024632.1, -1023655.9, -1023647.5]
+[vireo] allelic rate mean and concentrations:
+[[0.107 0.422 0.826]]
+[[1277124.1 1168513.8   49820.1]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+6609	5064
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+6025	4483	265	900
+[vireo] All done: 0 min 12.9 sec
+
+[vireo] Loading vartrix files ...
+[vireo] Demultiplex 11673 cells to 2 donors with 2099 variants.
+[vireo] lower bound ranges [-807827.0, -807827.0, -807827.0]
+[vireo] allelic rate mean and concentrations:
+[[0.01  0.348 0.99 ]]
+[[5.00000e+01 1.51023e+06 5.00000e+01]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+5836	5836
+[vireo] final donor size:
+unassigned
+11673
+[vireo] All done: 0 min 7.9 sec
+

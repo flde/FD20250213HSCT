@@ -1,0 +1,18 @@
+Patient_2
+/research/peer/fdeckert/FD20220623HSCT/data/object/genotype/cellsnp/cellsnp_mode_1a_genome1k/
+/research/peer/fdeckert/FD20220623HSCT/data/object/genotype/variants/
+[vireo] Loading vartrix files ...
+[vireo] Demultiplex 4105 cells to 2 donors with 24369 variants.
+[vireo] lower bound ranges [-1351903.1, -1329772.8, -1318473.1]
+[vireo] allelic rate mean and concentrations:
+[[0.039 0.423 0.972]]
+[[3727984.7 2608656.5   23623.8]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+1473	2632
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+1218	2241	109	537
+[vireo] All done: 1 min 19.8 sec
+
+Select all variants with min entropy of 1

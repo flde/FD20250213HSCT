@@ -1,0 +1,3 @@
+PuTTY X11 proxy: unable to connect to forwarded X server: Network error: Connection refused
+/nobackup/peer/fdeckert/miniconda3/envs/p.3.8.12-FD20220623HSCT/lib/python3.8/site-packages/vireoSNP/GTbarcode.py:96: RuntimeWarning: divide by zero encountered in true_divide
+  idx = (DP > 20) * (OTH / DP < 0.05)

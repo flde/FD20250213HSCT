@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/fdeckert/bin/miniconda3/envs/p.3.8.12-FD20220623HSCT/bin/vireo", line 8, in <module>
+    sys.exit(main())
+  File "/home/fdeckert/bin/miniconda3/envs/p.3.8.12-FD20220623HSCT/lib/python3.8/site-packages/vireoSNP/vireo.py", line 130, in main
+    cell_vcf = load_VCF(options.cell_data, biallelic_only=True)
+  File "/home/fdeckert/bin/miniconda3/envs/p.3.8.12-FD20220623HSCT/lib/python3.8/site-packages/vireoSNP/utils/vcf_utils.py", line 116, in load_VCF
+    infile = open(vcf_file, "r")
+FileNotFoundError: [Errno 2] No such file or directory: '/research/peer/fdeckert/FD20220623HSCT/data/object/vireo/763_cellsnp'

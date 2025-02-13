@@ -1,0 +1,58 @@
+[NbConvertApp] Converting notebook pseudotime.p.ipynb to html
+Traceback (most recent call last):
+  File "/nobackup/peer/fdeckert/miniconda3/bin/jupyter-nbconvert", line 11, in <module>
+    sys.exit(main())
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/jupyter_core/application.py", line 277, in launch_instance
+    return super().launch_instance(argv=argv, **kwargs)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/traitlets/config/application.py", line 992, in launch_instance
+    app.start()
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/nbconvertapp.py", line 423, in start
+    self.convert_notebooks()
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/nbconvertapp.py", line 597, in convert_notebooks
+    self.convert_single_notebook(notebook_filename)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/nbconvertapp.py", line 560, in convert_single_notebook
+    output, resources = self.export_single_notebook(
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/nbconvertapp.py", line 488, in export_single_notebook
+    output, resources = self.exporter.from_filename(
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/exporter.py", line 189, in from_filename
+    return self.from_file(f, resources=resources, **kw)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/exporter.py", line 206, in from_file
+    return self.from_notebook_node(
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/html.py", line 223, in from_notebook_node
+    return super().from_notebook_node(nb, resources, **kw)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/templateexporter.py", line 397, in from_notebook_node
+    nb_copy, resources = super().from_notebook_node(nb, resources, **kw)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/exporter.py", line 146, in from_notebook_node
+    nb_copy, resources = self._preprocess(nb_copy, resources)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/exporter.py", line 335, in _preprocess
+    nbc, resc = preprocessor(nbc, resc)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/preprocessors/base.py", line 47, in __call__
+    return self.preprocess(nb, resources)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/preprocessors/execute.py", line 89, in preprocess
+    self.preprocess_cell(cell, resources, index)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/preprocessors/execute.py", line 110, in preprocess_cell
+    cell = self.execute_cell(cell, index, store_history=True)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbclient/util.py", line 84, in wrapped
+    return just_run(coro(*args, **kwargs))
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbclient/util.py", line 62, in just_run
+    return loop.run_until_complete(coro)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+    return future.result()
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbclient/client.py", line 965, in async_execute_cell
+    await self._check_raise_for_error(cell, cell_index, exec_reply)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbclient/client.py", line 862, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+subset_0 = ['$T_{h, cm/naive}$', '$T_{h, em/effector}$', '$T_{h, memory/effector}$'] '$T_{c, memory/effector}$']
+adata_0 = scvi_integrate(adata[adata.obs['cell_type_leiden_subset'].isin(subset_0)].copy().copy(), cat=None, con=None, model_dir='data/object/pseudotime/model_0', file='data/object/pseudotime/scvi_0.h5ad')
+adata_0 = dim_clust(adata_0, use_rep='X_scvi', n_neighbors=15, resolution=2, min_dist=0.5, metric='euclidean', file='data/object/pseudotime/scvi_0.h5ad')
+------------------
+
+[0;36m  Input [0;32mIn [17][0;36m[0m
+[0;31m    subset_0 = ['$T_{h, cm/naive}$', '$T_{h, em/effector}$', '$T_{h, memory/effector}$'] '$T_{c, memory/effector}$'][0m
+[0m                                                                                         ^[0m
+[0;31mSyntaxError[0m[0;31m:[0m invalid syntax
+
+SyntaxError: invalid syntax (3627468943.py, line 1)
+

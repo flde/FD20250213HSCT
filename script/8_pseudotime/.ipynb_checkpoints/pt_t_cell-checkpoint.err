@@ -1,0 +1,57 @@
+[NbConvertApp] Converting notebook pt_t_cell.p.ipynb to html
+Traceback (most recent call last):
+  File "/nobackup/peer/fdeckert/miniconda3/bin/jupyter-nbconvert", line 11, in <module>
+    sys.exit(main())
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/jupyter_core/application.py", line 277, in launch_instance
+    return super().launch_instance(argv=argv, **kwargs)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/traitlets/config/application.py", line 992, in launch_instance
+    app.start()
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/nbconvertapp.py", line 423, in start
+    self.convert_notebooks()
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/nbconvertapp.py", line 597, in convert_notebooks
+    self.convert_single_notebook(notebook_filename)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/nbconvertapp.py", line 560, in convert_single_notebook
+    output, resources = self.export_single_notebook(
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/nbconvertapp.py", line 488, in export_single_notebook
+    output, resources = self.exporter.from_filename(
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/exporter.py", line 189, in from_filename
+    return self.from_file(f, resources=resources, **kw)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/exporter.py", line 206, in from_file
+    return self.from_notebook_node(
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/html.py", line 223, in from_notebook_node
+    return super().from_notebook_node(nb, resources, **kw)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/templateexporter.py", line 397, in from_notebook_node
+    nb_copy, resources = super().from_notebook_node(nb, resources, **kw)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/exporter.py", line 146, in from_notebook_node
+    nb_copy, resources = self._preprocess(nb_copy, resources)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/exporters/exporter.py", line 335, in _preprocess
+    nbc, resc = preprocessor(nbc, resc)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/preprocessors/base.py", line 47, in __call__
+    return self.preprocess(nb, resources)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/preprocessors/execute.py", line 89, in preprocess
+    self.preprocess_cell(cell, resources, index)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbconvert/preprocessors/execute.py", line 110, in preprocess_cell
+    cell = self.execute_cell(cell, index, store_history=True)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbclient/util.py", line 84, in wrapped
+    return just_run(coro(*args, **kwargs))
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbclient/util.py", line 62, in just_run
+    return loop.run_until_complete(coro)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+    return future.result()
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbclient/client.py", line 965, in async_execute_cell
+    await self._check_raise_for_error(cell, cell_index, exec_reply)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.8/site-packages/nbclient/client.py", line 862, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+hvg = hvg_select(adata.copy(), key='sample_name', key_min_n=3, key_min_size=10, min_disp=0.1, file=None)
+------------------
+
+[0;31m---------------------------------------------------------------------------[0m
+[0;31mNameError[0m                                 Traceback (most recent call last)
+Input [0;32mIn [17][0m, in [0;36m<cell line: 1>[0;34m()[0m
+[0;32m----> 1[0m hvg [38;5;241m=[39m [43mhvg_select[49m(adata[38;5;241m.[39mcopy(), key[38;5;241m=[39m[38;5;124m'[39m[38;5;124msample_name[39m[38;5;124m'[39m, key_min_n[38;5;241m=[39m[38;5;241m3[39m, key_min_size[38;5;241m=[39m[38;5;241m10[39m, min_disp[38;5;241m=[39m[38;5;241m0.1[39m, file[38;5;241m=[39m[38;5;28;01mNone[39;00m)
+
+[0;31mNameError[0m: name 'hvg_select' is not defined
+NameError: name 'hvg_select' is not defined
+

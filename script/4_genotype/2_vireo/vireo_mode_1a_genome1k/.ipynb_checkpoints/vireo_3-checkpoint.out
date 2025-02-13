@@ -1,0 +1,15 @@
+768
+[vireo] Loading cell folder ...
+[vireo] Demultiplex 2949120 cells to 2 donors with 9931 variants.
+[vireo] lower bound ranges [-1219035.4, -1217578.6, -1216549.9]
+[vireo] allelic rate mean and concentrations:
+[[0.007 0.516 0.984]]
+[[ 598679.6 3073959.4  340957. ]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+1474332	1474788
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+4988	3769	266	2940097
+[vireo] All done: 3 min 16.9 sec
+
