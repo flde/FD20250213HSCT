@@ -1,5 +1,0 @@
-cp: cannot stat '/research/peer/fdeckert/FD20220623HSCT/data/object/cellsnp_mode_2b/Patient_1_cellsnp_1/cellSNP.base.vcf.gz': No such file or directory
-index: failed to open /research/peer/fdeckert/FD20220623HSCT/data/object/vcf_merge/Patient_1_genome1k_cellsnp_mode2b_1/cellSNP.base.vcf.gz
-Checking the headers and starting positions of 2 files
-[E::hts_open_format] Failed to open file "/research/peer/fdeckert/FD20220623HSCT/data/object/vcf_merge/Patient_1_genome1k_cellsnp_mode2b_1/cellSNP.base.vcf.gz" : No such file or directory
-Failed to open: /research/peer/fdeckert/FD20220623HSCT/data/object/vcf_merge/Patient_1_genome1k_cellsnp_mode2b_1/cellSNP.base.vcf.gz

@@ -1,7 +1,0 @@
-Writing to /tmp/bcftools.EZtI2O
-[W::vcf_parse] Contig '1' is not defined in the header. (Quick workaround: index the file with tabix.)
-[W::vcf_parse_info] INFO 'AD' is not defined in the header, assuming Type=String
-[W::vcf_parse_info] INFO 'DP' is not defined in the header, assuming Type=String
-[W::vcf_parse_info] INFO 'OTH' is not defined in the header, assuming Type=String
-Error encountered while parsing the input at 1:629937
-Cleaning

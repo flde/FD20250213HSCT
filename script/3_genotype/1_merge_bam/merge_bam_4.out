@@ -1,0 +1,5 @@
+/research/lab_stary/sequencing_projects/hsct/COUNT/HSCT_7831_transcriptome/possorted_genome_bam.bam,/research/lab_stary/sequencing_projects/hsct/COUNT/HSCT_7833_transcriptome/possorted_genome_bam.bam,/research/lab_stary/sequencing_projects/hsct/COUNT/HSCT_7834_transcriptome/possorted_genome_bam.bam
+/research/lab_stary/sequencing_projects/hsct/COUNT/HSCT_7831_transcriptome/filtered_feature_bc_matrix/barcodes.tsv.gz,/research/lab_stary/sequencing_projects/hsct/COUNT/HSCT_7833_transcriptome/filtered_feature_bc_matrix/barcodes.tsv.gz,/research/lab_stary/sequencing_projects/hsct/COUNT/HSCT_7834_transcriptome/filtered_feature_bc_matrix/barcodes.tsv.gz
+Patient_5
+Patient_5_Baseline,Patient_5_D14,Patient_5_D100
+/research/peer/fdeckert/FD20250213HSCT/genotype/cellsnp/merge_bam/

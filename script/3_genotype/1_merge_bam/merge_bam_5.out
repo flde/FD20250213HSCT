@@ -1,0 +1,5 @@
+/research/lab_stary/sequencing_projects/hsct/COUNT/HSCT_7841_transcriptome/possorted_genome_bam.bam,/research/lab_stary/sequencing_projects/hsct/COUNT/HSCT_7843_transcriptome/possorted_genome_bam.bam,/research/lab_stary/sequencing_projects/acute_gvhd/COUNT/GvD_116_784_transcriptome/possorted_genome_bam.bam
+/research/lab_stary/sequencing_projects/hsct/COUNT/HSCT_7841_transcriptome/filtered_feature_bc_matrix/barcodes.tsv.gz,/research/lab_stary/sequencing_projects/hsct/COUNT/HSCT_7843_transcriptome/filtered_feature_bc_matrix/barcodes.tsv.gz,/research/lab_stary/sequencing_projects/acute_gvhd/COUNT/GvD_116_784_transcriptome/filtered_feature_bc_matrix/barcodes.tsv.gz
+Patient_6
+Patient_6_Baseline,Patient_6_D14,Patient_6_aGVHD
+/research/peer/fdeckert/FD20250213HSCT/genotype/cellsnp/merge_bam/

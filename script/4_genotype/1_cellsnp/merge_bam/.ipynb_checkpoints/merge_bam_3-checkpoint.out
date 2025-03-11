@@ -1,5 +1,0 @@
-/nobackup/lab_bsf/projects/BSA_0738_Stary_amalgamation/OUT/COUNT/S_7681_baseline_transcriptome/possorted_genome_bam.bam,/nobackup/lab_bsf/projects/BSA_0738_Stary_amalgamation/OUT/COUNT/S_7682_day0_transcriptome/possorted_genome_bam.bam,/nobackup/lab_bsf/projects/BSA_0738_Stary_amalgamation/OUT/COUNT/S_7683_day14_transcriptome/possorted_genome_bam.bam,/nobackup/lab_bsf/projects/BSA_0738_Stary_amalgamation/OUT/COUNT/S_7684_day100_transcriptome/possorted_genome_bam.bam
-/nobackup/lab_bsf/projects/BSA_0738_Stary_amalgamation/OUT/COUNT/S_7681_baseline_transcriptome/filtered_feature_bc_matrix/barcodes.tsv.gz,/nobackup/lab_bsf/projects/BSA_0738_Stary_amalgamation/OUT/COUNT/S_7682_day0_transcriptome/filtered_feature_bc_matrix/barcodes.tsv.gz,/nobackup/lab_bsf/projects/BSA_0738_Stary_amalgamation/OUT/COUNT/S_7683_day14_transcriptome/filtered_feature_bc_matrix/barcodes.tsv.gz,/nobackup/lab_bsf/projects/BSA_0738_Stary_amalgamation/OUT/COUNT/S_7684_day100_transcriptome/filtered_feature_bc_matrix/barcodes.tsv.gz
-Patient_4
-Patient_4_Baseline,Patient_4_Tx,Patient_4_D14,Patient_4_D100
-/research/peer/fdeckert/FD20220623HSCT/data/object/cellsnp_bam/
