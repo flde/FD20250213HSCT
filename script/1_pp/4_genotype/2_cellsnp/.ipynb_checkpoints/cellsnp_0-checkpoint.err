@@ -1,0 +1,21 @@
+[I::main] start time: 2025-03-11 09:00:11
+[W::check_args] Max depth set to maximum value (2147483647)
+[W::check_args] Max pileup set to maximum value (2147483647)
+[I::main] global settings after checking:
+	num of input files = 1
+	out_dir = /research/peer/fdeckert/FD20250213HSCT/data/genotype/2_cellsnp/Patient_1_cellsnp_0
+	is_out_zip = 1, is_genotype = 0
+	is_target = 0, num_of_pos = 0
+	num_of_barcodes = 7147, num_of_samples = 0
+	refseq file = (null)
+	0 chroms: 
+	cell-tag = CB, umi-tag = UB
+	nthreads = 16, tp_max_open = 131072
+	mthreads = 16, tp_errno = 0, tp_ntry = 0
+	min_count = 20, min_maf = 0.00, double_gl = 0
+	min_len = 30, min_mapq = 20
+	rflag_filter = 772, rflag_require = 0
+	max_depth = 2147483647, max_pileup = 2147483647, no_orphan = 1
+[I::main] loading the VCF file for given SNPs ...
+[I::main] fetching 36305578 candidate variants ...
+[I::main] mode 1a: fetch given SNPs in 7147 single cells.

@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/nobackup/peer/fdeckert/miniconda3/envs/vireosnp.0.5.8/bin/vireo", line 10, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/envs/vireosnp.0.5.8/lib/python3.12/site-packages/vireoSNP/vireo.py", line 130, in main
+    cell_vcf = load_VCF(options.cell_data, biallelic_only=True)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/envs/vireosnp.0.5.8/lib/python3.12/site-packages/vireoSNP/utils/vcf_utils.py", line 116, in load_VCF
+    infile = open(vcf_file, "r")
+             ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/research/peer/fdeckert/FD20250213HSCT/data/genotype/2_cellsnp/Patient_13_cellsnp'

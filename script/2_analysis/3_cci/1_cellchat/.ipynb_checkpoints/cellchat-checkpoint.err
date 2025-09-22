@@ -1,0 +1,98 @@
+[NbConvertApp] Converting notebook cellchat.r.ipynb to html
+Traceback (most recent call last):
+  File "/nobackup/peer/fdeckert/miniconda3/bin/jupyter-nbconvert", line 10, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/jupyter_core/application.py", line 283, in launch_instance
+    super().launch_instance(argv=argv, **kwargs)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/traitlets/config/application.py", line 1075, in launch_instance
+    app.start()
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/nbconvertapp.py", line 420, in start
+    self.convert_notebooks()
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/nbconvertapp.py", line 597, in convert_notebooks
+    self.convert_single_notebook(notebook_filename)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/nbconvertapp.py", line 563, in convert_single_notebook
+    output, resources = self.export_single_notebook(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/nbconvertapp.py", line 487, in export_single_notebook
+    output, resources = self.exporter.from_filename(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/exporters/templateexporter.py", line 390, in from_filename
+    return super().from_filename(filename, resources, **kw)  # type:ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/exporters/exporter.py", line 201, in from_filename
+    return self.from_file(f, resources=resources, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/exporters/templateexporter.py", line 396, in from_file
+    return super().from_file(file_stream, resources, **kw)  # type:ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/exporters/exporter.py", line 220, in from_file
+    return self.from_notebook_node(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/exporters/html.py", line 278, in from_notebook_node
+    html, resources = super().from_notebook_node(nb, resources, **kw)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/exporters/templateexporter.py", line 412, in from_notebook_node
+    nb_copy, resources = super().from_notebook_node(nb, resources, **kw)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/exporters/exporter.py", line 154, in from_notebook_node
+    nb_copy, resources = self._preprocess(nb_copy, resources)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/exporters/exporter.py", line 353, in _preprocess
+    nbc, resc = preprocessor(nbc, resc)
+                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/preprocessors/base.py", line 48, in __call__
+    return self.preprocess(nb, resources)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/preprocessors/execute.py", line 103, in preprocess
+    self.preprocess_cell(cell, resources, index)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/preprocessors/execute.py", line 124, in preprocess_cell
+    cell = self.execute_cell(cell, index, store_history=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 165, in wrapped
+    return loop.run_until_complete(inner)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/asyncio/base_events.py", line 685, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbclient/client.py", line 1062, in async_execute_cell
+    await self._check_raise_for_error(cell, cell_index, exec_reply)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbclient/client.py", line 918, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+if(!cache_cellchat) {
+    
+    cellchat_1 <- cellchat_pp(subset(so, subset=sample_group=="Baseline"), group_by="celltype_high")
+    saveRDS(cellchat_1, "data/cci/cellchat_bseline_celltype_high_1.rds")
+
+} else {
+    
+    cellchat_1 <- readRDS("data/cci/cellchat_bseline_celltype_high_1.rds")
+    
+}
+------------------
+
+
+[1m[33mError[39m in `FetchData()`:[22m
+[33m![39m None of the requested variables were found: 
+Traceback:
+
+1. GetAssayData(so, assay = "RNA", slot = "data")
+2. subset(so, subset = sample_group == "Baseline")
+3. subset(so, subset = sample_group == "Baseline")
+4. subset.Seurat(so, subset = sample_group == "Baseline")
+5. WhichCells(object = x, cells = cells, idents = idents, expression = subset, 
+ .     return.null = TRUE, ...)
+6. WhichCells.Seurat(object = x, cells = cells, idents = idents, 
+ .     expression = subset, return.null = TRUE, ...)
+7. FetchData(object = object, vars = unique(x = expr.char[vars.use]), 
+ .     cells = cells, layer = slot)
+8. FetchData.Seurat(object = object, vars = unique(x = expr.char[vars.use]), 
+ .     cells = cells, layer = slot)
+9. abort(message = paste0("None of the requested variables were found", 
+ .     m2, ": ", paste(head(x = vars.missing, n = 10L), collapse = ", ")), 
+ .     class = "varsNotFoundError")
+10. signal_abort(cnd, .file)
+11. signalCondition(cnd)
+

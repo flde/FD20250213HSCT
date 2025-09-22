@@ -1,0 +1,112 @@
+[I::main] start time: 2025-03-11 09:00:11
+[W::check_args] Max depth set to maximum value (2147483647)
+[W::check_args] Max pileup set to maximum value (2147483647)
+[I::main] global settings after checking:
+	num of input files = 1
+	out_dir = /research/peer/fdeckert/FD20250213HSCT/data/genotype/2_cellsnp/Patient_5_cellsnp_0
+	is_out_zip = 1, is_genotype = 0
+	is_target = 0, num_of_pos = 0
+	num_of_barcodes = 77651, num_of_samples = 0
+	refseq file = (null)
+	0 chroms: 
+	cell-tag = CB, umi-tag = UB
+	nthreads = 16, tp_max_open = 131072
+	mthreads = 16, tp_errno = 0, tp_ntry = 0
+	min_count = 20, min_maf = 0.00, double_gl = 0
+	min_len = 30, min_mapq = 20
+	rflag_filter = 772, rflag_require = 0
+	max_depth = 2147483647, max_pileup = 2147483647, no_orphan = 1
+[I::main] loading the VCF file for given SNPs ...
+[I::main] fetching 36305578 candidate variants ...
+[I::main] mode 1a: fetch given SNPs in 77651 single cells.
+[I::csp_fetch_core][Thread-8] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-3] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-7] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-4] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-11] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-1] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-13] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-5] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-6] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-2] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-14] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-15] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-12] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-10] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-9] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-0] 2.00% SNPs processed.
+[I::csp_fetch_core][Thread-3] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-4] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-8] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-1] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-6] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-11] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-13] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-7] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-14] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-5] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-2] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-12] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-10] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-15] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-0] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-9] 4.00% SNPs processed.
+[I::csp_fetch_core][Thread-8] 6.00% SNPs processed.
+[I::csp_fetch_core][Thread-6] 6.00% SNPs processed.
+[I::csp_fetch_core][Thread-3] 6.00% SNPs processed.
+[I::csp_fetch_core][Thread-1] 6.00% SNPs processed.
+[I::csp_fetch_core][Thread-11] 6.00% SNPs processed.
+[I::csp_fetch_core][Thread-4] 6.00% SNPs processed.
+[I::csp_fetch_core][Thread-14] 6.00% SNPs processed.
+[I::csp_fetch_core][Thread-7] 6.00% SNPs processed.
+[I::csp_fetch_core][Thread-13] 6.00% SNPs processed.
+[I::csp_fetch_core][Thread-5] 6.00% SNPs processed.
+[I::csp_fetch_core][Thread-2] 6.00% SNPs processed.
+[I::csp_fetch_core][Thread-10] 6.00% SNPs processed.
+[I::csp_fetch_core][Thread-12] 6.00% SNPs processed.
+[I::csp_fetch_core][Thread-15] 6.00% SNPs processed.
+[I::csp_fetch_core][Thread-0] 6.00% SNPs processed.
+[I::csp_fetch_core][Thread-9] 6.00% SNPs processed.
+[I::csp_fetch_core][Thread-8] 8.00% SNPs processed.
+[I::csp_fetch_core][Thread-6] 8.00% SNPs processed.
+[I::csp_fetch_core][Thread-14] 8.00% SNPs processed.
+[I::csp_fetch_core][Thread-1] 8.00% SNPs processed.
+[I::csp_fetch_core][Thread-11] 8.00% SNPs processed.
+[I::csp_fetch_core][Thread-3] 8.00% SNPs processed.
+[I::csp_fetch_core][Thread-4] 8.00% SNPs processed.
+[I::csp_fetch_core][Thread-13] 8.00% SNPs processed.
+[I::csp_fetch_core][Thread-5] 8.00% SNPs processed.
+[I::csp_fetch_core][Thread-7] 8.00% SNPs processed.
+[I::csp_fetch_core][Thread-2] 8.00% SNPs processed.
+[I::csp_fetch_core][Thread-10] 8.00% SNPs processed.
+[I::csp_fetch_core][Thread-12] 8.00% SNPs processed.
+[I::csp_fetch_core][Thread-15] 8.00% SNPs processed.
+[I::csp_fetch_core][Thread-9] 8.00% SNPs processed.
+[I::csp_fetch_core][Thread-0] 8.00% SNPs processed.
+[I::csp_fetch_core][Thread-8] 10.00% SNPs processed.
+[I::csp_fetch_core][Thread-14] 10.00% SNPs processed.
+[I::csp_fetch_core][Thread-6] 10.00% SNPs processed.
+[I::csp_fetch_core][Thread-1] 10.00% SNPs processed.
+[I::csp_fetch_core][Thread-11] 10.00% SNPs processed.
+[I::csp_fetch_core][Thread-3] 10.00% SNPs processed.
+[I::csp_fetch_core][Thread-13] 10.00% SNPs processed.
+[I::csp_fetch_core][Thread-4] 10.00% SNPs processed.
+[I::csp_fetch_core][Thread-5] 10.00% SNPs processed.
+[I::csp_fetch_core][Thread-7] 10.00% SNPs processed.
+[I::csp_fetch_core][Thread-2] 10.00% SNPs processed.
+[I::csp_fetch_core][Thread-12] 10.00% SNPs processed.
+[I::csp_fetch_core][Thread-10] 10.00% SNPs processed.
+[I::csp_fetch_core][Thread-15] 10.00% SNPs processed.
+[I::csp_fetch_core][Thread-9] 10.00% SNPs processed.
+[I::csp_fetch_core][Thread-0] 10.00% SNPs processed.
+[I::csp_fetch_core][Thread-8] 12.00% SNPs processed.
+[I::csp_fetch_core][Thread-14] 12.00% SNPs processed.
+[I::csp_fetch_core][Thread-6] 12.00% SNPs processed.
+[I::csp_fetch_core][Thread-11] 12.00% SNPs processed.
+[I::csp_fetch_core][Thread-1] 12.00% SNPs processed.
+[I::csp_fetch_core][Thread-3] 12.00% SNPs processed.
+[I::csp_fetch_core][Thread-4] 12.00% SNPs processed.
+[I::csp_fetch_core][Thread-13] 12.00% SNPs processed.
+[I::csp_fetch_core][Thread-7] 12.00% SNPs processed.
+[I::csp_fetch_core][Thread-2] 12.00% SNPs processed.
+[I::csp_fetch_core][Thread-5] 12.00% SNPs processed.

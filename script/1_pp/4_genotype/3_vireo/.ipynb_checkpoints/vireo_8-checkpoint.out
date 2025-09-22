@@ -1,0 +1,17 @@
+Patient_9
+/research/peer/fdeckert/FD20250213HSCT/data/genotype/2_cellsnp/
+/research/peer/fdeckert/FD20250213HSCT/data/genotype/3_vireo/
+[vireo] Loading cell folder ...
+[vireo] Demultiplex 13825 cells to 2 donors with 237841 variants.
+[vireo] lower bound ranges [-3124145.0, -3121172.5, -3120165.9]
+[vireo] allelic rate mean and concentrations:
+[[0.001 0.436 0.993]]
+[[59264065.8  5230483.   1761145.2]]
+[vireo] donor size before removing doublets:
+donor0	donor1
+4284	9541
+[vireo] final donor size:
+donor0	donor1	doublet	unassigned
+3767	9236	598	224
+[vireo] All done: 29 min 55.3 sec
+

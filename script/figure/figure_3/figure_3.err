@@ -1,0 +1,182 @@
+[NbConvertApp] Converting notebook figure_3.r.ipynb to html
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[d020:865408:0:865408] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+==== backtrace (tid: 865408) ====
+ 0  /nobackup/peer/fdeckert/miniconda3/envs/p.3.10.16-FD20250213HSCT/lib/python3.10/site-packages/h5py/../../../././libucs.so.0(ucs_handle_error+0x305) [0x15549ba39015]
+ 1  /nobackup/peer/fdeckert/miniconda3/envs/p.3.10.16-FD20250213HSCT/lib/python3.10/site-packages/h5py/../../../././libucs.so.0(+0x2f214) [0x15549ba39214]
+ 2  /nobackup/peer/fdeckert/miniconda3/envs/p.3.10.16-FD20250213HSCT/lib/python3.10/site-packages/h5py/../../../././libucs.so.0(+0x2f3da) [0x15549ba393da]
+ 3  /lib64/libc.so.6(+0x4e5b0) [0x155554b0b5b0]
+ 4  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/library/Matrix/libs/Matrix.so(+0x11fc84) [0x15550b86bc84]
+ 5  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/library/Matrix/libs/Matrix.so(+0x11ff07) [0x15550b86bf07]
+ 6  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/library/lme4/libs/lme4.so(_ZN4lme48merPredDC2EP7SEXPRECS2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_+0x77d) [0x1554761050cd]
+ 7  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/library/lme4/libs/lme4.so(merPredDCreate+0x127) [0x1554760d3b67]
+ 8  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x106174) [0x155554f9a174]
+ 9  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x106906) [0x155554f9a906]
+10  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(Rf_eval+0x83c) [0x155554ff32ec]
+11  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x163e84) [0x155554ff7e84]
+12  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(Rf_eval+0x599) [0x155554ff3049]
+13  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x162959) [0x155554ff6959]
+14  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(Rf_eval+0x599) [0x155554ff3049]
+15  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x160e47) [0x155554ff4e47]
+16  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x161bc7) [0x155554ff5bc7]
+17  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(Rf_eval+0x29e) [0x155554ff2d4e]
+18  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x162959) [0x155554ff6959]
+19  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(Rf_eval+0x599) [0x155554ff3049]
+20  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x160e47) [0x155554ff4e47]
+21  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x161bc7) [0x155554ff5bc7]
+22  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x14e192) [0x155554fe2192]
+23  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x15e8be) [0x155554ff28be]
+24  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(Rf_eval+0x7b) [0x155554ff2b2b]
+25  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x160e47) [0x155554ff4e47]
+26  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(R_execMethod+0x243) [0x155554ff5f13]
+27  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/library/methods/libs/methods.so(+0x51fe) [0x15550decd1fe]
+28  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x1ab10b) [0x15555503f10b]
+29  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x1548e5) [0x155554fe88e5]
+30  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x15e8be) [0x155554ff28be]
+31  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(Rf_eval+0x7b) [0x155554ff2b2b]
+32  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x160e47) [0x155554ff4e47]
+33  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x161bc7) [0x155554ff5bc7]
+34  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(Rf_eval+0x29e) [0x155554ff2d4e]
+35  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x162959) [0x155554ff6959]
+36  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(Rf_eval+0x599) [0x155554ff3049]
+37  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x160e47) [0x155554ff4e47]
+38  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x161bc7) [0x155554ff5bc7]
+39  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(Rf_eval+0x29e) [0x155554ff2d4e]
+40  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0xcd445) [0x155554f61445]
+41  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x148481) [0x155554fdc481]
+42  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x15e8be) [0x155554ff28be]
+43  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(Rf_eval+0x7b) [0x155554ff2b2b]
+44  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x160e47) [0x155554ff4e47]
+45  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x161bc7) [0x155554ff5bc7]
+46  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(Rf_eval+0x29e) [0x155554ff2d4e]
+47  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0xcd445) [0x155554f61445]
+48  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x148481) [0x155554fdc481]
+49  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x15e8be) [0x155554ff28be]
+50  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(Rf_eval+0x7b) [0x155554ff2b2b]
+51  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x160e47) [0x155554ff4e47]
+52  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x161bc7) [0x155554ff5bc7]
+53  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x1625f9) [0x155554ff65f9]
+54  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x1a8856) [0x15555503c856]
+55  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x1a8f33) [0x15555503cf33]
+56  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x1a92d2) [0x15555503d2d2]
+57  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x1482b8) [0x155554fdc2b8]
+58  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x15e8be) [0x155554ff28be]
+59  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(Rf_eval+0x7b) [0x155554ff2b2b]
+60  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x160e47) [0x155554ff4e47]
+61  /nobackup/peer/fdeckert/miniconda3/envs/r.4.4.1-FD20250213HSCT/lib/R/bin/exec/../../lib/libR.so(+0x161bc7) [0x155554ff5bc7]
+=================================
+
+ *** caught segfault ***
+address 0x2a5e000d3480, cause 'unknown'
+
+Traceback:
+ 1: .Call(merPredDCreate, as(X, "matrix"), Lambdat, LamtUt, Lind,     RZX, Ut, Utr, V, VtV, Vtr, Xwts, Zt, beta0, delb, delu, theta,     u0)
+ 2: initializePtr()
+ 3: .Object$initialize(...)
+ 4: initialize(value, ...)
+ 5: initialize(value, ...)
+ 6: methods::new(def, ...)
+ 7: (new("refMethodDef", .Data = function (...) {    methods::new(def, ...)}, mayCall = c("methods", "new"), name = "new", refClassName = "refGeneratorSlot",     superClassMethod = ""))(Zt = new("dgCMatrix", i = c(0L, 0L, 0L, 1L, 2L, 3L, 4L, 4L, 5L, 5L, 5L, 5L, 6L, 6L, 6L, 6L, 7L, 7L, 7L, 8L, 8L, 8L, 9L, 9L, 9L, 10L, 11L), p = 0:27, Dim = c(12L, 27L), Dimnames = list(c("Patient_1", "Patient_10", "Patient_11", "Patient_12", "Patient_2", "Patient_3", "Patient_4", "Patient_5", "Patient_6", "Patient_7", "Patient_8", "Patient_9"), c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27")), x = c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), factors = list()), theta = 1,     Lambdat = new("dgCMatrix", i = 0:11, p = 0:12, Dim = c(12L,     12L), Dimnames = list(NULL, NULL), x = c(1, 1, 1, 1, 1, 1,     1, 1, 1, 1, 1, 1), factors = list()), Lind = c(1L, 1L, 1L,     1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L), n = 27L, X = c(1, 1,     1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,     1, 1, 1, 1, 1, 1, 1, 0, 0, -1, -1, -1, 1, 0, 1, 0, 0, 0,     1, 0, 0, 0, 1, 0, 0, 1, 0, -1, 1, 0, 0, -1, -1, 0, 0, 1,     -1, -1, -1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0,     -1, 0, 0, 0, -1, -1, 0, 1, 0, -1, -1, -1, 0, 0, 0, 0, 1,     0, 0, 0, 1, 0, 0, 0, 1, 0, 1, -1, 0, 0, 1, -1, -1, 0, 0,     0, -1, -1, -1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0,     0, -1, 0, 1, 0, -1, -1))
+ 8: do.call(merPredD$new, c(reTrms[c("Zt", "theta", "Lambdat", "Lind")],     n = nrow(X), list(X = X)))
+ 9: (function (fr, X, reTrms, REML = TRUE, start = NULL, verbose = 0,     control = lmerControl(), ...) {    p <- ncol(X)    rho <- new.env(parent = parent.env(environment()))    rho$pp <- do.call(merPredD$new, c(reTrms[c("Zt", "theta",         "Lambdat", "Lind")], n = nrow(X), list(X = X)))    REMLpass <- if (REML)         p    else 0L    rho$resp <- if (missing(fr))         mkRespMod(REML = REMLpass, ...)    else mkRespMod(fr, REML = REMLpass)    pp <- resp <- NULL    rho$lmer_Deviance <- lmer_Deviance    devfun <- function(theta) .Call(lmer_Deviance, pp$ptr(),         resp$ptr(), as.double(theta))    environment(devfun) <- rho    if (is.null(start) && all(reTrms$cnms == "(Intercept)") &&         length(reTrms$flist) == length(reTrms$lower) && !is.null(y <- model.response(fr))) {        v <- sapply(reTrms$flist, function(f) var(ave(y, f)))        v.e <- var(y) - sum(v)        if (!is.na(v.e) && v.e > 0) {            v.rel <- v/v.e            if (all(v.rel >= reTrms$lower^2))                 rho$pp$setTheta(sqrt(v.rel))        }    }    if (length(rho$resp$y) > 0)         devfun(rho$pp$theta)    rho$lower <- reTrms$lower    devfun})(fr = list(.y = c(20, 18, 13, 3.5, 3.5, 19, 24, 25, 21, 3.5, 26.5, 3.5, 9, 8, 26.5, 23, 17, 11, 3.5, 16, 14, 3.5, 22, 12, 15, 10, 7), time_point = c(1L, 3L, 2L, 5L, 5L, 5L, 1L, 2L, 1L, 4L, 3L, 2L, 1L, 4L, 3L, 2L, 1L, 4L, 3L, 1L, 3L, 5L, 1L, 4L, 3L, 5L, 5L), patient_id = c(1L, 1L, 1L, 2L, 3L, 4L, 5L, 5L, 6L, 6L, 6L, 6L, 7L, 7L, 7L, 7L, 8L, 8L, 8L, 9L, 9L, 9L, 10L, 10L, 10L, 11L, 12L)), X = c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, -1, -1, -1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, -1, 1, 0, 0, -1, -1, 0, 0, 1, -1, -1, -1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, -1, 0, 0, 0, -1, -1, 0, 1, 0, -1, -1, -1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, -1, 0, 0, 1, -1, -1, 0, 0, 0, -1, -1, -1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, -1, 0, 1, 0, -1, -1), reTrms = list(Zt = new("dgCMatrix", i = c(0L, 0L, 0L, 1L, 2L, 3L, 4L, 4L, 5L, 5L, 5L, 5L, 6L, 6L, 6L, 6L, 7L, 7L, 7L, 8L, 8L, 8L, 9L, 9L, 9L, 10L, 11L), p = 0:27, Dim = c(12L, 27L), Dimnames = list(c("Patient_1", "Patient_10", "Patient_11", "Patient_12", "Patient_2", "Patient_3", "Patient_4", "Patient_5", "Patient_6", "Patient_7", "Patient_8", "Patient_9"), c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27")), x = c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), factors = list()), theta = 1,     Lind = c(1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L),     Gp = c(0L, 12L), lower = 0, Lambdat = new("dgCMatrix", i = 0:11,         p = 0:12, Dim = c(12L, 12L), Dimnames = list(NULL, NULL),         x = c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), factors = list()),     flist = list(patient_id = c(1L, 1L, 1L, 2L, 3L, 4L, 5L, 5L,     6L, 6L, 6L, 6L, 7L, 7L, 7L, 7L, 8L, 8L, 8L, 9L, 9L, 9L, 10L,     10L, 10L, 11L, 12L)), cnms = list(patient_id = "(Intercept)"),     Ztlist = list(`1 | patient_id` = new("dgCMatrix", i = c(0L,     0L, 0L, 1L, 2L, 3L, 4L, 4L, 5L, 5L, 5L, 5L, 6L, 6L, 6L, 6L,     7L, 7L, 7L, 8L, 8L, 8L, 9L, 9L, 9L, 10L, 11L), p = 0:27,         Dim = c(12L, 27L), Dimnames = list(c("Patient_1", "Patient_10",         "Patient_11", "Patient_12", "Patient_2", "Patient_3",         "Patient_4", "Patient_5", "Patient_6", "Patient_7", "Patient_8",         "Patient_9"), c("1", "2", "3", "4", "5", "6", "7", "8",         "9", "10", "11", "12", "13", "14", "15", "16", "17",         "18", "19", "20", "21", "22", "23", "24", "25", "26",         "27")), x = c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), factors = list())),     nl = c(patient_id = 12L)), REML = TRUE, wmsgs = character(0),     start = NULL, verbose = 0L, control = list(optimizer = "nloptwrap",         restart_edge = TRUE, boundary.tol = 1e-05, calc.derivs = TRUE,         use.last.params = FALSE, checkControl = list(check.nobs.vs.rankZ = "ignore",             check.nobs.vs.nlev = "stop", check.nlev.gtreq.5 = "ignore",             check.nlev.gtr.1 = "stop", check.nobs.vs.nRE = "stop",             check.rankX = "message+drop.cols", check.scaleX = "warning",             check.formula.LHS = "stop"), checkConv = list(check.conv.grad = list(            action = "warning", tol = 0.002, relTol = NULL),             check.conv.singular = list(action = "message", tol = 1e-04),             check.conv.hess = list(action = "warning", tol = 1e-06)),         optCtrl = list()))
+10: do.call(mkLmerDevfun, c(lmod, list(start = start, verbose = verbose,     control = control)))
+11: lmer(f, data = df, ...)
+12: tryCatchList(expr, classes, parentenv, handlers)
+13: tryCatch({    options(contrasts = c(factor.contrasts, original.contrasts[-1]))    df = m$data    df$.y = switch(response, aligned = m$aligned[[term]], art = m$aligned.ranks[[term]])    f = update(m$formula, .y ~ .)    environment(f) = sys.frame(sys.nframe())    if (m$n.grouping.terms > 0) {        m = lmer(f, data = df, ...)    }    else if (m$n.error.terms > 0) {        m = aov(f, data = df, ...)    }    else {        m = lm(f, data = df, ...)    }    attr(m, "term") = term    attr(m, "response") = response    m}, finally = {    options(contrasts = original.contrasts)})
+14: artlm(m, aligned.by.term, response = response, factor.contrasts = factor.contrasts)
+15: anova.art(model)
+16: anova(model)
+17: eval(expr, envir)
+18: eval(expr, envir)
+19: withVisible(eval(expr, envir))
+20: withCallingHandlers(code, message = function (cnd) {    watcher$capture_plot_and_output()    if (on_message$capture) {        watcher$push(cnd)    }    if (on_message$silence) {        invokeRestart("muffleMessage")    }}, warning = function (cnd) {    if (getOption("warn") >= 2 || getOption("warn") < 0) {        return()    }    watcher$capture_plot_and_output()    if (on_warning$capture) {        cnd <- sanitize_call(cnd)        watcher$push(cnd)    }    if (on_warning$silence) {        invokeRestart("muffleWarning")    }}, error = function (cnd) {    watcher$capture_plot_and_output()    cnd <- sanitize_call(cnd)    watcher$push(cnd)    switch(on_error, continue = invokeRestart("eval_continue"),         stop = invokeRestart("eval_stop"), error = NULL)})
+21: eval(call)
+22: eval(call)
+23: with_handlers({    for (expr in tle$exprs) {        ev <- withVisible(eval(expr, envir))        watcher$capture_plot_and_output()        watcher$print_value(ev$value, ev$visible, envir)    }    TRUE}, handlers)
+24: doWithOneRestart(return(expr), restart)
+25: withOneRestart(expr, restarts[[1L]])
+26: withRestartList(expr, restarts[-nr])
+27: doWithOneRestart(return(expr), restart)
+28: withOneRestart(withRestartList(expr, restarts[-nr]), restarts[[nr]])
+29: withRestartList(expr, restarts)
+30: withRestarts(with_handlers({    for (expr in tle$exprs) {        ev <- withVisible(eval(expr, envir))        watcher$capture_plot_and_output()        watcher$print_value(ev$value, ev$visible, envir)    }    TRUE}, handlers), eval_continue = function() TRUE, eval_stop = function() FALSE)
+31: evaluate(request$content$code, envir = .GlobalEnv, output_handler = oh,     stop_on_error = 1L)
+32: doTryCatch(return(expr), name, parentenv, handler)
+33: tryCatchOne(expr, names, parentenv, handlers[[1L]])
+34: tryCatchList(expr, names[-nh], parentenv, handlers[-nh])
+35: doTryCatch(return(expr), name, parentenv, handler)
+36: tryCatchOne(tryCatchList(expr, names[-nh], parentenv, handlers[-nh]),     names[nh], parentenv, handlers[[nh]])
+37: tryCatchList(expr, classes, parentenv, handlers)
+38: tryCatch(evaluate(request$content$code, envir = .GlobalEnv, output_handler = oh,     stop_on_error = 1L), interrupt = function(cond) {    log_debug("Interrupt during execution")    interrupted <<- TRUE}, error = .self$handle_error)
+39: executor$execute(msg)
+40: handle_shell()
+41: kernel$run()
+42: IRkernel::main()
+An irrecoverable exception occurred. R is aborting now ...
+[NbConvertApp] ERROR | Kernel died while waiting for execute reply.
+Traceback (most recent call last):
+  File "/nobackup/peer/fdeckert/miniconda3/bin/jupyter-nbconvert", line 10, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/jupyter_core/application.py", line 283, in launch_instance
+    super().launch_instance(argv=argv, **kwargs)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/traitlets/config/application.py", line 1075, in launch_instance
+    app.start()
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/nbconvertapp.py", line 420, in start
+    self.convert_notebooks()
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/nbconvertapp.py", line 597, in convert_notebooks
+    self.convert_single_notebook(notebook_filename)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/nbconvertapp.py", line 563, in convert_single_notebook
+    output, resources = self.export_single_notebook(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/nbconvertapp.py", line 487, in export_single_notebook
+    output, resources = self.exporter.from_filename(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/exporters/templateexporter.py", line 390, in from_filename
+    return super().from_filename(filename, resources, **kw)  # type:ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/exporters/exporter.py", line 201, in from_filename
+    return self.from_file(f, resources=resources, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/exporters/templateexporter.py", line 396, in from_file
+    return super().from_file(file_stream, resources, **kw)  # type:ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/exporters/exporter.py", line 220, in from_file
+    return self.from_notebook_node(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/exporters/html.py", line 278, in from_notebook_node
+    html, resources = super().from_notebook_node(nb, resources, **kw)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/exporters/templateexporter.py", line 412, in from_notebook_node
+    nb_copy, resources = super().from_notebook_node(nb, resources, **kw)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/exporters/exporter.py", line 154, in from_notebook_node
+    nb_copy, resources = self._preprocess(nb_copy, resources)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/exporters/exporter.py", line 353, in _preprocess
+    nbc, resc = preprocessor(nbc, resc)
+                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/preprocessors/base.py", line 48, in __call__
+    return self.preprocess(nb, resources)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/preprocessors/execute.py", line 103, in preprocess
+    self.preprocess_cell(cell, resources, index)
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbconvert/preprocessors/execute.py", line 124, in preprocess_cell
+    cell = self.execute_cell(cell, index, store_history=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 165, in wrapped
+    return loop.run_until_complete(inner)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/asyncio/base_events.py", line 685, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/nobackup/peer/fdeckert/miniconda3/lib/python3.12/site-packages/nbclient/client.py", line 1009, in async_execute_cell
+    raise DeadKernelError("Kernel died") from None
+nbclient.exceptions.DeadKernelError: Kernel died
