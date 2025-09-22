@@ -1,6 +1,4 @@
 # FD20250213HSCT
-Human type 17 tissue-resident memory T cells are dysfunctional in type 1-driven skin inflammation
+Disruption of skin homeostasis reveals unequal reconstitution dynamics of human skin tissue-resident memory T cell subsets
 
-In this study we applied high-resolution single-cell transcriptomic profiling, protein validation and functional evaluation to longitudinal skin and blood samples in patients during hematopoietic stem cell transplantation to uncover that type 17-polarized CCR6+ CD127+ CD8+ tissue resident memory T cells are a distinct lineage in homeostasis and decreased and functionally impaired in cutaneous acute graft-versus-host disease as an exemplary type 1-driven inflammation.
-
-This repository is a new version of FD20220623HSCT with additional samples and updated code. 
+Tissue-resident memory T cells (TRM) maintain homeostasis while also driving inflammatory conditions but underlying regulatory dynamics in humans are poorly understood. Here, we investigate human skin TRM biology in a unique clinical setting: patients undergoing allogeneic hematopoietic stem cell transplantation, with or without graft-versus-host disease (GVHD). Using single-cell RNA and TCR sequencing, we comprehensively explore TRM dynamics, uncovering their alterations in the skin TRM pool in steady-state and inflammation. 
