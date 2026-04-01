@@ -43,14 +43,18 @@ dea_vp <- function(dea, log2fc_thr=0, p_adj_thr=0.05, top_label=15, title=NULL, 
 
     # Set plotting order 
     dea$color <- factor(dea$color, levels=rev(c("ns", "s_neg", "s_pos")))
-    dea <- dea[order(dea$color, decreasing = TRUE), ]
+    dea <- dea[order(dea$color, decreasing=TRUE), ]
+
+    dea <- dea %>% dplyr::mutate(label=ifelse(color %in% c("s_neg", "s_pos"), label, NA))
+    dea <- dea %>% dplyr::mutate(label_color=ifelse(color=="s_neg" & !is.na(label), color[1], ifelse(color=="s_pos" & !is.na(label), color[2], "#000000")))
+    
     
     # Plot
     vp <- ggplot(dea, aes(x=AveExpr, y=avg_log2FC, color=color, label=label), alpha=1) + 
     
         geom_point(size=1, shape=16) + # set 1
         geom_hline(aes(yintercept=0), linetype="dotted", colour="black") +
-        ggrepel::geom_text_repel(segment.color="black", force=10, force_pull=1, max.overlaps=getOption("ggrepel.max.overlaps", default=100), size=label_size, alpha=1, segment.size=0.05, color="black", fontface="italic") +  # set 2
+        ggrepel::geom_text_repel(aes(color=color), segment.color="black", force=10, force_pull=1, max.overlaps=getOption("ggrepel.max.overlaps", default=100), size=label_size, alpha=1, segment.size=0.05, fontface="italic") +  # set 2
         ylim(-max(abs(dea$avg_log2FC))-1, max(abs(dea$avg_log2FC))+1) +  
         ggtitle(ifelse(parse_title, parse(text=title), title)) + xlab("average expression") + ylab("log2FC") + 
         scale_color_manual(values=rev(color[c(3, 1, 2)])) + 
