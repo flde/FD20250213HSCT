@@ -1,0 +1,1814 @@
+2026-06-12 12:03:20,439 - DEBUG - Using logic: Permissive10X
+2026-06-12 12:03:20,494 - INFO - Read 62018 cell barcodes from /research/lab_stary/sequencing_projects/hsct/COUNT/HSCT_7833_transcriptome/filtered_feature_bc_matrix/barcodes.tsv.gz
+2026-06-12 12:03:20,494 - DEBUG - Example of barcode: AAACCTGAGACTTGAA and cell_id: velocyto:AAACCTGAGACTTGAA-1
+2026-06-12 12:03:20,498 - DEBUG - Peeking into /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/HSCT_7833_transcriptome/possorted_genome_bam.bam
+2026-06-12 12:03:20,516 - WARNING - Not found cell and umi barcode in entry 2 of the bam file
+2026-06-12 12:03:20,516 - WARNING - Not found cell and umi barcode in entry 13 of the bam file
+2026-06-12 12:03:20,516 - WARNING - Not found cell and umi barcode in entry 23 of the bam file
+2026-06-12 12:03:20,516 - WARNING - Not found cell and umi barcode in entry 30 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 44 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 48 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 54 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 73 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 100 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 103 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 113 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 114 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 121 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 122 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 125 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 135 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 146 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 149 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 152 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 160 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 164 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 174 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 178 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 185 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 188 of the bam file
+2026-06-12 12:03:20,517 - WARNING - Not found cell and umi barcode in entry 193 of the bam file
+2026-06-12 12:03:20,518 - WARNING - Not found cell and umi barcode in entry 214 of the bam file
+2026-06-12 12:03:20,518 - WARNING - Not found cell and umi barcode in entry 245 of the bam file
+2026-06-12 12:03:20,518 - WARNING - Not found cell and umi barcode in entry 266 of the bam file
+2026-06-12 12:03:20,518 - WARNING - Not found cell and umi barcode in entry 295 of the bam file
+2026-06-12 12:03:20,518 - WARNING - Not found cell and umi barcode in entry 296 of the bam file
+2026-06-12 12:03:20,518 - WARNING - Not found cell and umi barcode in entry 303 of the bam file
+2026-06-12 12:03:20,518 - WARNING - Not found cell and umi barcode in entry 306 of the bam file
+2026-06-12 12:03:20,518 - WARNING - Not found cell and umi barcode in entry 307 of the bam file
+2026-06-12 12:03:20,518 - WARNING - Not found cell and umi barcode in entry 317 of the bam file
+2026-06-12 12:03:20,518 - WARNING - Not found cell and umi barcode in entry 330 of the bam file
+2026-06-12 12:03:20,518 - WARNING - Not found cell and umi barcode in entry 331 of the bam file
+2026-06-12 12:03:20,518 - WARNING - Not found cell and umi barcode in entry 346 of the bam file
+2026-06-12 12:03:20,518 - WARNING - Not found cell and umi barcode in entry 352 of the bam file
+2026-06-12 12:03:20,518 - WARNING - Not found cell and umi barcode in entry 359 of the bam file
+2026-06-12 12:03:20,518 - WARNING - Not found cell and umi barcode in entry 360 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 389 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 394 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 395 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 397 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 428 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 447 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 451 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 452 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 458 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 461 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 542 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 543 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 570 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 576 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 597 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 610 of the bam file
+2026-06-12 12:03:20,519 - WARNING - Not found cell and umi barcode in entry 617 of the bam file
+2026-06-12 12:03:20,520 - WARNING - Not found cell and umi barcode in entry 644 of the bam file
+2026-06-12 12:03:20,520 - WARNING - Not found cell and umi barcode in entry 666 of the bam file
+2026-06-12 12:03:20,520 - WARNING - Not found cell and umi barcode in entry 692 of the bam file
+2026-06-12 12:03:20,520 - WARNING - Not found cell and umi barcode in entry 693 of the bam file
+2026-06-12 12:03:20,520 - WARNING - Not found cell and umi barcode in entry 718 of the bam file
+2026-06-12 12:03:20,520 - WARNING - Not found cell and umi barcode in entry 731 of the bam file
+2026-06-12 12:03:20,520 - WARNING - Not found cell and umi barcode in entry 741 of the bam file
+2026-06-12 12:03:20,520 - WARNING - Not found cell and umi barcode in entry 743 of the bam file
+2026-06-12 12:03:20,520 - WARNING - Not found cell and umi barcode in entry 800 of the bam file
+2026-06-12 12:03:20,520 - WARNING - Not found cell and umi barcode in entry 827 of the bam file
+2026-06-12 12:03:20,520 - WARNING - Not found cell and umi barcode in entry 837 of the bam file
+2026-06-12 12:03:20,521 - WARNING - Not found cell and umi barcode in entry 859 of the bam file
+2026-06-12 12:03:20,521 - WARNING - Not found cell and umi barcode in entry 943 of the bam file
+2026-06-12 12:03:20,521 - WARNING - Not found cell and umi barcode in entry 997 of the bam file
+2026-06-12 12:03:20,522 - WARNING - Not found cell and umi barcode in entry 1005 of the bam file
+2026-06-12 12:03:20,522 - WARNING - Not found cell and umi barcode in entry 1015 of the bam file
+2026-06-12 12:03:20,522 - WARNING - Not found cell and umi barcode in entry 1024 of the bam file
+2026-06-12 12:03:20,522 - WARNING - Not found cell and umi barcode in entry 1026 of the bam file
+2026-06-12 12:03:20,522 - WARNING - Not found cell and umi barcode in entry 1027 of the bam file
+2026-06-12 12:03:20,522 - WARNING - Not found cell and umi barcode in entry 1050 of the bam file
+2026-06-12 12:03:20,525 - INFO - Starting the sorting process of /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/HSCT_7833_transcriptome/possorted_genome_bam.bam the output will be at: /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/HSCT_7833_transcriptome/cellsorted_possorted_genome_bam.bam
+2026-06-12 12:03:20,525 - INFO - Command being run is: samtools sort -l 7 -m 100M -t CB -O BAM -@ 16 -o /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/HSCT_7833_transcriptome/cellsorted_possorted_genome_bam.bam /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/HSCT_7833_transcriptome/possorted_genome_bam.bam
+2026-06-12 12:03:20,526 - INFO - While the bam sorting happens do other things...
+2026-06-12 12:03:20,526 - INFO - Load the annotation from /nobackup/peer/fdeckert/cellranger/GRCh38-2020-A/GRCh38/genes/genes.gtf
+2026-06-12 12:03:26,045 - DEBUG - Parsing Chromosome GL000009.2 strand - [line 0]
+2026-06-12 12:03:26,045 - DEBUG - Done with GL000009.2- [line 7]
+2026-06-12 12:03:26,045 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,045 - DEBUG - Seen 1 genes until now
+2026-06-12 12:03:26,045 - DEBUG - Parsing Chromosome GL000194.1 strand - [line 8]
+2026-06-12 12:03:26,045 - DEBUG - Done with GL000194.1- [line 33]
+2026-06-12 12:03:26,045 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,045 - DEBUG - Seen 3 genes until now
+2026-06-12 12:03:26,046 - DEBUG - Parsing Chromosome GL000195.1 strand - [line 34]
+2026-06-12 12:03:26,046 - DEBUG - Done with GL000195.1- [line 43]
+2026-06-12 12:03:26,046 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,046 - DEBUG - Seen 4 genes until now
+2026-06-12 12:03:26,046 - DEBUG - Parsing Chromosome GL000195.1 strand + [line 44]
+2026-06-12 12:03:26,046 - DEBUG - Done with GL000195.1+ [line 57]
+2026-06-12 12:03:26,046 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,046 - DEBUG - Seen 5 genes until now
+2026-06-12 12:03:26,046 - DEBUG - Parsing Chromosome GL000205.2 strand - [line 58]
+2026-06-12 12:03:26,046 - DEBUG - Done with GL000205.2- [line 71]
+2026-06-12 12:03:26,046 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,046 - DEBUG - Seen 6 genes until now
+2026-06-12 12:03:26,046 - DEBUG - Parsing Chromosome GL000213.1 strand - [line 72]
+2026-06-12 12:03:26,046 - DEBUG - Done with GL000213.1- [line 120]
+2026-06-12 12:03:26,046 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,046 - DEBUG - Seen 7 genes until now
+2026-06-12 12:03:26,046 - DEBUG - Parsing Chromosome GL000218.1 strand - [line 121]
+2026-06-12 12:03:26,047 - DEBUG - Done with GL000218.1- [line 128]
+2026-06-12 12:03:26,047 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,047 - DEBUG - Seen 8 genes until now
+2026-06-12 12:03:26,047 - DEBUG - Parsing Chromosome GL000219.1 strand - [line 129]
+2026-06-12 12:03:26,047 - DEBUG - Done with GL000219.1- [line 141]
+2026-06-12 12:03:26,047 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,047 - DEBUG - Seen 9 genes until now
+2026-06-12 12:03:26,047 - DEBUG - Parsing Chromosome KI270711.1 strand - [line 142]
+2026-06-12 12:03:26,047 - DEBUG - Done with KI270711.1- [line 292]
+2026-06-12 12:03:26,047 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,047 - DEBUG - Seen 10 genes until now
+2026-06-12 12:03:26,047 - DEBUG - Parsing Chromosome KI270713.1 strand - [line 293]
+2026-06-12 12:03:26,048 - DEBUG - Done with KI270713.1- [line 300]
+2026-06-12 12:03:26,048 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,048 - DEBUG - Seen 11 genes until now
+2026-06-12 12:03:26,048 - DEBUG - Parsing Chromosome KI270713.1 strand + [line 301]
+2026-06-12 12:03:26,048 - DEBUG - Done with KI270713.1+ [line 307]
+2026-06-12 12:03:26,048 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,048 - DEBUG - Seen 12 genes until now
+2026-06-12 12:03:26,048 - DEBUG - Parsing Chromosome KI270721.1 strand + [line 308]
+2026-06-12 12:03:26,048 - DEBUG - Done with KI270721.1+ [line 323]
+2026-06-12 12:03:26,048 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,048 - DEBUG - Seen 13 genes until now
+2026-06-12 12:03:26,048 - DEBUG - Parsing Chromosome KI270726.1 strand + [line 324]
+2026-06-12 12:03:26,048 - DEBUG - Done with KI270726.1+ [line 334]
+2026-06-12 12:03:26,048 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,048 - DEBUG - Seen 15 genes until now
+2026-06-12 12:03:26,048 - DEBUG - Parsing Chromosome KI270727.1 strand - [line 335]
+2026-06-12 12:03:26,048 - DEBUG - Done with KI270727.1- [line 394]
+2026-06-12 12:03:26,048 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,048 - DEBUG - Seen 17 genes until now
+2026-06-12 12:03:26,048 - DEBUG - Parsing Chromosome KI270727.1 strand + [line 395]
+2026-06-12 12:03:26,048 - DEBUG - Done with KI270727.1+ [line 409]
+2026-06-12 12:03:26,048 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,049 - DEBUG - Seen 19 genes until now
+2026-06-12 12:03:26,049 - DEBUG - Parsing Chromosome KI270728.1 strand - [line 410]
+2026-06-12 12:03:26,049 - DEBUG - Done with KI270728.1- [line 486]
+2026-06-12 12:03:26,049 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,049 - DEBUG - Seen 21 genes until now
+2026-06-12 12:03:26,049 - DEBUG - Parsing Chromosome KI270728.1 strand + [line 487]
+2026-06-12 12:03:26,049 - DEBUG - Done with KI270728.1+ [line 523]
+2026-06-12 12:03:26,049 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,049 - DEBUG - Seen 25 genes until now
+2026-06-12 12:03:26,049 - DEBUG - Parsing Chromosome KI270731.1 strand - [line 524]
+2026-06-12 12:03:26,049 - DEBUG - Done with KI270731.1- [line 530]
+2026-06-12 12:03:26,049 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,049 - DEBUG - Seen 26 genes until now
+2026-06-12 12:03:26,049 - DEBUG - Parsing Chromosome KI270734.1 strand - [line 531]
+2026-06-12 12:03:26,049 - DEBUG - Done with KI270734.1- [line 599]
+2026-06-12 12:03:26,049 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,049 - DEBUG - Seen 27 genes until now
+2026-06-12 12:03:26,049 - DEBUG - Parsing Chromosome KI270734.1 strand + [line 600]
+2026-06-12 12:03:26,049 - DEBUG - Done with KI270734.1+ [line 622]
+2026-06-12 12:03:26,050 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,050 - DEBUG - Seen 29 genes until now
+2026-06-12 12:03:26,050 - DEBUG - Parsing Chromosome 1 strand - [line 623]
+2026-06-12 12:03:26,601 - DEBUG - Done with 1- [line 118876]
+2026-06-12 12:03:26,601 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:26,607 - DEBUG - Seen 1711 genes until now
+2026-06-12 12:03:26,607 - DEBUG - Parsing Chromosome 1 strand + [line 118877]
+2026-06-12 12:03:27,490 - DEBUG - Done with 1+ [line 253796]
+2026-06-12 12:03:27,490 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:27,498 - DEBUG - Seen 3439 genes until now
+2026-06-12 12:03:27,499 - DEBUG - Parsing Chromosome 10 strand - [line 253797]
+2026-06-12 12:03:27,644 - DEBUG - Done with 10- [line 304078]
+2026-06-12 12:03:27,644 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:27,646 - DEBUG - Seen 4100 genes until now
+2026-06-12 12:03:27,646 - DEBUG - Parsing Chromosome 10 strand + [line 304079]
+2026-06-12 12:03:27,802 - DEBUG - Done with 10+ [line 356023]
+2026-06-12 12:03:27,802 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:27,805 - DEBUG - Seen 4833 genes until now
+2026-06-12 12:03:27,805 - DEBUG - Parsing Chromosome 11 strand - [line 356024]
+2026-06-12 12:03:28,300 - DEBUG - Done with 11- [line 438038]
+2026-06-12 12:03:28,300 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:28,304 - DEBUG - Seen 5833 genes until now
+2026-06-12 12:03:28,304 - DEBUG - Parsing Chromosome 11 strand + [line 438039]
+2026-06-12 12:03:28,574 - DEBUG - Done with 11+ [line 521163]
+2026-06-12 12:03:28,574 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:28,578 - DEBUG - Seen 6898 genes until now
+2026-06-12 12:03:28,579 - DEBUG - Parsing Chromosome 12 strand - [line 521164]
+2026-06-12 12:03:29,105 - DEBUG - Done with 12- [line 601582]
+2026-06-12 12:03:29,105 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:29,108 - DEBUG - Seen 7848 genes until now
+2026-06-12 12:03:29,108 - DEBUG - Parsing Chromosome 12 strand + [line 601583]
+2026-06-12 12:03:29,382 - DEBUG - Done with 12+ [line 681983]
+2026-06-12 12:03:29,382 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:29,385 - DEBUG - Seen 8826 genes until now
+2026-06-12 12:03:29,385 - DEBUG - Parsing Chromosome 13 strand - [line 681984]
+2026-06-12 12:03:29,442 - DEBUG - Done with 13- [line 702449]
+2026-06-12 12:03:29,442 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:29,444 - DEBUG - Seen 9225 genes until now
+2026-06-12 12:03:29,444 - DEBUG - Parsing Chromosome 13 strand + [line 702450]
+2026-06-12 12:03:29,532 - DEBUG - Done with 13+ [line 726349]
+2026-06-12 12:03:29,532 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:29,534 - DEBUG - Seen 9614 genes until now
+2026-06-12 12:03:29,534 - DEBUG - Parsing Chromosome 14 strand - [line 726350]
+2026-06-12 12:03:29,953 - DEBUG - Done with 14- [line 770987]
+2026-06-12 12:03:29,953 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:29,956 - DEBUG - Seen 10373 genes until now
+2026-06-12 12:03:29,956 - DEBUG - Parsing Chromosome 14 strand + [line 770988]
+2026-06-12 12:03:30,119 - DEBUG - Done with 14+ [line 822908]
+2026-06-12 12:03:30,120 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:30,124 - DEBUG - Seen 11088 genes until now
+2026-06-12 12:03:30,124 - DEBUG - Parsing Chromosome 15 strand - [line 822909]
+2026-06-12 12:03:30,324 - DEBUG - Done with 15- [line 873715]
+2026-06-12 12:03:30,324 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:30,327 - DEBUG - Seen 11734 genes until now
+2026-06-12 12:03:30,327 - DEBUG - Parsing Chromosome 15 strand + [line 873716]
+2026-06-12 12:03:30,481 - DEBUG - Done with 15+ [line 923824]
+2026-06-12 12:03:30,481 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:30,484 - DEBUG - Seen 12355 genes until now
+2026-06-12 12:03:30,484 - DEBUG - Parsing Chromosome 16 strand - [line 923825]
+2026-06-12 12:03:30,628 - DEBUG - Done with 16- [line 979238]
+2026-06-12 12:03:30,628 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:30,631 - DEBUG - Seen 13151 genes until now
+2026-06-12 12:03:30,631 - DEBUG - Parsing Chromosome 16 strand + [line 979239]
+2026-06-12 12:03:31,132 - DEBUG - Done with 16+ [line 1052152]
+2026-06-12 12:03:31,132 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:31,138 - DEBUG - Seen 14004 genes until now
+2026-06-12 12:03:31,139 - DEBUG - Parsing Chromosome 17 strand - [line 1052153]
+2026-06-12 12:03:31,401 - DEBUG - Done with 17- [line 1140008]
+2026-06-12 12:03:31,401 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:31,406 - DEBUG - Seen 15039 genes until now
+2026-06-12 12:03:31,406 - DEBUG - Parsing Chromosome 17 strand + [line 1140009]
+2026-06-12 12:03:31,641 - DEBUG - Done with 17+ [line 1219447]
+2026-06-12 12:03:31,641 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:31,645 - DEBUG - Seen 15996 genes until now
+2026-06-12 12:03:31,645 - DEBUG - Parsing Chromosome 18 strand - [line 1219448]
+2026-06-12 12:03:31,722 - DEBUG - Done with 18- [line 1246083]
+2026-06-12 12:03:31,723 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:31,724 - DEBUG - Seen 16371 genes until now
+2026-06-12 12:03:31,724 - DEBUG - Parsing Chromosome 18 strand + [line 1246084]
+2026-06-12 12:03:31,787 - DEBUG - Done with 18+ [line 1269821]
+2026-06-12 12:03:31,787 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:31,788 - DEBUG - Seen 16777 genes until now
+2026-06-12 12:03:31,788 - DEBUG - Parsing Chromosome 19 strand - [line 1269822]
+2026-06-12 12:03:32,354 - DEBUG - Done with 19- [line 1350736]
+2026-06-12 12:03:32,354 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:32,359 - DEBUG - Seen 17790 genes until now
+2026-06-12 12:03:32,359 - DEBUG - Parsing Chromosome 19 strand + [line 1350737]
+2026-06-12 12:03:32,594 - DEBUG - Done with 19+ [line 1435648]
+2026-06-12 12:03:32,594 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:32,599 - DEBUG - Seen 18804 genes until now
+2026-06-12 12:03:32,599 - DEBUG - Parsing Chromosome 2 strand - [line 1435649]
+2026-06-12 12:03:32,926 - DEBUG - Done with 2- [line 1542996]
+2026-06-12 12:03:32,926 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:32,933 - DEBUG - Seen 20037 genes until now
+2026-06-12 12:03:32,933 - DEBUG - Parsing Chromosome 2 strand + [line 1542997]
+2026-06-12 12:03:33,230 - DEBUG - Done with 2+ [line 1642863]
+2026-06-12 12:03:33,230 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:33,236 - DEBUG - Seen 21345 genes until now
+2026-06-12 12:03:33,236 - DEBUG - Parsing Chromosome 20 strand - [line 1642864]
+2026-06-12 12:03:33,327 - DEBUG - Done with 20- [line 1672442]
+2026-06-12 12:03:33,327 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:33,329 - DEBUG - Seen 21828 genes until now
+2026-06-12 12:03:33,329 - DEBUG - Parsing Chromosome 20 strand + [line 1672443]
+2026-06-12 12:03:33,436 - DEBUG - Done with 20+ [line 1707817]
+2026-06-12 12:03:33,436 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:33,439 - DEBUG - Seen 22309 genes until now
+2026-06-12 12:03:33,439 - DEBUG - Parsing Chromosome 21 strand - [line 1707818]
+2026-06-12 12:03:33,833 - DEBUG - Done with 21- [line 1722798]
+2026-06-12 12:03:33,833 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:33,834 - DEBUG - Seen 22596 genes until now
+2026-06-12 12:03:33,834 - DEBUG - Parsing Chromosome 21 strand + [line 1722799]
+2026-06-12 12:03:33,876 - DEBUG - Done with 21+ [line 1738981]
+2026-06-12 12:03:33,877 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:33,877 - DEBUG - Seen 22864 genes until now
+2026-06-12 12:03:33,877 - DEBUG - Parsing Chromosome 22 strand - [line 1738982]
+2026-06-12 12:03:33,943 - DEBUG - Done with 22- [line 1765357]
+2026-06-12 12:03:33,943 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:33,944 - DEBUG - Seen 23260 genes until now
+2026-06-12 12:03:33,944 - DEBUG - Parsing Chromosome 22 strand + [line 1765358]
+2026-06-12 12:03:34,072 - DEBUG - Done with 22+ [line 1797598]
+2026-06-12 12:03:34,072 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:34,074 - DEBUG - Seen 23765 genes until now
+2026-06-12 12:03:34,075 - DEBUG - Parsing Chromosome 3 strand - [line 1797599]
+2026-06-12 12:03:34,361 - DEBUG - Done with 3- [line 1887377]
+2026-06-12 12:03:34,361 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:34,366 - DEBUG - Seen 24693 genes until now
+2026-06-12 12:03:34,366 - DEBUG - Parsing Chromosome 3 strand + [line 1887378]
+2026-06-12 12:03:34,619 - DEBUG - Done with 3+ [line 1977011]
+2026-06-12 12:03:34,619 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:34,624 - DEBUG - Seen 25658 genes until now
+2026-06-12 12:03:34,624 - DEBUG - Parsing Chromosome 4 strand - [line 1977012]
+2026-06-12 12:03:34,772 - DEBUG - Done with 4- [line 2034238]
+2026-06-12 12:03:34,772 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:34,775 - DEBUG - Seen 26401 genes until now
+2026-06-12 12:03:34,775 - DEBUG - Parsing Chromosome 4 strand + [line 2034239]
+2026-06-12 12:03:34,932 - DEBUG - Done with 4+ [line 2094594]
+2026-06-12 12:03:34,932 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:34,935 - DEBUG - Seen 27191 genes until now
+2026-06-12 12:03:34,935 - DEBUG - Parsing Chromosome 5 strand - [line 2094595]
+2026-06-12 12:03:35,088 - DEBUG - Done with 5- [line 2152660]
+2026-06-12 12:03:35,088 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:35,091 - DEBUG - Seen 28071 genes until now
+2026-06-12 12:03:35,091 - DEBUG - Parsing Chromosome 5 strand + [line 2152661]
+2026-06-12 12:03:35,814 - DEBUG - Done with 5+ [line 2218657]
+2026-06-12 12:03:35,814 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:35,819 - DEBUG - Seen 29002 genes until now
+2026-06-12 12:03:35,819 - DEBUG - Parsing Chromosome 6 strand - [line 2218658]
+2026-06-12 12:03:36,036 - DEBUG - Done with 6- [line 2284937]
+2026-06-12 12:03:36,036 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:36,040 - DEBUG - Seen 29928 genes until now
+2026-06-12 12:03:36,040 - DEBUG - Parsing Chromosome 6 strand + [line 2284938]
+2026-06-12 12:03:36,196 - DEBUG - Done with 6+ [line 2345240]
+2026-06-12 12:03:36,196 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:36,199 - DEBUG - Seen 30829 genes until now
+2026-06-12 12:03:36,200 - DEBUG - Parsing Chromosome 7 strand - [line 2345241]
+2026-06-12 12:03:36,362 - DEBUG - Done with 7- [line 2406845]
+2026-06-12 12:03:36,363 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:36,366 - DEBUG - Seen 31621 genes until now
+2026-06-12 12:03:36,367 - DEBUG - Parsing Chromosome 7 strand + [line 2406846]
+2026-06-12 12:03:36,537 - DEBUG - Done with 7+ [line 2476014]
+2026-06-12 12:03:36,537 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:36,541 - DEBUG - Seen 32515 genes until now
+2026-06-12 12:03:36,541 - DEBUG - Parsing Chromosome 8 strand - [line 2476015]
+2026-06-12 12:03:36,669 - DEBUG - Done with 8- [line 2527366]
+2026-06-12 12:03:36,669 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:36,672 - DEBUG - Seen 33270 genes until now
+2026-06-12 12:03:36,672 - DEBUG - Parsing Chromosome 8 strand + [line 2527367]
+2026-06-12 12:03:36,801 - DEBUG - Done with 8+ [line 2577021]
+2026-06-12 12:03:36,801 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:36,804 - DEBUG - Seen 34010 genes until now
+2026-06-12 12:03:36,804 - DEBUG - Parsing Chromosome 9 strand - [line 2577022]
+2026-06-12 12:03:36,922 - DEBUG - Done with 9- [line 2622811]
+2026-06-12 12:03:36,922 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:36,924 - DEBUG - Seen 34681 genes until now
+2026-06-12 12:03:36,925 - DEBUG - Parsing Chromosome 9 strand + [line 2622812]
+2026-06-12 12:03:37,086 - DEBUG - Done with 9+ [line 2672374]
+2026-06-12 12:03:37,086 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:37,090 - DEBUG - Seen 35329 genes until now
+2026-06-12 12:03:37,090 - DEBUG - Parsing Chromosome M strand - [line 2672375]
+2026-06-12 12:03:37,090 - DEBUG - Done with M- [line 2672379]
+2026-06-12 12:03:37,090 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:37,090 - DEBUG - Seen 35330 genes until now
+2026-06-12 12:03:37,090 - DEBUG - Parsing Chromosome M strand + [line 2672380]
+2026-06-12 12:03:37,091 - DEBUG - Done with M+ [line 2672445]
+2026-06-12 12:03:37,091 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:37,091 - DEBUG - Seen 35342 genes until now
+2026-06-12 12:03:37,091 - DEBUG - Parsing Chromosome X strand - [line 2672446]
+2026-06-12 12:03:37,255 - DEBUG - Done with X- [line 2716088]
+2026-06-12 12:03:37,255 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:37,259 - DEBUG - Seen 35884 genes until now
+2026-06-12 12:03:37,259 - DEBUG - Parsing Chromosome X strand + [line 2716089]
+2026-06-12 12:03:37,376 - DEBUG - Done with X+ [line 2760500]
+2026-06-12 12:03:37,377 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:37,379 - DEBUG - Seen 36490 genes until now
+2026-06-12 12:03:37,379 - DEBUG - Parsing Chromosome Y strand - [line 2760501]
+2026-06-12 12:03:37,386 - DEBUG - Done with Y- [line 2763031]
+2026-06-12 12:03:37,386 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:37,386 - DEBUG - Seen 36543 genes until now
+2026-06-12 12:03:37,386 - DEBUG - Parsing Chromosome Y strand + [line 2763032]
+2026-06-12 12:03:37,395 - DEBUG - Assigning indexes to genes
+2026-06-12 12:03:37,395 - DEBUG - Done with Y+ [line 2765967]
+2026-06-12 12:03:37,395 - DEBUG - Fixing corner cases of transcript models containg intron longer than 1000Kbp
+2026-06-12 12:03:38,562 - DEBUG - Generated 2411536 features corresponding to 199138 transcript models from /nobackup/peer/fdeckert/cellranger/GRCh38-2020-A/GRCh38/genes/genes.gtf
+2026-06-12 12:03:38,583 - INFO - Scan /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/HSCT_7833_transcriptome/possorted_genome_bam.bam to validate intron intervals
+2026-06-12 12:03:40,192 - DEBUG - Reading /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/HSCT_7833_transcriptome/possorted_genome_bam.bam
+2026-06-12 12:03:40,237 - DEBUG - Read first 0 million reads
+2026-06-12 12:03:40,238 - DEBUG - Marking up chromosome 1
+2026-06-12 12:04:22,627 - DEBUG - Marking up chromosome 10
+2026-06-12 12:04:39,069 - DEBUG - Marking up chromosome 11
+2026-06-12 12:05:04,702 - DEBUG - Read first 10 million reads
+2026-06-12 12:05:21,566 - DEBUG - Marking up chromosome 12
+2026-06-12 12:05:49,962 - DEBUG - Marking up chromosome 13
+2026-06-12 12:06:01,524 - DEBUG - Marking up chromosome 14
+2026-06-12 12:06:20,317 - DEBUG - Marking up chromosome 15
+2026-06-12 12:06:39,596 - DEBUG - Marking up chromosome 16
+2026-06-12 12:06:49,978 - DEBUG - Read first 20 million reads
+2026-06-12 12:07:00,215 - DEBUG - Marking up chromosome 17
+2026-06-12 12:07:26,922 - DEBUG - Marking up chromosome 18
+2026-06-12 12:07:32,471 - DEBUG - Marking up chromosome 19
+2026-06-12 12:07:54,211 - DEBUG - Marking up chromosome 2
+2026-06-12 12:08:15,885 - DEBUG - Read first 30 million reads
+2026-06-12 12:08:19,780 - DEBUG - Marking up chromosome 20
+2026-06-12 12:08:27,570 - DEBUG - Marking up chromosome 21
+2026-06-12 12:08:37,815 - DEBUG - Read first 40 million reads
+2026-06-12 12:08:41,864 - DEBUG - Marking up chromosome 22
+2026-06-12 12:08:48,248 - DEBUG - Marking up chromosome 3
+2026-06-12 12:09:08,249 - DEBUG - Marking up chromosome 4
+2026-06-12 12:09:20,888 - DEBUG - Marking up chromosome 5
+2026-06-12 12:09:39,557 - DEBUG - Marking up chromosome 6
+2026-06-12 12:09:47,871 - DEBUG - Read first 50 million reads
+2026-06-12 12:10:01,806 - DEBUG - Marking up chromosome 7
+2026-06-12 12:10:19,140 - DEBUG - Marking up chromosome 8
+2026-06-12 12:10:31,680 - DEBUG - Marking up chromosome 9
+2026-06-12 12:10:43,882 - DEBUG - Marking up chromosome MT
+2026-06-12 12:10:43,883 - WARNING - The .bam file refers to a chromosome 'MT+' not present in the annotation (.gtf) file
+2026-06-12 12:10:43,883 - WARNING - The .bam file refers to a chromosome 'MT-' not present in the annotation (.gtf) file
+2026-06-12 12:10:55,480 - DEBUG - Read first 60 million reads
+2026-06-12 12:11:35,770 - DEBUG - Marking up chromosome X
+2026-06-12 12:11:45,639 - DEBUG - Marking up chromosome Y
+2026-06-12 12:11:45,891 - DEBUG - Marking up chromosome KI270728.1
+2026-06-12 12:11:45,892 - DEBUG - Marking up chromosome KI270727.1
+2026-06-12 12:11:45,893 - DEBUG - Marking up chromosome KI270442.1
+2026-06-12 12:11:45,893 - WARNING - The .bam file refers to a chromosome 'KI270442.1+' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,893 - WARNING - The .bam file refers to a chromosome 'KI270442.1-' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,894 - DEBUG - Marking up chromosome KI270729.1
+2026-06-12 12:11:45,894 - WARNING - The .bam file refers to a chromosome 'KI270729.1+' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,894 - WARNING - The .bam file refers to a chromosome 'KI270729.1-' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,894 - DEBUG - Marking up chromosome GL000225.1
+2026-06-12 12:11:45,894 - WARNING - The .bam file refers to a chromosome 'GL000225.1+' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,894 - WARNING - The .bam file refers to a chromosome 'GL000225.1-' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,894 - DEBUG - Marking up chromosome KI270743.1
+2026-06-12 12:11:45,894 - WARNING - The .bam file refers to a chromosome 'KI270743.1+' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,894 - WARNING - The .bam file refers to a chromosome 'KI270743.1-' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,895 - DEBUG - Marking up chromosome GL000008.2
+2026-06-12 12:11:45,895 - WARNING - The .bam file refers to a chromosome 'GL000008.2+' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,895 - WARNING - The .bam file refers to a chromosome 'GL000008.2-' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,895 - DEBUG - Marking up chromosome GL000009.2
+2026-06-12 12:11:45,895 - WARNING - The .bam file refers to a chromosome 'GL000009.2+' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,896 - DEBUG - Marking up chromosome KI270722.1
+2026-06-12 12:11:45,896 - WARNING - The .bam file refers to a chromosome 'KI270722.1+' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,896 - WARNING - The .bam file refers to a chromosome 'KI270722.1-' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,896 - DEBUG - Marking up chromosome GL000194.1
+2026-06-12 12:11:45,896 - WARNING - The .bam file refers to a chromosome 'GL000194.1+' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,899 - DEBUG - Marking up chromosome KI270742.1
+2026-06-12 12:11:45,899 - WARNING - The .bam file refers to a chromosome 'KI270742.1+' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,899 - WARNING - The .bam file refers to a chromosome 'KI270742.1-' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,900 - DEBUG - Marking up chromosome GL000205.2
+2026-06-12 12:11:45,900 - WARNING - The .bam file refers to a chromosome 'GL000205.2+' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,902 - DEBUG - Marking up chromosome GL000195.1
+2026-06-12 12:11:45,903 - DEBUG - Marking up chromosome KI270736.1
+2026-06-12 12:11:45,903 - WARNING - The .bam file refers to a chromosome 'KI270736.1+' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,903 - WARNING - The .bam file refers to a chromosome 'KI270736.1-' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,903 - DEBUG - Marking up chromosome KI270733.1
+2026-06-12 12:11:45,903 - WARNING - The .bam file refers to a chromosome 'KI270733.1+' not present in the annotation (.gtf) file
+2026-06-12 12:11:45,903 - WARNING - The .bam file refers to a chromosome 'KI270733.1-' not present in the annotation (.gtf) file
+2026-06-12 12:11:47,599 - DEBUG - Read first 70 million reads
+2026-06-12 12:11:52,038 - DEBUG - Marking up chromosome GL000224.1
+2026-06-12 12:11:52,038 - WARNING - The .bam file refers to a chromosome 'GL000224.1+' not present in the annotation (.gtf) file
+2026-06-12 12:11:52,038 - WARNING - The .bam file refers to a chromosome 'GL000224.1-' not present in the annotation (.gtf) file
+2026-06-12 12:11:52,038 - DEBUG - Marking up chromosome GL000219.1
+2026-06-12 12:11:52,038 - WARNING - The .bam file refers to a chromosome 'GL000219.1+' not present in the annotation (.gtf) file
+2026-06-12 12:11:52,051 - DEBUG - Marking up chromosome KI270719.1
+2026-06-12 12:11:52,052 - WARNING - The .bam file refers to a chromosome 'KI270719.1+' not present in the annotation (.gtf) file
+2026-06-12 12:11:52,052 - WARNING - The .bam file refers to a chromosome 'KI270719.1-' not present in the annotation (.gtf) file
+2026-06-12 12:11:52,052 - DEBUG - Marking up chromosome GL000216.2
+2026-06-12 12:11:52,052 - WARNING - The .bam file refers to a chromosome 'GL000216.2+' not present in the annotation (.gtf) file
+2026-06-12 12:11:52,052 - WARNING - The .bam file refers to a chromosome 'GL000216.2-' not present in the annotation (.gtf) file
+2026-06-12 12:11:52,053 - DEBUG - Marking up chromosome KI270712.1
+2026-06-12 12:11:52,053 - WARNING - The .bam file refers to a chromosome 'KI270712.1+' not present in the annotation (.gtf) file
+2026-06-12 12:11:52,053 - WARNING - The .bam file refers to a chromosome 'KI270712.1-' not present in the annotation (.gtf) file
+2026-06-12 12:11:52,053 - DEBUG - Marking up chromosome KI270706.1
+2026-06-12 12:11:52,053 - WARNING - The .bam file refers to a chromosome 'KI270706.1+' not present in the annotation (.gtf) file
+2026-06-12 12:11:52,053 - WARNING - The .bam file refers to a chromosome 'KI270706.1-' not present in the annotation (.gtf) file
+2026-06-12 12:11:52,056 - DEBUG - Marking up chromosome KI270744.1
+2026-06-12 12:11:52,057 - WARNING - The .bam file refers to a chromosome 'KI270744.1+' not present in the annotation (.gtf) file
+2026-06-12 12:11:52,057 - WARNING - The .bam file refers to a chromosome 'KI270744.1-' not present in the annotation (.gtf) file
+2026-06-12 12:11:52,057 - DEBUG - Marking up chromosome KI270734.1
+2026-06-12 12:11:52,058 - DEBUG - Marking up chromosome GL000220.1
+2026-06-12 12:11:52,058 - WARNING - The .bam file refers to a chromosome 'GL000220.1+' not present in the annotation (.gtf) file
+2026-06-12 12:11:52,058 - WARNING - The .bam file refers to a chromosome 'GL000220.1-' not present in the annotation (.gtf) file
+2026-06-12 12:11:59,937 - DEBUG - Read first 80 million reads
+2026-06-12 12:12:00,097 - DEBUG - Marking up chromosome GL000218.1
+2026-06-12 12:12:00,097 - WARNING - The .bam file refers to a chromosome 'GL000218.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,100 - DEBUG - Marking up chromosome KI270749.1
+2026-06-12 12:12:00,100 - WARNING - The .bam file refers to a chromosome 'KI270749.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,100 - WARNING - The .bam file refers to a chromosome 'KI270749.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,100 - DEBUG - Marking up chromosome KI270741.1
+2026-06-12 12:12:00,100 - WARNING - The .bam file refers to a chromosome 'KI270741.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,100 - WARNING - The .bam file refers to a chromosome 'KI270741.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,101 - DEBUG - Marking up chromosome GL000221.1
+2026-06-12 12:12:00,101 - WARNING - The .bam file refers to a chromosome 'GL000221.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,101 - WARNING - The .bam file refers to a chromosome 'GL000221.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,101 - DEBUG - Marking up chromosome KI270751.1
+2026-06-12 12:12:00,101 - WARNING - The .bam file refers to a chromosome 'KI270751.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,101 - WARNING - The .bam file refers to a chromosome 'KI270751.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,101 - DEBUG - Marking up chromosome KI270519.1
+2026-06-12 12:12:00,101 - WARNING - The .bam file refers to a chromosome 'KI270519.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,101 - WARNING - The .bam file refers to a chromosome 'KI270519.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,101 - DEBUG - Marking up chromosome GL000214.1
+2026-06-12 12:12:00,102 - WARNING - The .bam file refers to a chromosome 'GL000214.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,102 - WARNING - The .bam file refers to a chromosome 'GL000214.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,102 - DEBUG - Marking up chromosome KI270730.1
+2026-06-12 12:12:00,102 - WARNING - The .bam file refers to a chromosome 'KI270730.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,102 - WARNING - The .bam file refers to a chromosome 'KI270730.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,102 - DEBUG - Marking up chromosome KI270438.1
+2026-06-12 12:12:00,102 - WARNING - The .bam file refers to a chromosome 'KI270438.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,102 - WARNING - The .bam file refers to a chromosome 'KI270438.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,103 - DEBUG - Marking up chromosome KI270721.1
+2026-06-12 12:12:00,103 - WARNING - The .bam file refers to a chromosome 'KI270721.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,104 - DEBUG - Marking up chromosome KI270738.1
+2026-06-12 12:12:00,104 - WARNING - The .bam file refers to a chromosome 'KI270738.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,104 - WARNING - The .bam file refers to a chromosome 'KI270738.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,104 - DEBUG - Marking up chromosome GL000208.1
+2026-06-12 12:12:00,104 - WARNING - The .bam file refers to a chromosome 'GL000208.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,104 - WARNING - The .bam file refers to a chromosome 'GL000208.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,104 - DEBUG - Marking up chromosome KI270538.1
+2026-06-12 12:12:00,104 - WARNING - The .bam file refers to a chromosome 'KI270538.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,105 - WARNING - The .bam file refers to a chromosome 'KI270538.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,105 - DEBUG - Marking up chromosome KI270709.1
+2026-06-12 12:12:00,105 - WARNING - The .bam file refers to a chromosome 'KI270709.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,105 - WARNING - The .bam file refers to a chromosome 'KI270709.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,105 - DEBUG - Marking up chromosome KI270746.1
+2026-06-12 12:12:00,105 - WARNING - The .bam file refers to a chromosome 'KI270746.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,105 - WARNING - The .bam file refers to a chromosome 'KI270746.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,105 - DEBUG - Marking up chromosome KI270753.1
+2026-06-12 12:12:00,105 - WARNING - The .bam file refers to a chromosome 'KI270753.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,105 - WARNING - The .bam file refers to a chromosome 'KI270753.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,105 - DEBUG - Marking up chromosome KI270726.1
+2026-06-12 12:12:00,105 - WARNING - The .bam file refers to a chromosome 'KI270726.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,105 - DEBUG - Marking up chromosome KI270711.1
+2026-06-12 12:12:00,105 - WARNING - The .bam file refers to a chromosome 'KI270711.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,108 - DEBUG - Marking up chromosome KI270745.1
+2026-06-12 12:12:00,108 - WARNING - The .bam file refers to a chromosome 'KI270745.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,108 - WARNING - The .bam file refers to a chromosome 'KI270745.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,109 - DEBUG - Marking up chromosome KI270714.1
+2026-06-12 12:12:00,109 - WARNING - The .bam file refers to a chromosome 'KI270714.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,109 - WARNING - The .bam file refers to a chromosome 'KI270714.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,109 - DEBUG - Marking up chromosome KI270713.1
+2026-06-12 12:12:00,111 - DEBUG - Marking up chromosome KI270710.1
+2026-06-12 12:12:00,111 - WARNING - The .bam file refers to a chromosome 'KI270710.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,111 - WARNING - The .bam file refers to a chromosome 'KI270710.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,111 - DEBUG - Marking up chromosome KI270720.1
+2026-06-12 12:12:00,111 - WARNING - The .bam file refers to a chromosome 'KI270720.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,111 - WARNING - The .bam file refers to a chromosome 'KI270720.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,112 - DEBUG - Marking up chromosome KI270718.1
+2026-06-12 12:12:00,112 - WARNING - The .bam file refers to a chromosome 'KI270718.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,112 - WARNING - The .bam file refers to a chromosome 'KI270718.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,113 - DEBUG - Marking up chromosome KI270755.1
+2026-06-12 12:12:00,113 - WARNING - The .bam file refers to a chromosome 'KI270755.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,113 - WARNING - The .bam file refers to a chromosome 'KI270755.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,113 - DEBUG - Marking up chromosome KI270707.1
+2026-06-12 12:12:00,113 - WARNING - The .bam file refers to a chromosome 'KI270707.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,113 - WARNING - The .bam file refers to a chromosome 'KI270707.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,113 - DEBUG - Marking up chromosome KI270330.1
+2026-06-12 12:12:00,113 - WARNING - The .bam file refers to a chromosome 'KI270330.1+' not present in the annotation (.gtf) file
+2026-06-12 12:12:00,113 - WARNING - The .bam file refers to a chromosome 'KI270330.1-' not present in the annotation (.gtf) file
+2026-06-12 12:12:09,018 - DEBUG - Read first 90 million reads
+2026-06-12 12:12:18,132 - DEBUG - Read first 100 million reads
+2026-06-12 12:12:24,416 - DEBUG - End of file. Reset index: start scanning from initial position.
+2026-06-12 12:12:24,416 - DEBUG - 5540766 reads were skipped because no apropiate cell or umi barcode was found
+2026-06-12 12:12:24,417 - INFO - Now just waiting that the bam sorting process terminates
+2026-06-12 12:12:24,417 - INFO - bam file #0 has been sorted
+2026-06-12 12:12:24,417 - DEBUG - Start molecule counting!
+2026-06-12 12:12:25,848 - DEBUG - Features available for chromosomes : ['GL000009.2-', 'GL000194.1-', 'GL000195.1-', 'GL000195.1+', 'GL000205.2-', 'GL000213.1-', 'GL000218.1-', 'GL000219.1-', 'KI270711.1-', 'KI270713.1-', 'KI270713.1+', 'KI270721.1+', 'KI270726.1+', 'KI270727.1-', 'KI270727.1+', 'KI270728.1-', 'KI270728.1+', 'KI270731.1-', 'KI270734.1-', 'KI270734.1+', '1-', '1+', '10-', '10+', '11-', '11+', '12-', '12+', '13-', '13+', '14-', '14+', '15-', '15+', '16-', '16+', '17-', '17+', '18-', '18+', '19-', '19+', '2-', '2+', '20-', '20+', '21-', '21+', '22-', '22+', '3-', '3+', '4-', '4+', '5-', '5+', '6-', '6+', '7-', '7+', '8-', '8+', '9-', '9+', 'M-', 'M+', 'X-', 'X+', 'Y-', 'Y+']
+2026-06-12 12:12:25,849 - DEBUG - Mask available for chromosomes : []
+2026-06-12 12:12:25,849 - DEBUG - Summarizing the results of intron validation.
+2026-06-12 12:12:26,155 - DEBUG - Validated 375824 introns (of which unique intervals 119712) out of 1106199 total possible introns (considering each possible transcript models).
+2026-06-12 12:12:26,156 - DEBUG - Reading /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/HSCT_7833_transcriptome/cellsorted_possorted_genome_bam.bam
+2026-06-12 12:12:26,157 - DEBUG - Read first 0 million reads
+2026-06-12 12:12:54,297 - DEBUG - Read first 10 million reads
+2026-06-12 12:12:58,372 - DEBUG - Counting for batch 1, containing 100 cells and 78392 reads
+2026-06-12 12:12:59,160 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:12:59,962 - DEBUG - Counting for batch 2, containing 100 cells and 71718 reads
+2026-06-12 12:13:00,673 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:01,419 - DEBUG - Counting for batch 3, containing 100 cells and 70158 reads
+2026-06-12 12:13:02,794 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:03,518 - DEBUG - Counting for batch 4, containing 100 cells and 67854 reads
+2026-06-12 12:13:04,181 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:04,928 - DEBUG - Counting for batch 5, containing 100 cells and 68925 reads
+2026-06-12 12:13:05,590 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:06,380 - DEBUG - Counting for batch 6, containing 100 cells and 76470 reads
+2026-06-12 12:13:07,788 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:08,523 - DEBUG - Counting for batch 7, containing 100 cells and 69272 reads
+2026-06-12 12:13:09,192 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:09,985 - DEBUG - Counting for batch 8, containing 100 cells and 76980 reads
+2026-06-12 12:13:10,752 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:12,195 - DEBUG - Counting for batch 9, containing 100 cells and 78483 reads
+2026-06-12 12:13:12,900 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:13,658 - DEBUG - Counting for batch 10, containing 100 cells and 70940 reads
+2026-06-12 12:13:14,350 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:15,090 - DEBUG - Counting for batch 11, containing 100 cells and 70309 reads
+2026-06-12 12:13:16,454 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:17,209 - DEBUG - Counting for batch 12, containing 100 cells and 74573 reads
+2026-06-12 12:13:17,934 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:18,638 - DEBUG - Counting for batch 13, containing 100 cells and 67825 reads
+2026-06-12 12:13:19,274 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:20,636 - DEBUG - Counting for batch 14, containing 100 cells and 69794 reads
+2026-06-12 12:13:21,305 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:22,079 - DEBUG - Counting for batch 15, containing 100 cells and 78006 reads
+2026-06-12 12:13:22,834 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:23,643 - DEBUG - Counting for batch 16, containing 100 cells and 75679 reads
+2026-06-12 12:13:25,090 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:26,029 - DEBUG - Counting for batch 17, containing 100 cells and 91183 reads
+2026-06-12 12:13:26,921 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:28,450 - DEBUG - Counting for batch 18, containing 100 cells and 78401 reads
+2026-06-12 12:13:29,181 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:29,970 - DEBUG - Counting for batch 19, containing 100 cells and 77663 reads
+2026-06-12 12:13:30,721 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:31,646 - DEBUG - Counting for batch 20, containing 100 cells and 93264 reads
+2026-06-12 12:13:33,184 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:33,909 - DEBUG - Counting for batch 21, containing 100 cells and 60433 reads
+2026-06-12 12:13:34,560 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:35,352 - DEBUG - Counting for batch 22, containing 100 cells and 78450 reads
+2026-06-12 12:13:36,828 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:37,569 - DEBUG - Counting for batch 23, containing 100 cells and 67865 reads
+2026-06-12 12:13:38,230 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:38,958 - DEBUG - Counting for batch 24, containing 100 cells and 59134 reads
+2026-06-12 12:13:39,575 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:40,186 - DEBUG - Counting for batch 25, containing 100 cells and 59170 reads
+2026-06-12 12:13:40,784 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:42,164 - DEBUG - Counting for batch 26, containing 100 cells and 68101 reads
+2026-06-12 12:13:42,872 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:43,592 - DEBUG - Counting for batch 27, containing 100 cells and 68691 reads
+2026-06-12 12:13:44,287 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:44,990 - DEBUG - Counting for batch 28, containing 100 cells and 69237 reads
+2026-06-12 12:13:46,337 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:47,552 - DEBUG - Counting for batch 29, containing 100 cells and 75778 reads
+2026-06-12 12:13:48,273 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:49,040 - DEBUG - Counting for batch 30, containing 100 cells and 68077 reads
+2026-06-12 12:13:49,692 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:50,428 - DEBUG - Counting for batch 31, containing 100 cells and 73687 reads
+2026-06-12 12:13:51,885 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:52,634 - DEBUG - Counting for batch 32, containing 100 cells and 72558 reads
+2026-06-12 12:13:53,352 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:54,187 - DEBUG - Counting for batch 33, containing 100 cells and 78904 reads
+2026-06-12 12:13:55,656 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:56,447 - DEBUG - Counting for batch 34, containing 100 cells and 74260 reads
+2026-06-12 12:13:57,165 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:57,893 - DEBUG - Counting for batch 35, containing 100 cells and 68559 reads
+2026-06-12 12:13:58,576 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:13:59,960 - DEBUG - Counting for batch 36, containing 100 cells and 70496 reads
+2026-06-12 12:14:00,665 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:01,453 - DEBUG - Counting for batch 37, containing 100 cells and 74318 reads
+2026-06-12 12:14:02,199 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:02,976 - DEBUG - Counting for batch 38, containing 100 cells and 75171 reads
+2026-06-12 12:14:04,424 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:05,161 - DEBUG - Counting for batch 39, containing 100 cells and 69875 reads
+2026-06-12 12:14:05,850 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:06,626 - DEBUG - Counting for batch 40, containing 100 cells and 73317 reads
+2026-06-12 12:14:07,325 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:08,777 - DEBUG - Counting for batch 41, containing 100 cells and 79617 reads
+2026-06-12 12:14:09,551 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:10,370 - DEBUG - Counting for batch 42, containing 100 cells and 82083 reads
+2026-06-12 12:14:11,139 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:12,649 - DEBUG - Counting for batch 43, containing 100 cells and 81285 reads
+2026-06-12 12:14:13,388 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:14,120 - DEBUG - Counting for batch 44, containing 100 cells and 67937 reads
+2026-06-12 12:14:14,802 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:15,686 - DEBUG - Counting for batch 45, containing 100 cells and 90177 reads
+2026-06-12 12:14:17,251 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:18,075 - DEBUG - Counting for batch 46, containing 100 cells and 71694 reads
+2026-06-12 12:14:18,776 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:19,493 - DEBUG - Counting for batch 47, containing 100 cells and 66055 reads
+2026-06-12 12:14:20,845 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:21,594 - DEBUG - Counting for batch 48, containing 100 cells and 71030 reads
+2026-06-12 12:14:22,302 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:22,475 - DEBUG - Read first 20 million reads
+2026-06-12 12:14:23,024 - DEBUG - Counting for batch 49, containing 100 cells and 66573 reads
+2026-06-12 12:14:23,694 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:25,091 - DEBUG - Counting for batch 50, containing 100 cells and 67850 reads
+2026-06-12 12:14:25,756 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:26,461 - DEBUG - Counting for batch 51, containing 100 cells and 68817 reads
+2026-06-12 12:14:27,130 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:27,837 - DEBUG - Counting for batch 52, containing 100 cells and 68189 reads
+2026-06-12 12:14:29,235 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:29,943 - DEBUG - Counting for batch 53, containing 100 cells and 67643 reads
+2026-06-12 12:14:30,629 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:31,453 - DEBUG - Counting for batch 54, containing 100 cells and 80916 reads
+2026-06-12 12:14:32,208 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:32,947 - DEBUG - Counting for batch 55, containing 100 cells and 70221 reads
+2026-06-12 12:14:34,370 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:35,180 - DEBUG - Counting for batch 56, containing 100 cells and 79372 reads
+2026-06-12 12:14:35,968 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:36,779 - DEBUG - Counting for batch 57, containing 100 cells and 71447 reads
+2026-06-12 12:14:38,281 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:38,988 - DEBUG - Counting for batch 58, containing 100 cells and 61384 reads
+2026-06-12 12:14:39,649 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:40,447 - DEBUG - Counting for batch 59, containing 100 cells and 78427 reads
+2026-06-12 12:14:41,233 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:41,994 - DEBUG - Counting for batch 60, containing 100 cells and 69030 reads
+2026-06-12 12:14:43,454 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:44,307 - DEBUG - Counting for batch 61, containing 100 cells and 80898 reads
+2026-06-12 12:14:45,173 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:46,049 - DEBUG - Counting for batch 62, containing 100 cells and 78920 reads
+2026-06-12 12:14:46,849 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:48,331 - DEBUG - Counting for batch 63, containing 100 cells and 71337 reads
+2026-06-12 12:14:49,100 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:49,891 - DEBUG - Counting for batch 64, containing 100 cells and 70769 reads
+2026-06-12 12:14:50,633 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:51,474 - DEBUG - Counting for batch 65, containing 100 cells and 84320 reads
+2026-06-12 12:14:53,040 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:53,876 - DEBUG - Counting for batch 66, containing 100 cells and 76016 reads
+2026-06-12 12:14:54,607 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:55,391 - DEBUG - Counting for batch 67, containing 100 cells and 72789 reads
+2026-06-12 12:14:56,152 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:57,574 - DEBUG - Counting for batch 68, containing 100 cells and 68837 reads
+2026-06-12 12:14:58,318 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:14:59,137 - DEBUG - Counting for batch 69, containing 100 cells and 75037 reads
+2026-06-12 12:14:59,930 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:01,572 - DEBUG - Counting for batch 70, containing 100 cells and 89996 reads
+2026-06-12 12:15:02,522 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:03,502 - DEBUG - Counting for batch 71, containing 100 cells and 87119 reads
+2026-06-12 12:15:04,432 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:06,074 - DEBUG - Counting for batch 72, containing 100 cells and 87360 reads
+2026-06-12 12:15:07,049 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:07,979 - DEBUG - Counting for batch 73, containing 100 cells and 77386 reads
+2026-06-12 12:15:09,601 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:10,418 - DEBUG - Counting for batch 74, containing 100 cells and 70463 reads
+2026-06-12 12:15:11,207 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:11,990 - DEBUG - Counting for batch 75, containing 100 cells and 69643 reads
+2026-06-12 12:15:13,531 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:14,286 - DEBUG - Counting for batch 76, containing 100 cells and 63470 reads
+2026-06-12 12:15:15,030 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:15,793 - DEBUG - Counting for batch 77, containing 100 cells and 69310 reads
+2026-06-12 12:15:16,517 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:17,250 - DEBUG - Counting for batch 78, containing 100 cells and 68245 reads
+2026-06-12 12:15:18,726 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:19,458 - DEBUG - Counting for batch 79, containing 100 cells and 66777 reads
+2026-06-12 12:15:20,170 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:20,838 - DEBUG - Counting for batch 80, containing 100 cells and 59382 reads
+2026-06-12 12:15:21,504 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:22,206 - DEBUG - Counting for batch 81, containing 100 cells and 64273 reads
+2026-06-12 12:15:22,904 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:24,269 - DEBUG - Counting for batch 82, containing 100 cells and 65285 reads
+2026-06-12 12:15:24,968 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:25,646 - DEBUG - Counting for batch 83, containing 100 cells and 63103 reads
+2026-06-12 12:15:26,348 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:27,080 - DEBUG - Counting for batch 84, containing 100 cells and 67861 reads
+2026-06-12 12:15:28,543 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:29,295 - DEBUG - Counting for batch 85, containing 100 cells and 67313 reads
+2026-06-12 12:15:30,038 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:30,906 - DEBUG - Counting for batch 86, containing 100 cells and 87108 reads
+2026-06-12 12:15:31,784 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:33,310 - DEBUG - Counting for batch 87, containing 100 cells and 75237 reads
+2026-06-12 12:15:34,089 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:34,948 - DEBUG - Counting for batch 88, containing 100 cells and 81132 reads
+2026-06-12 12:15:35,730 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:36,539 - DEBUG - Counting for batch 89, containing 100 cells and 73660 reads
+2026-06-12 12:15:38,042 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:38,821 - DEBUG - Counting for batch 90, containing 100 cells and 73026 reads
+2026-06-12 12:15:39,570 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:40,291 - DEBUG - Counting for batch 91, containing 100 cells and 61218 reads
+2026-06-12 12:15:40,972 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:41,780 - DEBUG - Counting for batch 92, containing 100 cells and 70101 reads
+2026-06-12 12:15:43,303 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:44,164 - DEBUG - Counting for batch 93, containing 100 cells and 80981 reads
+2026-06-12 12:15:45,088 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:46,028 - DEBUG - Counting for batch 94, containing 100 cells and 81408 reads
+2026-06-12 12:15:47,621 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:48,487 - DEBUG - Counting for batch 95, containing 100 cells and 73995 reads
+2026-06-12 12:15:49,257 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:50,085 - DEBUG - Counting for batch 96, containing 100 cells and 77604 reads
+2026-06-12 12:15:51,659 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:52,485 - DEBUG - Counting for batch 97, containing 100 cells and 71565 reads
+2026-06-12 12:15:53,222 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:53,976 - DEBUG - Counting for batch 98, containing 100 cells and 68442 reads
+2026-06-12 12:15:54,699 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:55,502 - DEBUG - Counting for batch 99, containing 100 cells and 76217 reads
+2026-06-12 12:15:56,954 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:57,725 - DEBUG - Counting for batch 100, containing 100 cells and 70510 reads
+2026-06-12 12:15:58,467 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:15:59,285 - DEBUG - Counting for batch 101, containing 100 cells and 77152 reads
+2026-06-12 12:16:00,046 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:01,457 - DEBUG - Counting for batch 102, containing 100 cells and 65394 reads
+2026-06-12 12:16:02,178 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:02,857 - DEBUG - Counting for batch 103, containing 100 cells and 63600 reads
+2026-06-12 12:16:03,625 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:04,469 - DEBUG - Counting for batch 104, containing 100 cells and 79032 reads
+2026-06-12 12:16:05,999 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:06,774 - DEBUG - Counting for batch 105, containing 100 cells and 69505 reads
+2026-06-12 12:16:07,503 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:08,276 - DEBUG - Counting for batch 106, containing 100 cells and 71923 reads
+2026-06-12 12:16:09,015 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:09,747 - DEBUG - Counting for batch 107, containing 100 cells and 67891 reads
+2026-06-12 12:16:11,248 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:12,025 - DEBUG - Counting for batch 108, containing 100 cells and 70533 reads
+2026-06-12 12:16:12,760 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:13,435 - DEBUG - Counting for batch 109, containing 100 cells and 60956 reads
+2026-06-12 12:16:14,101 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:14,814 - DEBUG - Counting for batch 110, containing 100 cells and 69135 reads
+2026-06-12 12:16:16,302 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:17,026 - DEBUG - Counting for batch 111, containing 100 cells and 65028 reads
+2026-06-12 12:16:17,711 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:18,490 - DEBUG - Counting for batch 112, containing 100 cells and 74297 reads
+2026-06-12 12:16:19,274 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:20,787 - DEBUG - Counting for batch 113, containing 100 cells and 71666 reads
+2026-06-12 12:16:21,578 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:22,348 - DEBUG - Counting for batch 114, containing 100 cells and 68947 reads
+2026-06-12 12:16:23,048 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:23,582 - DEBUG - Read first 30 million reads
+2026-06-12 12:16:23,761 - DEBUG - Counting for batch 115, containing 100 cells and 66083 reads
+2026-06-12 12:16:24,468 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:25,890 - DEBUG - Counting for batch 116, containing 100 cells and 67327 reads
+2026-06-12 12:16:26,623 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:27,394 - DEBUG - Counting for batch 117, containing 100 cells and 70771 reads
+2026-06-12 12:16:28,144 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:28,946 - DEBUG - Counting for batch 118, containing 100 cells and 71881 reads
+2026-06-12 12:16:30,481 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:31,331 - DEBUG - Counting for batch 119, containing 100 cells and 77270 reads
+2026-06-12 12:16:32,173 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:33,086 - DEBUG - Counting for batch 120, containing 100 cells and 83894 reads
+2026-06-12 12:16:34,729 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:35,660 - DEBUG - Counting for batch 121, containing 100 cells and 83136 reads
+2026-06-12 12:16:36,535 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:37,418 - DEBUG - Counting for batch 122, containing 100 cells and 77427 reads
+2026-06-12 12:16:38,160 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:39,569 - DEBUG - Counting for batch 123, containing 100 cells and 67302 reads
+2026-06-12 12:16:40,260 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:40,987 - DEBUG - Counting for batch 124, containing 100 cells and 68420 reads
+2026-06-12 12:16:41,699 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:42,648 - DEBUG - Counting for batch 125, containing 100 cells and 94784 reads
+2026-06-12 12:16:44,309 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:45,281 - DEBUG - Counting for batch 126, containing 100 cells and 84177 reads
+2026-06-12 12:16:46,916 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:47,767 - DEBUG - Counting for batch 127, containing 100 cells and 70793 reads
+2026-06-12 12:16:48,493 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:49,272 - DEBUG - Counting for batch 128, containing 100 cells and 73738 reads
+2026-06-12 12:16:49,993 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:50,706 - DEBUG - Counting for batch 129, containing 100 cells and 65660 reads
+2026-06-12 12:16:51,395 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:52,825 - DEBUG - Counting for batch 130, containing 100 cells and 73524 reads
+2026-06-12 12:16:53,517 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:54,211 - DEBUG - Counting for batch 131, containing 100 cells and 64037 reads
+2026-06-12 12:16:54,885 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:55,659 - DEBUG - Counting for batch 132, containing 100 cells and 75379 reads
+2026-06-12 12:16:57,146 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:57,943 - DEBUG - Counting for batch 133, containing 100 cells and 73766 reads
+2026-06-12 12:16:58,757 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:16:59,608 - DEBUG - Counting for batch 134, containing 100 cells and 74424 reads
+2026-06-12 12:17:01,117 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:01,940 - DEBUG - Counting for batch 135, containing 100 cells and 74097 reads
+2026-06-12 12:17:02,745 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:03,579 - DEBUG - Counting for batch 136, containing 100 cells and 74841 reads
+2026-06-12 12:17:04,355 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:05,891 - DEBUG - Counting for batch 137, containing 100 cells and 78381 reads
+2026-06-12 12:17:06,697 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:07,541 - DEBUG - Counting for batch 138, containing 100 cells and 76275 reads
+2026-06-12 12:17:08,321 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:09,106 - DEBUG - Counting for batch 139, containing 100 cells and 70593 reads
+2026-06-12 12:17:10,593 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:11,463 - DEBUG - Counting for batch 140, containing 100 cells and 77822 reads
+2026-06-12 12:17:12,322 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:13,214 - DEBUG - Counting for batch 141, containing 100 cells and 78679 reads
+2026-06-12 12:17:14,758 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:15,608 - DEBUG - Counting for batch 142, containing 100 cells and 75828 reads
+2026-06-12 12:17:16,441 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:17,343 - DEBUG - Counting for batch 143, containing 100 cells and 80664 reads
+2026-06-12 12:17:18,867 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:19,708 - DEBUG - Counting for batch 144, containing 100 cells and 64796 reads
+2026-06-12 12:17:20,412 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:21,111 - DEBUG - Counting for batch 145, containing 100 cells and 63497 reads
+2026-06-12 12:17:21,800 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:22,575 - DEBUG - Counting for batch 146, containing 100 cells and 71593 reads
+2026-06-12 12:17:24,022 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:24,832 - DEBUG - Counting for batch 147, containing 100 cells and 76799 reads
+2026-06-12 12:17:25,629 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:26,424 - DEBUG - Counting for batch 148, containing 100 cells and 71859 reads
+2026-06-12 12:17:27,903 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:28,723 - DEBUG - Counting for batch 149, containing 100 cells and 75674 reads
+2026-06-12 12:17:29,511 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:30,374 - DEBUG - Counting for batch 150, containing 100 cells and 80691 reads
+2026-06-12 12:17:31,190 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:32,773 - DEBUG - Counting for batch 151, containing 100 cells and 84921 reads
+2026-06-12 12:17:33,688 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:34,656 - DEBUG - Counting for batch 152, containing 100 cells and 85925 reads
+2026-06-12 12:17:36,335 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:37,332 - DEBUG - Counting for batch 153, containing 100 cells and 87589 reads
+2026-06-12 12:17:38,272 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:39,159 - DEBUG - Counting for batch 154, containing 100 cells and 75431 reads
+2026-06-12 12:17:40,661 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:41,493 - DEBUG - Counting for batch 155, containing 100 cells and 74334 reads
+2026-06-12 12:17:42,271 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:43,060 - DEBUG - Counting for batch 156, containing 100 cells and 71167 reads
+2026-06-12 12:17:44,528 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:45,350 - DEBUG - Counting for batch 157, containing 100 cells and 75501 reads
+2026-06-12 12:17:46,142 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:46,977 - DEBUG - Counting for batch 158, containing 100 cells and 76048 reads
+2026-06-12 12:17:47,796 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:49,395 - DEBUG - Counting for batch 159, containing 100 cells and 82840 reads
+2026-06-12 12:17:50,296 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:51,364 - DEBUG - Counting for batch 160, containing 100 cells and 99825 reads
+2026-06-12 12:17:53,142 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:54,122 - DEBUG - Counting for batch 161, containing 100 cells and 77563 reads
+2026-06-12 12:17:54,941 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:55,795 - DEBUG - Counting for batch 162, containing 100 cells and 75870 reads
+2026-06-12 12:17:57,301 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:17:58,177 - DEBUG - Counting for batch 163, containing 100 cells and 79755 reads
+2026-06-12 12:17:59,053 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:00,046 - DEBUG - Counting for batch 164, containing 100 cells and 88156 reads
+2026-06-12 12:18:01,699 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:02,555 - DEBUG - Counting for batch 165, containing 100 cells and 70915 reads
+2026-06-12 12:18:03,300 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:03,979 - DEBUG - Counting for batch 166, containing 100 cells and 59580 reads
+2026-06-12 12:18:05,358 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:06,045 - DEBUG - Counting for batch 167, containing 100 cells and 63579 reads
+2026-06-12 12:18:06,708 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:07,454 - DEBUG - Counting for batch 168, containing 100 cells and 73200 reads
+2026-06-12 12:18:08,198 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:09,066 - DEBUG - Counting for batch 169, containing 100 cells and 82692 reads
+2026-06-12 12:18:10,585 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:11,356 - DEBUG - Counting for batch 170, containing 100 cells and 66820 reads
+2026-06-12 12:18:12,087 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:12,891 - DEBUG - Counting for batch 171, containing 100 cells and 75726 reads
+2026-06-12 12:18:13,698 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:15,172 - DEBUG - Counting for batch 172, containing 100 cells and 75158 reads
+2026-06-12 12:18:15,916 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:16,764 - DEBUG - Counting for batch 173, containing 100 cells and 80042 reads
+2026-06-12 12:18:17,548 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:18,307 - DEBUG - Counting for batch 174, containing 100 cells and 65726 reads
+2026-06-12 12:18:19,694 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:20,525 - DEBUG - Counting for batch 175, containing 100 cells and 80741 reads
+2026-06-12 12:18:21,342 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:22,195 - DEBUG - Counting for batch 176, containing 100 cells and 79280 reads
+2026-06-12 12:18:23,704 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:24,558 - DEBUG - Counting for batch 177, containing 100 cells and 77618 reads
+2026-06-12 12:18:25,365 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:26,195 - DEBUG - Counting for batch 178, containing 100 cells and 72125 reads
+2026-06-12 12:18:26,948 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:28,298 - DEBUG - Read first 40 million reads
+2026-06-12 12:18:28,381 - DEBUG - Counting for batch 179, containing 100 cells and 68989 reads
+2026-06-12 12:18:29,123 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:29,988 - DEBUG - Counting for batch 180, containing 100 cells and 78448 reads
+2026-06-12 12:18:30,893 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:32,336 - DEBUG - Counting for batch 181, containing 100 cells and 56118 reads
+2026-06-12 12:18:32,990 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:33,734 - DEBUG - Counting for batch 182, containing 100 cells and 66871 reads
+2026-06-12 12:18:34,450 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:35,182 - DEBUG - Counting for batch 183, containing 100 cells and 64467 reads
+2026-06-12 12:18:36,586 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:37,300 - DEBUG - Counting for batch 184, containing 100 cells and 62766 reads
+2026-06-12 12:18:37,988 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:38,737 - DEBUG - Counting for batch 185, containing 100 cells and 72205 reads
+2026-06-12 12:18:39,496 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:40,326 - DEBUG - Counting for batch 186, containing 100 cells and 77253 reads
+2026-06-12 12:18:41,923 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:42,710 - DEBUG - Counting for batch 187, containing 100 cells and 63056 reads
+2026-06-12 12:18:43,380 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:44,114 - DEBUG - Counting for batch 188, containing 100 cells and 68135 reads
+2026-06-12 12:18:44,770 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:46,165 - DEBUG - Counting for batch 189, containing 100 cells and 74103 reads
+2026-06-12 12:18:46,855 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:47,560 - DEBUG - Counting for batch 190, containing 100 cells and 67216 reads
+2026-06-12 12:18:48,249 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:49,113 - DEBUG - Counting for batch 191, containing 100 cells and 86442 reads
+2026-06-12 12:18:50,665 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:51,563 - DEBUG - Counting for batch 192, containing 100 cells and 78746 reads
+2026-06-12 12:18:52,310 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:53,733 - DEBUG - Counting for batch 193, containing 100 cells and 72973 reads
+2026-06-12 12:18:54,428 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:55,184 - DEBUG - Counting for batch 194, containing 100 cells and 73145 reads
+2026-06-12 12:18:55,931 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:56,759 - DEBUG - Counting for batch 195, containing 100 cells and 76631 reads
+2026-06-12 12:18:58,177 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:18:59,092 - DEBUG - Counting for batch 196, containing 100 cells and 90414 reads
+2026-06-12 12:18:59,918 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:00,716 - DEBUG - Counting for batch 197, containing 100 cells and 72253 reads
+2026-06-12 12:19:02,150 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:02,974 - DEBUG - Counting for batch 198, containing 100 cells and 74370 reads
+2026-06-12 12:19:03,752 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:04,505 - DEBUG - Counting for batch 199, containing 100 cells and 65717 reads
+2026-06-12 12:19:05,821 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:06,613 - DEBUG - Counting for batch 200, containing 100 cells and 79212 reads
+2026-06-12 12:19:07,399 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:08,271 - DEBUG - Counting for batch 201, containing 100 cells and 81854 reads
+2026-06-12 12:19:09,735 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:10,583 - DEBUG - Counting for batch 202, containing 100 cells and 79479 reads
+2026-06-12 12:19:11,310 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:12,120 - DEBUG - Counting for batch 203, containing 100 cells and 78169 reads
+2026-06-12 12:19:13,597 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:14,376 - DEBUG - Counting for batch 204, containing 100 cells and 68190 reads
+2026-06-12 12:19:15,059 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:15,844 - DEBUG - Counting for batch 205, containing 100 cells and 75110 reads
+2026-06-12 12:19:16,602 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:18,072 - DEBUG - Counting for batch 206, containing 100 cells and 76710 reads
+2026-06-12 12:19:18,849 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:19,783 - DEBUG - Counting for batch 207, containing 100 cells and 72023 reads
+2026-06-12 12:19:21,296 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:22,257 - DEBUG - Counting for batch 208, containing 100 cells and 89731 reads
+2026-06-12 12:19:23,230 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:24,056 - DEBUG - Counting for batch 209, containing 100 cells and 64805 reads
+2026-06-12 12:19:25,377 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:26,071 - DEBUG - Counting for batch 210, containing 100 cells and 67634 reads
+2026-06-12 12:19:26,716 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:27,493 - DEBUG - Counting for batch 211, containing 100 cells and 75852 reads
+2026-06-12 12:19:28,919 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:29,728 - DEBUG - Counting for batch 212, containing 100 cells and 76730 reads
+2026-06-12 12:19:30,478 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:31,153 - DEBUG - Counting for batch 213, containing 100 cells and 60533 reads
+2026-06-12 12:19:31,765 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:32,500 - DEBUG - Counting for batch 214, containing 100 cells and 73878 reads
+2026-06-12 12:19:33,962 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:34,703 - DEBUG - Counting for batch 215, containing 100 cells and 65031 reads
+2026-06-12 12:19:35,353 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:36,136 - DEBUG - Counting for batch 216, containing 100 cells and 76989 reads
+2026-06-12 12:19:37,673 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:38,585 - DEBUG - Counting for batch 217, containing 100 cells and 89240 reads
+2026-06-12 12:19:39,465 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:40,354 - DEBUG - Counting for batch 218, containing 100 cells and 80018 reads
+2026-06-12 12:19:41,819 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:42,693 - DEBUG - Counting for batch 219, containing 100 cells and 83430 reads
+2026-06-12 12:19:43,518 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:44,969 - DEBUG - Counting for batch 220, containing 100 cells and 66885 reads
+2026-06-12 12:19:45,649 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:46,482 - DEBUG - Counting for batch 221, containing 100 cells and 83102 reads
+2026-06-12 12:19:47,313 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:48,823 - DEBUG - Counting for batch 222, containing 100 cells and 79472 reads
+2026-06-12 12:19:49,614 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:50,426 - DEBUG - Counting for batch 223, containing 100 cells and 73766 reads
+2026-06-12 12:19:51,153 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:52,641 - DEBUG - Counting for batch 224, containing 100 cells and 85800 reads
+2026-06-12 12:19:53,476 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:54,519 - DEBUG - Counting for batch 225, containing 100 cells and 96189 reads
+2026-06-12 12:19:56,276 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:57,196 - DEBUG - Counting for batch 226, containing 100 cells and 71907 reads
+2026-06-12 12:19:58,637 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:19:59,495 - DEBUG - Counting for batch 227, containing 100 cells and 81812 reads
+2026-06-12 12:20:00,349 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:01,337 - DEBUG - Counting for batch 228, containing 100 cells and 95343 reads
+2026-06-12 12:20:03,040 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:03,932 - DEBUG - Counting for batch 229, containing 100 cells and 72823 reads
+2026-06-12 12:20:04,614 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:05,264 - DEBUG - Counting for batch 230, containing 100 cells and 61714 reads
+2026-06-12 12:20:06,538 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:07,165 - DEBUG - Counting for batch 231, containing 100 cells and 62287 reads
+2026-06-12 12:20:07,789 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:08,538 - DEBUG - Counting for batch 232, containing 100 cells and 73113 reads
+2026-06-12 12:20:09,267 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:10,644 - DEBUG - Counting for batch 233, containing 100 cells and 67975 reads
+2026-06-12 12:20:11,332 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:12,132 - DEBUG - Counting for batch 234, containing 100 cells and 75922 reads
+2026-06-12 12:20:12,824 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:13,554 - DEBUG - Counting for batch 235, containing 100 cells and 67907 reads
+2026-06-12 12:20:14,853 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:15,543 - DEBUG - Counting for batch 236, containing 100 cells and 69523 reads
+2026-06-12 12:20:16,197 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:16,907 - DEBUG - Counting for batch 237, containing 100 cells and 70740 reads
+2026-06-12 12:20:17,577 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:18,221 - DEBUG - Counting for batch 238, containing 100 cells and 57998 reads
+2026-06-12 12:20:19,481 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:20,178 - DEBUG - Counting for batch 239, containing 100 cells and 68165 reads
+2026-06-12 12:20:20,815 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:21,495 - DEBUG - Counting for batch 240, containing 100 cells and 65521 reads
+2026-06-12 12:20:22,129 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:23,541 - DEBUG - Counting for batch 241, containing 100 cells and 75712 reads
+2026-06-12 12:20:24,213 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:24,905 - DEBUG - Counting for batch 242, containing 100 cells and 67055 reads
+2026-06-12 12:20:25,541 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:26,262 - DEBUG - Counting for batch 243, containing 100 cells and 70599 reads
+2026-06-12 12:20:26,911 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:27,335 - DEBUG - Read first 50 million reads
+2026-06-12 12:20:28,243 - DEBUG - Counting for batch 244, containing 100 cells and 66713 reads
+2026-06-12 12:20:28,881 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:29,562 - DEBUG - Counting for batch 245, containing 100 cells and 66131 reads
+2026-06-12 12:20:30,183 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:30,868 - DEBUG - Counting for batch 246, containing 100 cells and 68273 reads
+2026-06-12 12:20:31,525 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:32,870 - DEBUG - Counting for batch 247, containing 100 cells and 68167 reads
+2026-06-12 12:20:33,551 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:34,292 - DEBUG - Counting for batch 248, containing 100 cells and 70387 reads
+2026-06-12 12:20:34,952 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:35,679 - DEBUG - Counting for batch 249, containing 100 cells and 70521 reads
+2026-06-12 12:20:37,052 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:37,884 - DEBUG - Counting for batch 250, containing 100 cells and 82182 reads
+2026-06-12 12:20:38,694 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:39,485 - DEBUG - Counting for batch 251, containing 100 cells and 69816 reads
+2026-06-12 12:20:40,798 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:41,501 - DEBUG - Counting for batch 252, containing 100 cells and 70132 reads
+2026-06-12 12:20:42,142 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:42,848 - DEBUG - Counting for batch 253, containing 100 cells and 72368 reads
+2026-06-12 12:20:43,492 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:44,289 - DEBUG - Counting for batch 254, containing 100 cells and 81248 reads
+2026-06-12 12:20:45,686 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:46,464 - DEBUG - Counting for batch 255, containing 100 cells and 76947 reads
+2026-06-12 12:20:47,144 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:47,896 - DEBUG - Counting for batch 256, containing 100 cells and 75130 reads
+2026-06-12 12:20:48,567 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:49,916 - DEBUG - Counting for batch 257, containing 100 cells and 69189 reads
+2026-06-12 12:20:50,566 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:51,306 - DEBUG - Counting for batch 258, containing 100 cells and 72566 reads
+2026-06-12 12:20:51,975 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:52,705 - DEBUG - Counting for batch 259, containing 100 cells and 71687 reads
+2026-06-12 12:20:54,047 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:54,757 - DEBUG - Counting for batch 260, containing 100 cells and 68361 reads
+2026-06-12 12:20:55,401 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:56,118 - DEBUG - Counting for batch 261, containing 100 cells and 67723 reads
+2026-06-12 12:20:56,746 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:57,400 - DEBUG - Counting for batch 262, containing 100 cells and 62185 reads
+2026-06-12 12:20:58,009 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:20:59,312 - DEBUG - Counting for batch 263, containing 100 cells and 67758 reads
+2026-06-12 12:20:59,971 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:00,686 - DEBUG - Counting for batch 264, containing 100 cells and 68562 reads
+2026-06-12 12:21:01,366 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:02,135 - DEBUG - Counting for batch 265, containing 100 cells and 73195 reads
+2026-06-12 12:21:03,477 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:04,157 - DEBUG - Counting for batch 266, containing 100 cells and 65903 reads
+2026-06-12 12:21:04,804 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:05,496 - DEBUG - Counting for batch 267, containing 100 cells and 62619 reads
+2026-06-12 12:21:06,173 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:07,509 - DEBUG - Counting for batch 268, containing 100 cells and 64023 reads
+2026-06-12 12:21:08,149 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:08,821 - DEBUG - Counting for batch 269, containing 100 cells and 48668 reads
+2026-06-12 12:21:09,356 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:09,947 - DEBUG - Counting for batch 270, containing 100 cells and 50634 reads
+2026-06-12 12:21:10,513 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:11,196 - DEBUG - Counting for batch 271, containing 100 cells and 66644 reads
+2026-06-12 12:21:12,496 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:13,107 - DEBUG - Counting for batch 272, containing 100 cells and 59868 reads
+2026-06-12 12:21:13,729 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:14,426 - DEBUG - Counting for batch 273, containing 100 cells and 67777 reads
+2026-06-12 12:21:15,103 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:15,824 - DEBUG - Counting for batch 274, containing 100 cells and 67799 reads
+2026-06-12 12:21:17,122 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:17,877 - DEBUG - Counting for batch 275, containing 100 cells and 77036 reads
+2026-06-12 12:21:18,652 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:19,478 - DEBUG - Counting for batch 276, containing 100 cells and 77025 reads
+2026-06-12 12:21:20,884 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:21,587 - DEBUG - Counting for batch 277, containing 100 cells and 65107 reads
+2026-06-12 12:21:22,218 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:22,939 - DEBUG - Counting for batch 278, containing 100 cells and 71934 reads
+2026-06-12 12:21:23,644 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:25,114 - DEBUG - Counting for batch 279, containing 100 cells and 80430 reads
+2026-06-12 12:21:25,884 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:26,733 - DEBUG - Counting for batch 280, containing 100 cells and 78898 reads
+2026-06-12 12:21:28,217 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:29,097 - DEBUG - Counting for batch 281, containing 100 cells and 79535 reads
+2026-06-12 12:21:29,876 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:30,685 - DEBUG - Counting for batch 282, containing 100 cells and 68133 reads
+2026-06-12 12:21:31,367 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:32,786 - DEBUG - Counting for batch 283, containing 100 cells and 73380 reads
+2026-06-12 12:21:33,504 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:34,224 - DEBUG - Counting for batch 284, containing 100 cells and 68849 reads
+2026-06-12 12:21:34,857 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:35,625 - DEBUG - Counting for batch 285, containing 100 cells and 77727 reads
+2026-06-12 12:21:37,042 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:37,919 - DEBUG - Counting for batch 286, containing 100 cells and 86845 reads
+2026-06-12 12:21:38,756 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:39,525 - DEBUG - Counting for batch 287, containing 100 cells and 68495 reads
+2026-06-12 12:21:40,857 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:41,726 - DEBUG - Counting for batch 288, containing 100 cells and 91374 reads
+2026-06-12 12:21:42,594 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:43,458 - DEBUG - Counting for batch 289, containing 100 cells and 78245 reads
+2026-06-12 12:21:44,904 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:45,688 - DEBUG - Counting for batch 290, containing 100 cells and 68472 reads
+2026-06-12 12:21:46,342 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:47,093 - DEBUG - Counting for batch 291, containing 100 cells and 72212 reads
+2026-06-12 12:21:48,527 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:49,403 - DEBUG - Counting for batch 292, containing 100 cells and 82001 reads
+2026-06-12 12:21:50,230 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:51,003 - DEBUG - Counting for batch 293, containing 100 cells and 64748 reads
+2026-06-12 12:21:51,625 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:52,968 - DEBUG - Counting for batch 294, containing 100 cells and 71388 reads
+2026-06-12 12:21:53,637 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:54,334 - DEBUG - Counting for batch 295, containing 100 cells and 64935 reads
+2026-06-12 12:21:54,957 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:55,650 - DEBUG - Counting for batch 296, containing 100 cells and 69626 reads
+2026-06-12 12:21:56,966 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:57,697 - DEBUG - Counting for batch 297, containing 100 cells and 74279 reads
+2026-06-12 12:21:58,356 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:21:59,076 - DEBUG - Counting for batch 298, containing 100 cells and 70603 reads
+2026-06-12 12:21:59,764 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:00,540 - DEBUG - Counting for batch 299, containing 100 cells and 76608 reads
+2026-06-12 12:22:01,947 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:02,731 - DEBUG - Counting for batch 300, containing 100 cells and 73016 reads
+2026-06-12 12:22:03,474 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:04,247 - DEBUG - Counting for batch 301, containing 100 cells and 69475 reads
+2026-06-12 12:22:05,621 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:06,448 - DEBUG - Counting for batch 302, containing 100 cells and 78478 reads
+2026-06-12 12:22:07,202 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:08,026 - DEBUG - Counting for batch 303, containing 100 cells and 79956 reads
+2026-06-12 12:22:09,478 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:10,430 - DEBUG - Counting for batch 304, containing 100 cells and 88854 reads
+2026-06-12 12:22:11,343 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:12,066 - DEBUG - Counting for batch 305, containing 100 cells and 52018 reads
+2026-06-12 12:22:13,287 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:13,962 - DEBUG - Counting for batch 306, containing 100 cells and 68042 reads
+2026-06-12 12:22:14,596 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:15,243 - DEBUG - Counting for batch 307, containing 100 cells and 62572 reads
+2026-06-12 12:22:15,870 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:16,574 - DEBUG - Counting for batch 308, containing 100 cells and 69335 reads
+2026-06-12 12:22:17,889 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:18,613 - DEBUG - Counting for batch 309, containing 100 cells and 69678 reads
+2026-06-12 12:22:19,293 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:20,137 - DEBUG - Counting for batch 310, containing 100 cells and 86751 reads
+2026-06-12 12:22:21,691 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:21,985 - DEBUG - Read first 60 million reads
+2026-06-12 12:22:22,522 - DEBUG - Counting for batch 311, containing 100 cells and 72110 reads
+2026-06-12 12:22:23,196 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:23,983 - DEBUG - Counting for batch 312, containing 100 cells and 79857 reads
+2026-06-12 12:22:25,414 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:26,392 - DEBUG - Counting for batch 313, containing 100 cells and 99810 reads
+2026-06-12 12:22:27,341 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:28,284 - DEBUG - Counting for batch 314, containing 100 cells and 85481 reads
+2026-06-12 12:22:29,815 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:30,780 - DEBUG - Counting for batch 315, containing 100 cells and 90597 reads
+2026-06-12 12:22:31,618 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:33,198 - DEBUG - Counting for batch 316, containing 100 cells and 91221 reads
+2026-06-12 12:22:34,043 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:34,872 - DEBUG - Counting for batch 317, containing 100 cells and 70760 reads
+2026-06-12 12:22:36,274 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:37,084 - DEBUG - Counting for batch 318, containing 100 cells and 79310 reads
+2026-06-12 12:22:37,854 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:38,673 - DEBUG - Counting for batch 319, containing 100 cells and 76624 reads
+2026-06-12 12:22:40,136 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:40,927 - DEBUG - Counting for batch 320, containing 100 cells and 71800 reads
+2026-06-12 12:22:41,647 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:42,405 - DEBUG - Counting for batch 321, containing 100 cells and 69757 reads
+2026-06-12 12:22:43,041 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:44,589 - DEBUG - Counting for batch 322, containing 100 cells and 95492 reads
+2026-06-12 12:22:45,601 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:46,641 - DEBUG - Counting for batch 323, containing 100 cells and 92081 reads
+2026-06-12 12:22:48,214 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:49,162 - DEBUG - Counting for batch 324, containing 100 cells and 87708 reads
+2026-06-12 12:22:50,723 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:51,605 - DEBUG - Counting for batch 325, containing 100 cells and 82121 reads
+2026-06-12 12:22:52,373 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:53,096 - DEBUG - Counting for batch 326, containing 100 cells and 66450 reads
+2026-06-12 12:22:53,733 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:54,370 - DEBUG - Counting for batch 327, containing 100 cells and 60415 reads
+2026-06-12 12:22:55,666 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:56,315 - DEBUG - Counting for batch 328, containing 100 cells and 62769 reads
+2026-06-12 12:22:56,919 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:57,596 - DEBUG - Counting for batch 329, containing 100 cells and 68234 reads
+2026-06-12 12:22:58,265 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:22:59,091 - DEBUG - Counting for batch 330, containing 100 cells and 81716 reads
+2026-06-12 12:23:00,500 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:01,223 - DEBUG - Counting for batch 331, containing 100 cells and 67541 reads
+2026-06-12 12:23:01,859 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:02,527 - DEBUG - Counting for batch 332, containing 100 cells and 65467 reads
+2026-06-12 12:23:03,152 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:04,475 - DEBUG - Counting for batch 333, containing 100 cells and 66400 reads
+2026-06-12 12:23:05,103 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:05,777 - DEBUG - Counting for batch 334, containing 100 cells and 66212 reads
+2026-06-12 12:23:06,389 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:07,010 - DEBUG - Counting for batch 335, containing 100 cells and 61607 reads
+2026-06-12 12:23:07,617 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:08,302 - DEBUG - Counting for batch 336, containing 100 cells and 68863 reads
+2026-06-12 12:23:09,597 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:10,348 - DEBUG - Counting for batch 337, containing 100 cells and 76189 reads
+2026-06-12 12:23:11,047 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:11,799 - DEBUG - Counting for batch 338, containing 100 cells and 72729 reads
+2026-06-12 12:23:12,460 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:13,829 - DEBUG - Counting for batch 339, containing 100 cells and 73993 reads
+2026-06-12 12:23:14,515 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:15,266 - DEBUG - Counting for batch 340, containing 100 cells and 75122 reads
+2026-06-12 12:23:15,986 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:17,453 - DEBUG - Counting for batch 341, containing 100 cells and 79712 reads
+2026-06-12 12:23:18,192 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:18,876 - DEBUG - Counting for batch 342, containing 100 cells and 61515 reads
+2026-06-12 12:23:19,476 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:20,184 - DEBUG - Counting for batch 343, containing 100 cells and 73041 reads
+2026-06-12 12:23:21,540 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:22,278 - DEBUG - Counting for batch 344, containing 100 cells and 73741 reads
+2026-06-12 12:23:22,948 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:23,624 - DEBUG - Counting for batch 345, containing 100 cells and 64690 reads
+2026-06-12 12:23:24,233 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:24,937 - DEBUG - Counting for batch 346, containing 100 cells and 70423 reads
+2026-06-12 12:23:26,305 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:27,104 - DEBUG - Counting for batch 347, containing 100 cells and 82519 reads
+2026-06-12 12:23:27,841 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:28,646 - DEBUG - Counting for batch 348, containing 100 cells and 79554 reads
+2026-06-12 12:23:29,393 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:30,859 - DEBUG - Counting for batch 349, containing 100 cells and 81117 reads
+2026-06-12 12:23:31,590 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:32,363 - DEBUG - Counting for batch 350, containing 100 cells and 74663 reads
+2026-06-12 12:23:33,051 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:34,408 - DEBUG - Counting for batch 351, containing 100 cells and 67255 reads
+2026-06-12 12:23:35,030 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:35,715 - DEBUG - Counting for batch 352, containing 100 cells and 69907 reads
+2026-06-12 12:23:36,365 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:37,110 - DEBUG - Counting for batch 353, containing 100 cells and 74162 reads
+2026-06-12 12:23:37,778 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:39,218 - DEBUG - Counting for batch 354, containing 100 cells and 81485 reads
+2026-06-12 12:23:39,953 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:40,704 - DEBUG - Counting for batch 355, containing 100 cells and 75137 reads
+2026-06-12 12:23:41,391 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:42,122 - DEBUG - Counting for batch 356, containing 100 cells and 72673 reads
+2026-06-12 12:23:43,452 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:44,135 - DEBUG - Counting for batch 357, containing 100 cells and 67976 reads
+2026-06-12 12:23:44,786 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:45,500 - DEBUG - Counting for batch 358, containing 100 cells and 72077 reads
+2026-06-12 12:23:46,203 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:47,534 - DEBUG - Counting for batch 359, containing 100 cells and 63901 reads
+2026-06-12 12:23:48,162 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:48,885 - DEBUG - Counting for batch 360, containing 100 cells and 74106 reads
+2026-06-12 12:23:49,561 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:50,318 - DEBUG - Counting for batch 361, containing 100 cells and 75555 reads
+2026-06-12 12:23:51,702 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:52,359 - DEBUG - Counting for batch 362, containing 100 cells and 58383 reads
+2026-06-12 12:23:52,959 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:53,645 - DEBUG - Counting for batch 363, containing 100 cells and 70392 reads
+2026-06-12 12:23:54,282 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:54,987 - DEBUG - Counting for batch 364, containing 100 cells and 71615 reads
+2026-06-12 12:23:56,346 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:57,111 - DEBUG - Counting for batch 365, containing 100 cells and 76559 reads
+2026-06-12 12:23:57,820 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:23:58,578 - DEBUG - Counting for batch 366, containing 100 cells and 74039 reads
+2026-06-12 12:23:59,261 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:00,768 - DEBUG - Counting for batch 367, containing 100 cells and 87926 reads
+2026-06-12 12:24:01,557 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:02,450 - DEBUG - Counting for batch 368, containing 100 cells and 89108 reads
+2026-06-12 12:24:03,243 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:04,653 - DEBUG - Counting for batch 369, containing 100 cells and 71335 reads
+2026-06-12 12:24:05,390 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:06,156 - DEBUG - Counting for batch 370, containing 100 cells and 73726 reads
+2026-06-12 12:24:06,860 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:07,619 - DEBUG - Counting for batch 371, containing 100 cells and 75338 reads
+2026-06-12 12:24:09,015 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:09,913 - DEBUG - Counting for batch 372, containing 100 cells and 87621 reads
+2026-06-12 12:24:10,749 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:12,352 - DEBUG - Counting for batch 373, containing 100 cells and 88232 reads
+2026-06-12 12:24:13,164 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:13,940 - DEBUG - Counting for batch 374, containing 100 cells and 70800 reads
+2026-06-12 12:24:14,627 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:16,084 - DEBUG - Counting for batch 375, containing 100 cells and 82111 reads
+2026-06-12 12:24:16,855 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:17,503 - DEBUG - Read first 70 million reads
+2026-06-12 12:24:17,693 - DEBUG - Counting for batch 376, containing 100 cells and 79479 reads
+2026-06-12 12:24:18,432 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:19,873 - DEBUG - Counting for batch 377, containing 100 cells and 74291 reads
+2026-06-12 12:24:20,581 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:21,275 - DEBUG - Counting for batch 378, containing 100 cells and 66781 reads
+2026-06-12 12:24:21,908 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:22,531 - DEBUG - Counting for batch 379, containing 100 cells and 58326 reads
+2026-06-12 12:24:23,824 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:24,572 - DEBUG - Counting for batch 380, containing 100 cells and 77017 reads
+2026-06-12 12:24:25,292 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:26,086 - DEBUG - Counting for batch 381, containing 100 cells and 76461 reads
+2026-06-12 12:24:26,819 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:28,247 - DEBUG - Counting for batch 382, containing 100 cells and 71166 reads
+2026-06-12 12:24:29,051 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:29,875 - DEBUG - Counting for batch 383, containing 100 cells and 76735 reads
+2026-06-12 12:24:30,605 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:32,070 - DEBUG - Counting for batch 384, containing 100 cells and 80212 reads
+2026-06-12 12:24:32,791 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:33,499 - DEBUG - Counting for batch 385, containing 100 cells and 67688 reads
+2026-06-12 12:24:34,171 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:34,866 - DEBUG - Counting for batch 386, containing 100 cells and 69290 reads
+2026-06-12 12:24:36,242 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:36,972 - DEBUG - Counting for batch 387, containing 100 cells and 67641 reads
+2026-06-12 12:24:37,617 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:38,288 - DEBUG - Counting for batch 388, containing 100 cells and 63732 reads
+2026-06-12 12:24:38,958 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:39,653 - DEBUG - Counting for batch 389, containing 100 cells and 69276 reads
+2026-06-12 12:24:40,996 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:41,682 - DEBUG - Counting for batch 390, containing 100 cells and 64254 reads
+2026-06-12 12:24:42,342 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:43,104 - DEBUG - Counting for batch 391, containing 100 cells and 76034 reads
+2026-06-12 12:24:43,839 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:45,292 - DEBUG - Counting for batch 392, containing 100 cells and 75522 reads
+2026-06-12 12:24:46,067 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:46,828 - DEBUG - Counting for batch 393, containing 100 cells and 68150 reads
+2026-06-12 12:24:47,565 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:49,137 - DEBUG - Counting for batch 394, containing 100 cells and 78620 reads
+2026-06-12 12:24:49,895 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:52,957 - DEBUG - Counting for batch 395, containing 100 cells and 79430 reads
+2026-06-12 12:24:53,708 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:55,449 - DEBUG - Counting for batch 396, containing 100 cells and 91807 reads
+2026-06-12 12:24:56,315 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:57,229 - DEBUG - Counting for batch 397, containing 100 cells and 84479 reads
+2026-06-12 12:24:58,062 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:24:59,688 - DEBUG - Counting for batch 398, containing 100 cells and 90691 reads
+2026-06-12 12:25:00,574 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:01,557 - DEBUG - Counting for batch 399, containing 100 cells and 91121 reads
+2026-06-12 12:25:03,131 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:03,994 - DEBUG - Counting for batch 400, containing 100 cells and 80753 reads
+2026-06-12 12:25:04,843 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:05,661 - DEBUG - Counting for batch 401, containing 100 cells and 71934 reads
+2026-06-12 12:25:07,104 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:07,880 - DEBUG - Counting for batch 402, containing 100 cells and 72932 reads
+2026-06-12 12:25:08,569 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:09,200 - DEBUG - Counting for batch 403, containing 100 cells and 57854 reads
+2026-06-12 12:25:09,790 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:11,117 - DEBUG - Counting for batch 404, containing 100 cells and 69550 reads
+2026-06-12 12:25:11,775 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:12,481 - DEBUG - Counting for batch 405, containing 100 cells and 66574 reads
+2026-06-12 12:25:13,146 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:13,841 - DEBUG - Counting for batch 406, containing 100 cells and 68599 reads
+2026-06-12 12:25:14,481 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:15,803 - DEBUG - Counting for batch 407, containing 100 cells and 69104 reads
+2026-06-12 12:25:16,458 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:17,159 - DEBUG - Counting for batch 408, containing 100 cells and 68598 reads
+2026-06-12 12:25:17,783 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:18,494 - DEBUG - Counting for batch 409, containing 100 cells and 72634 reads
+2026-06-12 12:25:19,858 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:20,611 - DEBUG - Counting for batch 410, containing 100 cells and 73055 reads
+2026-06-12 12:25:21,305 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:22,029 - DEBUG - Counting for batch 411, containing 100 cells and 68456 reads
+2026-06-12 12:25:22,726 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:23,401 - DEBUG - Counting for batch 412, containing 100 cells and 64977 reads
+2026-06-12 12:25:24,730 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:25,430 - DEBUG - Counting for batch 413, containing 100 cells and 69524 reads
+2026-06-12 12:25:26,105 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:26,914 - DEBUG - Counting for batch 414, containing 100 cells and 77740 reads
+2026-06-12 12:25:27,657 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:29,074 - DEBUG - Counting for batch 415, containing 100 cells and 75111 reads
+2026-06-12 12:25:29,790 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:30,518 - DEBUG - Counting for batch 416, containing 100 cells and 66544 reads
+2026-06-12 12:25:31,214 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:31,978 - DEBUG - Counting for batch 417, containing 100 cells and 73697 reads
+2026-06-12 12:25:33,397 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:34,091 - DEBUG - Counting for batch 418, containing 100 cells and 66791 reads
+2026-06-12 12:25:34,749 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:35,479 - DEBUG - Counting for batch 419, containing 100 cells and 70235 reads
+2026-06-12 12:25:36,148 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:37,473 - DEBUG - Counting for batch 420, containing 100 cells and 62893 reads
+2026-06-12 12:25:38,118 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:38,800 - DEBUG - Counting for batch 421, containing 100 cells and 68064 reads
+2026-06-12 12:25:39,468 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:40,230 - DEBUG - Counting for batch 422, containing 100 cells and 75564 reads
+2026-06-12 12:25:41,637 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:42,418 - DEBUG - Counting for batch 423, containing 100 cells and 73555 reads
+2026-06-12 12:25:43,114 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:43,842 - DEBUG - Counting for batch 424, containing 100 cells and 68979 reads
+2026-06-12 12:25:44,508 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:45,260 - DEBUG - Counting for batch 425, containing 100 cells and 75079 reads
+2026-06-12 12:25:46,699 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:47,447 - DEBUG - Counting for batch 426, containing 100 cells and 68696 reads
+2026-06-12 12:25:48,139 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:48,820 - DEBUG - Counting for batch 427, containing 100 cells and 67542 reads
+2026-06-12 12:25:49,456 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:50,832 - DEBUG - Counting for batch 428, containing 100 cells and 71245 reads
+2026-06-12 12:25:51,526 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:52,310 - DEBUG - Counting for batch 429, containing 100 cells and 76899 reads
+2026-06-12 12:25:53,063 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:54,553 - DEBUG - Counting for batch 430, containing 100 cells and 80379 reads
+2026-06-12 12:25:55,309 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:56,088 - DEBUG - Counting for batch 431, containing 100 cells and 72795 reads
+2026-06-12 12:25:56,797 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:57,640 - DEBUG - Counting for batch 432, containing 100 cells and 83515 reads
+2026-06-12 12:25:59,142 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:25:59,887 - DEBUG - Counting for batch 433, containing 100 cells and 69435 reads
+2026-06-12 12:26:00,575 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:01,329 - DEBUG - Counting for batch 434, containing 100 cells and 73427 reads
+2026-06-12 12:26:02,735 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:03,470 - DEBUG - Counting for batch 435, containing 100 cells and 68256 reads
+2026-06-12 12:26:04,164 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:04,858 - DEBUG - Counting for batch 436, containing 100 cells and 65936 reads
+2026-06-12 12:26:05,497 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:06,151 - DEBUG - Counting for batch 437, containing 100 cells and 64582 reads
+2026-06-12 12:26:07,470 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:08,191 - DEBUG - Counting for batch 438, containing 100 cells and 71607 reads
+2026-06-12 12:26:08,857 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:09,521 - DEBUG - Counting for batch 439, containing 100 cells and 63920 reads
+2026-06-12 12:26:10,163 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:10,885 - DEBUG - Counting for batch 440, containing 100 cells and 70785 reads
+2026-06-12 12:26:12,252 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:12,959 - DEBUG - Counting for batch 441, containing 100 cells and 69014 reads
+2026-06-12 12:26:13,657 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:14,422 - DEBUG - Counting for batch 442, containing 100 cells and 74870 reads
+2026-06-12 12:26:15,130 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:15,943 - DEBUG - Counting for batch 443, containing 100 cells and 81997 reads
+2026-06-12 12:26:18,179 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:18,353 - DEBUG - Read first 80 million reads
+2026-06-12 12:26:18,953 - DEBUG - Counting for batch 444, containing 100 cells and 70803 reads
+2026-06-12 12:26:19,688 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:20,499 - DEBUG - Counting for batch 445, containing 100 cells and 79022 reads
+2026-06-12 12:26:21,954 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:22,718 - DEBUG - Counting for batch 446, containing 100 cells and 69123 reads
+2026-06-12 12:26:23,378 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:24,080 - DEBUG - Counting for batch 447, containing 100 cells and 70082 reads
+2026-06-12 12:26:24,758 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:26,085 - DEBUG - Counting for batch 448, containing 100 cells and 67522 reads
+2026-06-12 12:26:26,748 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:27,462 - DEBUG - Counting for batch 449, containing 100 cells and 71322 reads
+2026-06-12 12:26:28,185 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:28,992 - DEBUG - Counting for batch 450, containing 100 cells and 76609 reads
+2026-06-12 12:26:30,451 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:31,164 - DEBUG - Counting for batch 451, containing 100 cells and 63191 reads
+2026-06-12 12:26:31,815 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:32,511 - DEBUG - Counting for batch 452, containing 100 cells and 66392 reads
+2026-06-12 12:26:33,870 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:34,585 - DEBUG - Counting for batch 453, containing 100 cells and 69640 reads
+2026-06-12 12:26:35,259 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:36,032 - DEBUG - Counting for batch 454, containing 100 cells and 76401 reads
+2026-06-12 12:26:36,749 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:37,521 - DEBUG - Counting for batch 455, containing 100 cells and 74551 reads
+2026-06-12 12:26:38,986 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:39,827 - DEBUG - Counting for batch 456, containing 100 cells and 79867 reads
+2026-06-12 12:26:40,611 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:41,391 - DEBUG - Counting for batch 457, containing 100 cells and 65408 reads
+2026-06-12 12:26:42,727 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:43,337 - DEBUG - Counting for batch 458, containing 100 cells and 54969 reads
+2026-06-12 12:26:43,944 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:44,564 - DEBUG - Counting for batch 459, containing 100 cells and 58111 reads
+2026-06-12 12:26:45,172 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:45,879 - DEBUG - Counting for batch 460, containing 100 cells and 70909 reads
+2026-06-12 12:26:47,242 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:48,000 - DEBUG - Counting for batch 461, containing 100 cells and 74150 reads
+2026-06-12 12:26:48,727 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:49,488 - DEBUG - Counting for batch 462, containing 100 cells and 71251 reads
+2026-06-12 12:26:50,146 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:51,485 - DEBUG - Counting for batch 463, containing 100 cells and 68283 reads
+2026-06-12 12:26:52,136 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:52,871 - DEBUG - Counting for batch 464, containing 100 cells and 72331 reads
+2026-06-12 12:26:53,572 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:54,333 - DEBUG - Counting for batch 465, containing 100 cells and 75230 reads
+2026-06-12 12:26:55,699 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:56,433 - DEBUG - Counting for batch 466, containing 100 cells and 72256 reads
+2026-06-12 12:26:57,116 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:26:57,937 - DEBUG - Counting for batch 467, containing 100 cells and 84433 reads
+2026-06-12 12:26:58,693 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:00,136 - DEBUG - Counting for batch 468, containing 100 cells and 71829 reads
+2026-06-12 12:27:00,857 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:01,653 - DEBUG - Counting for batch 469, containing 100 cells and 75686 reads
+2026-06-12 12:27:02,374 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:03,111 - DEBUG - Counting for batch 470, containing 100 cells and 70993 reads
+2026-06-12 12:27:04,503 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:05,255 - DEBUG - Counting for batch 471, containing 100 cells and 75274 reads
+2026-06-12 12:27:05,928 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:06,662 - DEBUG - Counting for batch 472, containing 100 cells and 73561 reads
+2026-06-12 12:27:07,377 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:08,785 - DEBUG - Counting for batch 473, containing 100 cells and 71925 reads
+2026-06-12 12:27:09,478 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:10,247 - DEBUG - Counting for batch 474, containing 100 cells and 75723 reads
+2026-06-12 12:27:10,953 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:11,718 - DEBUG - Counting for batch 475, containing 100 cells and 73413 reads
+2026-06-12 12:27:13,117 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:13,858 - DEBUG - Counting for batch 476, containing 100 cells and 69329 reads
+2026-06-12 12:27:14,557 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:15,262 - DEBUG - Counting for batch 477, containing 100 cells and 66179 reads
+2026-06-12 12:27:15,925 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:17,328 - DEBUG - Counting for batch 478, containing 100 cells and 72798 reads
+2026-06-12 12:27:18,074 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:18,824 - DEBUG - Counting for batch 479, containing 100 cells and 68616 reads
+2026-06-12 12:27:19,564 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:20,290 - DEBUG - Counting for batch 480, containing 100 cells and 67247 reads
+2026-06-12 12:27:21,634 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:22,368 - DEBUG - Counting for batch 481, containing 100 cells and 68999 reads
+2026-06-12 12:27:23,040 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:23,686 - DEBUG - Counting for batch 482, containing 100 cells and 58726 reads
+2026-06-12 12:27:24,272 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:24,902 - DEBUG - Counting for batch 483, containing 100 cells and 63114 reads
+2026-06-12 12:27:26,200 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:26,884 - DEBUG - Counting for batch 484, containing 100 cells and 68737 reads
+2026-06-12 12:27:27,542 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:28,261 - DEBUG - Counting for batch 485, containing 100 cells and 67735 reads
+2026-06-12 12:27:28,947 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:29,657 - DEBUG - Counting for batch 486, containing 100 cells and 69691 reads
+2026-06-12 12:27:30,998 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:31,779 - DEBUG - Counting for batch 487, containing 100 cells and 77471 reads
+2026-06-12 12:27:32,505 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:33,207 - DEBUG - Counting for batch 488, containing 100 cells and 65683 reads
+2026-06-12 12:27:34,590 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:35,334 - DEBUG - Counting for batch 489, containing 100 cells and 71713 reads
+2026-06-12 12:27:36,060 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:36,802 - DEBUG - Counting for batch 490, containing 100 cells and 70641 reads
+2026-06-12 12:27:37,491 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:38,951 - DEBUG - Counting for batch 491, containing 100 cells and 76338 reads
+2026-06-12 12:27:39,642 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:40,416 - DEBUG - Counting for batch 492, containing 100 cells and 76018 reads
+2026-06-12 12:27:41,105 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:41,803 - DEBUG - Counting for batch 493, containing 100 cells and 66476 reads
+2026-06-12 12:27:42,465 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:43,888 - DEBUG - Counting for batch 494, containing 100 cells and 77775 reads
+2026-06-12 12:27:44,611 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:45,393 - DEBUG - Counting for batch 495, containing 100 cells and 77888 reads
+2026-06-12 12:27:46,156 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:47,689 - DEBUG - Counting for batch 496, containing 100 cells and 87516 reads
+2026-06-12 12:27:48,510 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:49,365 - DEBUG - Counting for batch 497, containing 100 cells and 78777 reads
+2026-06-12 12:27:50,135 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:51,618 - DEBUG - Counting for batch 498, containing 100 cells and 79123 reads
+2026-06-12 12:27:52,384 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:53,124 - DEBUG - Counting for batch 499, containing 100 cells and 69554 reads
+2026-06-12 12:27:53,860 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:55,202 - DEBUG - Counting for batch 500, containing 100 cells and 66148 reads
+2026-06-12 12:27:55,857 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:56,545 - DEBUG - Counting for batch 501, containing 100 cells and 66841 reads
+2026-06-12 12:27:57,202 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:57,917 - DEBUG - Counting for batch 502, containing 100 cells and 69516 reads
+2026-06-12 12:27:59,272 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:27:59,990 - DEBUG - Counting for batch 503, containing 100 cells and 71825 reads
+2026-06-12 12:28:00,695 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:01,469 - DEBUG - Counting for batch 504, containing 100 cells and 76760 reads
+2026-06-12 12:28:02,201 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:02,958 - DEBUG - Counting for batch 505, containing 100 cells and 72709 reads
+2026-06-12 12:28:04,356 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:05,059 - DEBUG - Counting for batch 506, containing 100 cells and 66747 reads
+2026-06-12 12:28:05,719 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:06,442 - DEBUG - Counting for batch 507, containing 100 cells and 71705 reads
+2026-06-12 12:28:07,127 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:08,557 - DEBUG - Counting for batch 508, containing 100 cells and 76302 reads
+2026-06-12 12:28:09,254 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:09,946 - DEBUG - Counting for batch 509, containing 100 cells and 64195 reads
+2026-06-12 12:28:10,649 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:12,158 - DEBUG - Counting for batch 510, containing 100 cells and 79722 reads
+2026-06-12 12:28:12,964 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:13,534 - DEBUG - Read first 90 million reads
+2026-06-12 12:28:13,837 - DEBUG - Counting for batch 511, containing 100 cells and 83176 reads
+2026-06-12 12:28:14,619 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:16,111 - DEBUG - Counting for batch 512, containing 100 cells and 76349 reads
+2026-06-12 12:28:16,851 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:17,600 - DEBUG - Counting for batch 513, containing 100 cells and 71266 reads
+2026-06-12 12:28:18,287 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:19,125 - DEBUG - Counting for batch 514, containing 100 cells and 83733 reads
+2026-06-12 12:28:20,602 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:21,458 - DEBUG - Counting for batch 515, containing 100 cells and 84312 reads
+2026-06-12 12:28:22,288 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:23,081 - DEBUG - Counting for batch 516, containing 100 cells and 74608 reads
+2026-06-12 12:28:24,489 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:25,236 - DEBUG - Counting for batch 517, containing 100 cells and 71534 reads
+2026-06-12 12:28:25,924 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:26,685 - DEBUG - Counting for batch 518, containing 100 cells and 74193 reads
+2026-06-12 12:28:27,369 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:28,728 - DEBUG - Counting for batch 519, containing 100 cells and 69957 reads
+2026-06-12 12:28:29,439 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:30,268 - DEBUG - Counting for batch 520, containing 100 cells and 82724 reads
+2026-06-12 12:28:31,030 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:31,876 - DEBUG - Counting for batch 521, containing 100 cells and 78971 reads
+2026-06-12 12:28:33,342 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:34,202 - DEBUG - Counting for batch 522, containing 100 cells and 78189 reads
+2026-06-12 12:28:34,967 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:35,785 - DEBUG - Counting for batch 523, containing 100 cells and 78549 reads
+2026-06-12 12:28:37,226 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:38,003 - DEBUG - Counting for batch 524, containing 100 cells and 72977 reads
+2026-06-12 12:28:38,740 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:39,536 - DEBUG - Counting for batch 525, containing 100 cells and 77502 reads
+2026-06-12 12:28:40,999 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:41,833 - DEBUG - Counting for batch 526, containing 100 cells and 78827 reads
+2026-06-12 12:28:42,659 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:43,650 - DEBUG - Counting for batch 527, containing 100 cells and 98057 reads
+2026-06-12 12:28:45,276 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:46,217 - DEBUG - Counting for batch 528, containing 100 cells and 83219 reads
+2026-06-12 12:28:47,054 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:48,543 - DEBUG - Counting for batch 529, containing 100 cells and 75160 reads
+2026-06-12 12:28:49,299 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:50,078 - DEBUG - Counting for batch 530, containing 100 cells and 71910 reads
+2026-06-12 12:28:50,753 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:52,122 - DEBUG - Counting for batch 531, containing 100 cells and 65285 reads
+2026-06-12 12:28:52,775 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:53,482 - DEBUG - Counting for batch 532, containing 100 cells and 71641 reads
+2026-06-12 12:28:54,169 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:54,884 - DEBUG - Counting for batch 533, containing 100 cells and 64747 reads
+2026-06-12 12:28:55,529 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:56,845 - DEBUG - Counting for batch 534, containing 100 cells and 66700 reads
+2026-06-12 12:28:57,475 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:58,139 - DEBUG - Counting for batch 535, containing 100 cells and 65474 reads
+2026-06-12 12:28:58,782 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:28:59,414 - DEBUG - Counting for batch 536, containing 100 cells and 60257 reads
+2026-06-12 12:29:00,052 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:00,683 - DEBUG - Counting for batch 537, containing 100 cells and 61208 reads
+2026-06-12 12:29:01,993 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:02,711 - DEBUG - Counting for batch 538, containing 100 cells and 69773 reads
+2026-06-12 12:29:03,358 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:04,124 - DEBUG - Counting for batch 539, containing 100 cells and 78487 reads
+2026-06-12 12:29:05,587 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:06,354 - DEBUG - Counting for batch 540, containing 100 cells and 62855 reads
+2026-06-12 12:29:07,023 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:07,780 - DEBUG - Counting for batch 541, containing 100 cells and 69392 reads
+2026-06-12 12:29:08,502 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:09,215 - DEBUG - Counting for batch 542, containing 100 cells and 64308 reads
+2026-06-12 12:29:10,537 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:11,303 - DEBUG - Counting for batch 543, containing 100 cells and 78339 reads
+2026-06-12 12:29:12,002 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:12,706 - DEBUG - Counting for batch 544, containing 100 cells and 66963 reads
+2026-06-12 12:29:13,363 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:14,735 - DEBUG - Counting for batch 545, containing 100 cells and 69696 reads
+2026-06-12 12:29:15,442 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:16,271 - DEBUG - Counting for batch 546, containing 100 cells and 77314 reads
+2026-06-12 12:29:17,103 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:18,523 - DEBUG - Counting for batch 547, containing 100 cells and 67154 reads
+2026-06-12 12:29:19,200 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:19,985 - DEBUG - Counting for batch 548, containing 100 cells and 77257 reads
+2026-06-12 12:29:20,718 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:21,500 - DEBUG - Counting for batch 549, containing 100 cells and 75236 reads
+2026-06-12 12:29:22,905 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:23,662 - DEBUG - Counting for batch 550, containing 100 cells and 75920 reads
+2026-06-12 12:29:24,360 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:25,174 - DEBUG - Counting for batch 551, containing 100 cells and 81854 reads
+2026-06-12 12:29:25,929 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:27,387 - DEBUG - Counting for batch 552, containing 100 cells and 81536 reads
+2026-06-12 12:29:28,221 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:28,986 - DEBUG - Counting for batch 553, containing 100 cells and 69866 reads
+2026-06-12 12:29:29,654 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:30,946 - DEBUG - Counting for batch 554, containing 100 cells and 62220 reads
+2026-06-12 12:29:31,552 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:32,257 - DEBUG - Counting for batch 555, containing 100 cells and 70560 reads
+2026-06-12 12:29:32,928 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:33,669 - DEBUG - Counting for batch 556, containing 100 cells and 70657 reads
+2026-06-12 12:29:35,021 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:35,693 - DEBUG - Counting for batch 557, containing 100 cells and 65329 reads
+2026-06-12 12:29:36,319 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:37,045 - DEBUG - Counting for batch 558, containing 100 cells and 72774 reads
+2026-06-12 12:29:37,791 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:38,629 - DEBUG - Counting for batch 559, containing 100 cells and 82347 reads
+2026-06-12 12:29:40,114 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:41,031 - DEBUG - Counting for batch 560, containing 100 cells and 83926 reads
+2026-06-12 12:29:41,878 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:43,394 - DEBUG - Counting for batch 561, containing 100 cells and 74518 reads
+2026-06-12 12:29:44,116 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:44,889 - DEBUG - Counting for batch 562, containing 100 cells and 67320 reads
+2026-06-12 12:29:45,575 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:46,362 - DEBUG - Counting for batch 563, containing 100 cells and 75065 reads
+2026-06-12 12:29:47,782 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:48,597 - DEBUG - Counting for batch 564, containing 100 cells and 77523 reads
+2026-06-12 12:29:49,339 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:50,126 - DEBUG - Counting for batch 565, containing 100 cells and 78285 reads
+2026-06-12 12:29:51,512 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:52,262 - DEBUG - Counting for batch 566, containing 100 cells and 73237 reads
+2026-06-12 12:29:52,969 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:53,720 - DEBUG - Counting for batch 567, containing 100 cells and 73268 reads
+2026-06-12 12:29:54,418 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:55,179 - DEBUG - Counting for batch 568, containing 100 cells and 77142 reads
+2026-06-12 12:29:56,592 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:57,439 - DEBUG - Counting for batch 569, containing 100 cells and 82993 reads
+2026-06-12 12:29:58,259 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:29:59,942 - DEBUG - Counting for batch 570, containing 100 cells and 99451 reads
+2026-06-12 12:30:00,981 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:01,875 - DEBUG - Counting for batch 571, containing 100 cells and 68808 reads
+2026-06-12 12:30:03,267 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:04,056 - DEBUG - Counting for batch 572, containing 100 cells and 77432 reads
+2026-06-12 12:30:04,803 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:05,626 - DEBUG - Counting for batch 573, containing 100 cells and 80639 reads
+2026-06-12 12:30:06,399 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:07,923 - DEBUG - Counting for batch 574, containing 100 cells and 83625 reads
+2026-06-12 12:30:08,666 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:09,534 - DEBUG - Counting for batch 575, containing 100 cells and 85707 reads
+2026-06-12 12:30:10,357 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:10,710 - DEBUG - Read first 100 million reads
+2026-06-12 12:30:11,776 - DEBUG - Counting for batch 576, containing 100 cells and 70684 reads
+2026-06-12 12:30:12,491 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:13,150 - DEBUG - Counting for batch 577, containing 100 cells and 60636 reads
+2026-06-12 12:30:13,758 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:14,413 - DEBUG - Counting for batch 578, containing 100 cells and 62573 reads
+2026-06-12 12:30:15,068 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:16,394 - DEBUG - Counting for batch 579, containing 100 cells and 68987 reads
+2026-06-12 12:30:17,058 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:17,837 - DEBUG - Counting for batch 580, containing 100 cells and 77387 reads
+2026-06-12 12:30:18,597 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:20,078 - DEBUG - Counting for batch 581, containing 100 cells and 78333 reads
+2026-06-12 12:30:20,937 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:21,682 - DEBUG - Counting for batch 582, containing 100 cells and 62031 reads
+2026-06-12 12:30:22,309 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:23,013 - DEBUG - Counting for batch 583, containing 100 cells and 66994 reads
+2026-06-12 12:30:24,332 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:25,042 - DEBUG - Counting for batch 584, containing 100 cells and 67067 reads
+2026-06-12 12:30:25,679 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:26,379 - DEBUG - Counting for batch 585, containing 100 cells and 67708 reads
+2026-06-12 12:30:27,068 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:28,440 - DEBUG - Counting for batch 586, containing 100 cells and 71267 reads
+2026-06-12 12:30:29,149 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:29,932 - DEBUG - Counting for batch 587, containing 100 cells and 76138 reads
+2026-06-12 12:30:30,668 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:31,442 - DEBUG - Counting for batch 588, containing 100 cells and 78278 reads
+2026-06-12 12:30:32,897 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:33,713 - DEBUG - Counting for batch 589, containing 100 cells and 77066 reads
+2026-06-12 12:30:34,440 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:35,192 - DEBUG - Counting for batch 590, containing 100 cells and 70177 reads
+2026-06-12 12:30:35,886 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:37,297 - DEBUG - Counting for batch 591, containing 100 cells and 78550 reads
+2026-06-12 12:30:38,015 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:38,828 - DEBUG - Counting for batch 592, containing 100 cells and 82394 reads
+2026-06-12 12:30:39,580 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:41,029 - DEBUG - Counting for batch 593, containing 100 cells and 72464 reads
+2026-06-12 12:30:41,760 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:42,637 - DEBUG - Counting for batch 594, containing 100 cells and 88112 reads
+2026-06-12 12:30:43,468 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:44,951 - DEBUG - Counting for batch 595, containing 100 cells and 74789 reads
+2026-06-12 12:30:45,699 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:46,529 - DEBUG - Counting for batch 596, containing 100 cells and 79191 reads
+2026-06-12 12:30:47,344 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:48,791 - DEBUG - Counting for batch 597, containing 100 cells and 68861 reads
+2026-06-12 12:30:49,448 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:50,204 - DEBUG - Counting for batch 598, containing 100 cells and 76132 reads
+2026-06-12 12:30:50,879 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:51,604 - DEBUG - Counting for batch 599, containing 100 cells and 72161 reads
+2026-06-12 12:30:53,005 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:53,799 - DEBUG - Counting for batch 600, containing 100 cells and 77178 reads
+2026-06-12 12:30:54,583 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:55,388 - DEBUG - Counting for batch 601, containing 100 cells and 73604 reads
+2026-06-12 12:30:56,874 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:30:57,786 - DEBUG - Counting for batch 602, containing 100 cells and 88934 reads
+2026-06-12 12:30:58,786 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:00,449 - DEBUG - Counting for batch 603, containing 100 cells and 91413 reads
+2026-06-12 12:31:01,417 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:02,308 - DEBUG - Counting for batch 604, containing 100 cells and 74081 reads
+2026-06-12 12:31:03,741 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:04,444 - DEBUG - Counting for batch 605, containing 100 cells and 62672 reads
+2026-06-12 12:31:05,083 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:05,887 - DEBUG - Counting for batch 606, containing 100 cells and 85131 reads
+2026-06-12 12:31:06,681 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:08,184 - DEBUG - Counting for batch 607, containing 100 cells and 80804 reads
+2026-06-12 12:31:08,977 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:09,889 - DEBUG - Counting for batch 608, containing 100 cells and 82922 reads
+2026-06-12 12:31:10,684 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:12,061 - DEBUG - Counting for batch 609, containing 100 cells and 62340 reads
+2026-06-12 12:31:12,716 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:13,405 - DEBUG - Counting for batch 610, containing 100 cells and 67090 reads
+2026-06-12 12:31:14,053 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:14,761 - DEBUG - Counting for batch 611, containing 100 cells and 70083 reads
+2026-06-12 12:31:16,129 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:16,840 - DEBUG - Counting for batch 612, containing 100 cells and 68707 reads
+2026-06-12 12:31:17,497 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:18,231 - DEBUG - Counting for batch 613, containing 100 cells and 73282 reads
+2026-06-12 12:31:18,966 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:20,397 - DEBUG - Counting for batch 614, containing 100 cells and 71009 reads
+2026-06-12 12:31:21,139 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:21,972 - DEBUG - Counting for batch 615, containing 100 cells and 78017 reads
+2026-06-12 12:31:22,752 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:24,342 - DEBUG - Counting for batch 616, containing 100 cells and 90963 reads
+2026-06-12 12:31:25,310 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:26,233 - DEBUG - Counting for batch 617, containing 100 cells and 77325 reads
+2026-06-12 12:31:27,673 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:28,497 - DEBUG - Counting for batch 618, containing 100 cells and 79170 reads
+2026-06-12 12:31:29,299 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:30,176 - DEBUG - Counting for batch 619, containing 100 cells and 81678 reads
+2026-06-12 12:31:31,727 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:32,555 - DEBUG - Counting for batch 620, containing 100 cells and 76363 reads
+2026-06-12 12:31:33,375 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:33,686 - DEBUG - Counting for batch 621, containing 18 cells and 13372 reads
+2026-06-12 12:31:34,086 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 12:31:34,128 - DEBUG - 5540766 reads were skipped because no apropiate cell or umi barcode was found
+2026-06-12 12:31:34,129 - DEBUG - Counting done!
+2026-06-12 12:31:34,158 - DEBUG - Generating output file /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/HSCT_7833_transcriptome/velocyto.loom
+2026-06-12 12:31:34,159 - DEBUG - Collecting row attributes
+2026-06-12 12:31:34,228 - DEBUG - Generating data table
+2026-06-12 12:31:44,394 - DEBUG - Writing loom file
+2026-06-12 12:31:52,353 - DEBUG - Creating converter from 5 to 3
+2026-06-12 12:31:52,354 - DEBUG - Creating converter from 3 to 5
+2026-06-12 12:32:49,022 - DEBUG - Terminated Succesfully!

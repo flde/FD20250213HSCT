@@ -1,0 +1,4 @@
+[NbConvertApp] Converting notebook regvelo.p.ipynb to html
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[NbConvertApp] WARNING | Alternative text is missing on 1 image(s).
+[NbConvertApp] Writing 1269854 bytes to regvelo.p.html

@@ -1,0 +1,815 @@
+2026-06-12 12:18:09,370 - DEBUG - Using logic: Permissive10X
+2026-06-12 12:18:09,383 - INFO - Read 5317 cell barcodes from /research/lab_stary/sequencing_projects/acute_gvhd/COUNT/CoR_GvD_13_GvD117_transcriptome/filtered_feature_bc_matrix/barcodes.tsv.gz
+2026-06-12 12:18:09,383 - DEBUG - Example of barcode: AAACCTGAGACTTTCG and cell_id: velocyto:AAACCTGAGACTTTCG-1
+2026-06-12 12:18:09,387 - DEBUG - Peeking into /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/CoR_GvD_13_GvD117_transcriptome/possorted_genome_bam.bam
+2026-06-12 12:18:09,425 - WARNING - Not found cell and umi barcode in entry 18 of the bam file
+2026-06-12 12:18:09,425 - WARNING - Not found cell and umi barcode in entry 26 of the bam file
+2026-06-12 12:18:09,425 - WARNING - Not found cell and umi barcode in entry 28 of the bam file
+2026-06-12 12:18:09,425 - WARNING - Not found cell and umi barcode in entry 32 of the bam file
+2026-06-12 12:18:09,425 - WARNING - Not found cell and umi barcode in entry 35 of the bam file
+2026-06-12 12:18:09,425 - WARNING - Not found cell and umi barcode in entry 44 of the bam file
+2026-06-12 12:18:09,425 - WARNING - Not found cell and umi barcode in entry 68 of the bam file
+2026-06-12 12:18:09,425 - WARNING - Not found cell and umi barcode in entry 86 of the bam file
+2026-06-12 12:18:09,425 - WARNING - Not found cell and umi barcode in entry 88 of the bam file
+2026-06-12 12:18:09,425 - WARNING - Not found cell and umi barcode in entry 93 of the bam file
+2026-06-12 12:18:09,425 - WARNING - Not found cell and umi barcode in entry 102 of the bam file
+2026-06-12 12:18:09,425 - WARNING - Not found cell and umi barcode in entry 109 of the bam file
+2026-06-12 12:18:09,425 - WARNING - Not found cell and umi barcode in entry 112 of the bam file
+2026-06-12 12:18:09,425 - WARNING - Not found cell and umi barcode in entry 116 of the bam file
+2026-06-12 12:18:09,425 - WARNING - Not found cell and umi barcode in entry 164 of the bam file
+2026-06-12 12:18:09,425 - WARNING - Not found cell and umi barcode in entry 201 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 210 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 219 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 220 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 225 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 240 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 254 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 264 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 304 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 313 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 316 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 342 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 344 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 347 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 363 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 366 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 368 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 375 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 376 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 379 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 386 of the bam file
+2026-06-12 12:18:09,426 - WARNING - Not found cell and umi barcode in entry 397 of the bam file
+2026-06-12 12:18:09,427 - WARNING - Not found cell and umi barcode in entry 417 of the bam file
+2026-06-12 12:18:09,427 - WARNING - Not found cell and umi barcode in entry 433 of the bam file
+2026-06-12 12:18:09,427 - WARNING - Not found cell and umi barcode in entry 434 of the bam file
+2026-06-12 12:18:09,427 - WARNING - Not found cell and umi barcode in entry 439 of the bam file
+2026-06-12 12:18:09,427 - WARNING - Not found cell and umi barcode in entry 443 of the bam file
+2026-06-12 12:18:09,427 - WARNING - Not found cell and umi barcode in entry 446 of the bam file
+2026-06-12 12:18:09,427 - WARNING - Not found cell and umi barcode in entry 448 of the bam file
+2026-06-12 12:18:09,427 - WARNING - Not found cell and umi barcode in entry 455 of the bam file
+2026-06-12 12:18:09,427 - WARNING - Not found cell and umi barcode in entry 456 of the bam file
+2026-06-12 12:18:09,427 - WARNING - Not found cell and umi barcode in entry 457 of the bam file
+2026-06-12 12:18:09,427 - WARNING - Not found cell and umi barcode in entry 472 of the bam file
+2026-06-12 12:18:09,427 - WARNING - Not found cell and umi barcode in entry 473 of the bam file
+2026-06-12 12:18:09,427 - WARNING - Not found cell and umi barcode in entry 480 of the bam file
+2026-06-12 12:18:09,427 - WARNING - Not found cell and umi barcode in entry 488 of the bam file
+2026-06-12 12:18:09,428 - WARNING - Not found cell and umi barcode in entry 522 of the bam file
+2026-06-12 12:18:09,428 - WARNING - Not found cell and umi barcode in entry 525 of the bam file
+2026-06-12 12:18:09,428 - WARNING - Not found cell and umi barcode in entry 536 of the bam file
+2026-06-12 12:18:09,428 - WARNING - Not found cell and umi barcode in entry 538 of the bam file
+2026-06-12 12:18:09,428 - WARNING - Not found cell and umi barcode in entry 571 of the bam file
+2026-06-12 12:18:09,428 - WARNING - Not found cell and umi barcode in entry 580 of the bam file
+2026-06-12 12:18:09,428 - WARNING - Not found cell and umi barcode in entry 582 of the bam file
+2026-06-12 12:18:09,428 - WARNING - Not found cell and umi barcode in entry 598 of the bam file
+2026-06-12 12:18:09,428 - WARNING - Not found cell and umi barcode in entry 599 of the bam file
+2026-06-12 12:18:09,428 - WARNING - Not found cell and umi barcode in entry 659 of the bam file
+2026-06-12 12:18:09,428 - WARNING - Not found cell and umi barcode in entry 660 of the bam file
+2026-06-12 12:18:09,428 - WARNING - Not found cell and umi barcode in entry 676 of the bam file
+2026-06-12 12:18:09,428 - WARNING - Not found cell and umi barcode in entry 721 of the bam file
+2026-06-12 12:18:09,428 - WARNING - Not found cell and umi barcode in entry 722 of the bam file
+2026-06-12 12:18:09,428 - WARNING - Not found cell and umi barcode in entry 740 of the bam file
+2026-06-12 12:18:09,429 - WARNING - Not found cell and umi barcode in entry 814 of the bam file
+2026-06-12 12:18:09,429 - WARNING - Not found cell and umi barcode in entry 830 of the bam file
+2026-06-12 12:18:09,429 - WARNING - Not found cell and umi barcode in entry 836 of the bam file
+2026-06-12 12:18:09,429 - WARNING - Not found cell and umi barcode in entry 842 of the bam file
+2026-06-12 12:18:09,429 - WARNING - Not found cell and umi barcode in entry 874 of the bam file
+2026-06-12 12:18:09,429 - WARNING - Not found cell and umi barcode in entry 897 of the bam file
+2026-06-12 12:18:09,429 - WARNING - Not found cell and umi barcode in entry 921 of the bam file
+2026-06-12 12:18:09,429 - WARNING - Not found cell and umi barcode in entry 987 of the bam file
+2026-06-12 12:18:09,429 - WARNING - Not found cell and umi barcode in entry 1009 of the bam file
+2026-06-12 12:18:09,429 - WARNING - Not found cell and umi barcode in entry 1018 of the bam file
+2026-06-12 12:18:09,429 - WARNING - Not found cell and umi barcode in entry 1026 of the bam file
+2026-06-12 12:18:09,429 - WARNING - Not found cell and umi barcode in entry 1028 of the bam file
+2026-06-12 12:18:09,429 - WARNING - Not found cell and umi barcode in entry 1029 of the bam file
+2026-06-12 12:18:09,429 - WARNING - Not found cell and umi barcode in entry 1035 of the bam file
+2026-06-12 12:18:09,429 - WARNING - Not found cell and umi barcode in entry 1058 of the bam file
+2026-06-12 12:18:09,430 - WARNING - Not found cell and umi barcode in entry 1059 of the bam file
+2026-06-12 12:18:09,434 - INFO - Starting the sorting process of /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/CoR_GvD_13_GvD117_transcriptome/possorted_genome_bam.bam the output will be at: /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/CoR_GvD_13_GvD117_transcriptome/cellsorted_possorted_genome_bam.bam
+2026-06-12 12:18:09,434 - INFO - Command being run is: samtools sort -l 7 -m 100M -t CB -O BAM -@ 16 -o /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/CoR_GvD_13_GvD117_transcriptome/cellsorted_possorted_genome_bam.bam /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/CoR_GvD_13_GvD117_transcriptome/possorted_genome_bam.bam
+2026-06-12 12:18:09,434 - INFO - While the bam sorting happens do other things...
+2026-06-12 12:18:09,434 - INFO - Load the annotation from /nobackup/peer/fdeckert/cellranger/GRCh38-2020-A/GRCh38/genes/genes.gtf
+2026-06-12 12:18:16,183 - DEBUG - Parsing Chromosome GL000009.2 strand - [line 0]
+2026-06-12 12:18:16,184 - DEBUG - Done with GL000009.2- [line 7]
+2026-06-12 12:18:16,184 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,184 - DEBUG - Seen 1 genes until now
+2026-06-12 12:18:16,184 - DEBUG - Parsing Chromosome GL000194.1 strand - [line 8]
+2026-06-12 12:18:16,184 - DEBUG - Done with GL000194.1- [line 33]
+2026-06-12 12:18:16,184 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,184 - DEBUG - Seen 3 genes until now
+2026-06-12 12:18:16,184 - DEBUG - Parsing Chromosome GL000195.1 strand - [line 34]
+2026-06-12 12:18:16,184 - DEBUG - Done with GL000195.1- [line 43]
+2026-06-12 12:18:16,184 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,184 - DEBUG - Seen 4 genes until now
+2026-06-12 12:18:16,184 - DEBUG - Parsing Chromosome GL000195.1 strand + [line 44]
+2026-06-12 12:18:16,184 - DEBUG - Done with GL000195.1+ [line 57]
+2026-06-12 12:18:16,184 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,184 - DEBUG - Seen 5 genes until now
+2026-06-12 12:18:16,184 - DEBUG - Parsing Chromosome GL000205.2 strand - [line 58]
+2026-06-12 12:18:16,184 - DEBUG - Done with GL000205.2- [line 71]
+2026-06-12 12:18:16,184 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,184 - DEBUG - Seen 6 genes until now
+2026-06-12 12:18:16,184 - DEBUG - Parsing Chromosome GL000213.1 strand - [line 72]
+2026-06-12 12:18:16,185 - DEBUG - Done with GL000213.1- [line 120]
+2026-06-12 12:18:16,185 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,185 - DEBUG - Seen 7 genes until now
+2026-06-12 12:18:16,185 - DEBUG - Parsing Chromosome GL000218.1 strand - [line 121]
+2026-06-12 12:18:16,185 - DEBUG - Done with GL000218.1- [line 128]
+2026-06-12 12:18:16,185 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,185 - DEBUG - Seen 8 genes until now
+2026-06-12 12:18:16,185 - DEBUG - Parsing Chromosome GL000219.1 strand - [line 129]
+2026-06-12 12:18:16,185 - DEBUG - Done with GL000219.1- [line 141]
+2026-06-12 12:18:16,185 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,185 - DEBUG - Seen 9 genes until now
+2026-06-12 12:18:16,185 - DEBUG - Parsing Chromosome KI270711.1 strand - [line 142]
+2026-06-12 12:18:16,186 - DEBUG - Done with KI270711.1- [line 292]
+2026-06-12 12:18:16,186 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,186 - DEBUG - Seen 10 genes until now
+2026-06-12 12:18:16,186 - DEBUG - Parsing Chromosome KI270713.1 strand - [line 293]
+2026-06-12 12:18:16,186 - DEBUG - Done with KI270713.1- [line 300]
+2026-06-12 12:18:16,186 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,186 - DEBUG - Seen 11 genes until now
+2026-06-12 12:18:16,186 - DEBUG - Parsing Chromosome KI270713.1 strand + [line 301]
+2026-06-12 12:18:16,186 - DEBUG - Done with KI270713.1+ [line 307]
+2026-06-12 12:18:16,186 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,186 - DEBUG - Seen 12 genes until now
+2026-06-12 12:18:16,186 - DEBUG - Parsing Chromosome KI270721.1 strand + [line 308]
+2026-06-12 12:18:16,186 - DEBUG - Done with KI270721.1+ [line 323]
+2026-06-12 12:18:16,186 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,186 - DEBUG - Seen 13 genes until now
+2026-06-12 12:18:16,186 - DEBUG - Parsing Chromosome KI270726.1 strand + [line 324]
+2026-06-12 12:18:16,186 - DEBUG - Done with KI270726.1+ [line 334]
+2026-06-12 12:18:16,186 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,186 - DEBUG - Seen 15 genes until now
+2026-06-12 12:18:16,186 - DEBUG - Parsing Chromosome KI270727.1 strand - [line 335]
+2026-06-12 12:18:16,187 - DEBUG - Done with KI270727.1- [line 394]
+2026-06-12 12:18:16,187 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,187 - DEBUG - Seen 17 genes until now
+2026-06-12 12:18:16,187 - DEBUG - Parsing Chromosome KI270727.1 strand + [line 395]
+2026-06-12 12:18:16,187 - DEBUG - Done with KI270727.1+ [line 409]
+2026-06-12 12:18:16,187 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,187 - DEBUG - Seen 19 genes until now
+2026-06-12 12:18:16,187 - DEBUG - Parsing Chromosome KI270728.1 strand - [line 410]
+2026-06-12 12:18:16,187 - DEBUG - Done with KI270728.1- [line 486]
+2026-06-12 12:18:16,187 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,187 - DEBUG - Seen 21 genes until now
+2026-06-12 12:18:16,187 - DEBUG - Parsing Chromosome KI270728.1 strand + [line 487]
+2026-06-12 12:18:16,187 - DEBUG - Done with KI270728.1+ [line 523]
+2026-06-12 12:18:16,187 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,187 - DEBUG - Seen 25 genes until now
+2026-06-12 12:18:16,187 - DEBUG - Parsing Chromosome KI270731.1 strand - [line 524]
+2026-06-12 12:18:16,187 - DEBUG - Done with KI270731.1- [line 530]
+2026-06-12 12:18:16,188 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,188 - DEBUG - Seen 26 genes until now
+2026-06-12 12:18:16,188 - DEBUG - Parsing Chromosome KI270734.1 strand - [line 531]
+2026-06-12 12:18:16,188 - DEBUG - Done with KI270734.1- [line 599]
+2026-06-12 12:18:16,188 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,188 - DEBUG - Seen 27 genes until now
+2026-06-12 12:18:16,188 - DEBUG - Parsing Chromosome KI270734.1 strand + [line 600]
+2026-06-12 12:18:16,188 - DEBUG - Done with KI270734.1+ [line 622]
+2026-06-12 12:18:16,188 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,188 - DEBUG - Seen 29 genes until now
+2026-06-12 12:18:16,188 - DEBUG - Parsing Chromosome 1 strand - [line 623]
+2026-06-12 12:18:16,695 - DEBUG - Done with 1- [line 118876]
+2026-06-12 12:18:16,695 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:16,701 - DEBUG - Seen 1711 genes until now
+2026-06-12 12:18:16,701 - DEBUG - Parsing Chromosome 1 strand + [line 118877]
+2026-06-12 12:18:17,585 - DEBUG - Done with 1+ [line 253796]
+2026-06-12 12:18:17,585 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:17,591 - DEBUG - Seen 3439 genes until now
+2026-06-12 12:18:17,592 - DEBUG - Parsing Chromosome 10 strand - [line 253797]
+2026-06-12 12:18:17,775 - DEBUG - Done with 10- [line 304078]
+2026-06-12 12:18:17,775 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:17,778 - DEBUG - Seen 4100 genes until now
+2026-06-12 12:18:17,778 - DEBUG - Parsing Chromosome 10 strand + [line 304079]
+2026-06-12 12:18:17,988 - DEBUG - Done with 10+ [line 356023]
+2026-06-12 12:18:17,988 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:17,991 - DEBUG - Seen 4833 genes until now
+2026-06-12 12:18:17,991 - DEBUG - Parsing Chromosome 11 strand - [line 356024]
+2026-06-12 12:18:18,520 - DEBUG - Done with 11- [line 438038]
+2026-06-12 12:18:18,520 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:18,525 - DEBUG - Seen 5833 genes until now
+2026-06-12 12:18:18,525 - DEBUG - Parsing Chromosome 11 strand + [line 438039]
+2026-06-12 12:18:18,842 - DEBUG - Done with 11+ [line 521163]
+2026-06-12 12:18:18,843 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:18,847 - DEBUG - Seen 6898 genes until now
+2026-06-12 12:18:18,847 - DEBUG - Parsing Chromosome 12 strand - [line 521164]
+2026-06-12 12:18:19,384 - DEBUG - Done with 12- [line 601582]
+2026-06-12 12:18:19,384 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:19,387 - DEBUG - Seen 7848 genes until now
+2026-06-12 12:18:19,388 - DEBUG - Parsing Chromosome 12 strand + [line 601583]
+2026-06-12 12:18:19,586 - DEBUG - Done with 12+ [line 681983]
+2026-06-12 12:18:19,586 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:19,590 - DEBUG - Seen 8826 genes until now
+2026-06-12 12:18:19,590 - DEBUG - Parsing Chromosome 13 strand - [line 681984]
+2026-06-12 12:18:19,643 - DEBUG - Done with 13- [line 702449]
+2026-06-12 12:18:19,643 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:19,644 - DEBUG - Seen 9225 genes until now
+2026-06-12 12:18:19,644 - DEBUG - Parsing Chromosome 13 strand + [line 702450]
+2026-06-12 12:18:19,705 - DEBUG - Done with 13+ [line 726349]
+2026-06-12 12:18:19,706 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:19,707 - DEBUG - Seen 9614 genes until now
+2026-06-12 12:18:19,707 - DEBUG - Parsing Chromosome 14 strand - [line 726350]
+2026-06-12 12:18:20,067 - DEBUG - Done with 14- [line 770987]
+2026-06-12 12:18:20,067 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:20,069 - DEBUG - Seen 10373 genes until now
+2026-06-12 12:18:20,069 - DEBUG - Parsing Chromosome 14 strand + [line 770988]
+2026-06-12 12:18:20,229 - DEBUG - Done with 14+ [line 822908]
+2026-06-12 12:18:20,229 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:20,248 - DEBUG - Seen 11088 genes until now
+2026-06-12 12:18:20,248 - DEBUG - Parsing Chromosome 15 strand - [line 822909]
+2026-06-12 12:18:20,498 - DEBUG - Done with 15- [line 873715]
+2026-06-12 12:18:20,498 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:20,500 - DEBUG - Seen 11734 genes until now
+2026-06-12 12:18:20,500 - DEBUG - Parsing Chromosome 15 strand + [line 873716]
+2026-06-12 12:18:20,628 - DEBUG - Done with 15+ [line 923824]
+2026-06-12 12:18:20,628 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:20,631 - DEBUG - Seen 12355 genes until now
+2026-06-12 12:18:20,631 - DEBUG - Parsing Chromosome 16 strand - [line 923825]
+2026-06-12 12:18:20,858 - DEBUG - Done with 16- [line 979238]
+2026-06-12 12:18:20,858 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:20,862 - DEBUG - Seen 13151 genes until now
+2026-06-12 12:18:20,862 - DEBUG - Parsing Chromosome 16 strand + [line 979239]
+2026-06-12 12:18:21,504 - DEBUG - Done with 16+ [line 1052152]
+2026-06-12 12:18:21,505 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:21,510 - DEBUG - Seen 14004 genes until now
+2026-06-12 12:18:21,510 - DEBUG - Parsing Chromosome 17 strand - [line 1052153]
+2026-06-12 12:18:21,882 - DEBUG - Done with 17- [line 1140008]
+2026-06-12 12:18:21,883 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:21,889 - DEBUG - Seen 15039 genes until now
+2026-06-12 12:18:21,889 - DEBUG - Parsing Chromosome 17 strand + [line 1140009]
+2026-06-12 12:18:22,219 - DEBUG - Done with 17+ [line 1219447]
+2026-06-12 12:18:22,219 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:22,225 - DEBUG - Seen 15996 genes until now
+2026-06-12 12:18:22,225 - DEBUG - Parsing Chromosome 18 strand - [line 1219448]
+2026-06-12 12:18:22,338 - DEBUG - Done with 18- [line 1246083]
+2026-06-12 12:18:22,338 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:22,340 - DEBUG - Seen 16371 genes until now
+2026-06-12 12:18:22,340 - DEBUG - Parsing Chromosome 18 strand + [line 1246084]
+2026-06-12 12:18:22,433 - DEBUG - Done with 18+ [line 1269821]
+2026-06-12 12:18:22,433 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:22,435 - DEBUG - Seen 16777 genes until now
+2026-06-12 12:18:22,435 - DEBUG - Parsing Chromosome 19 strand - [line 1269822]
+2026-06-12 12:18:22,987 - DEBUG - Done with 19- [line 1350736]
+2026-06-12 12:18:22,988 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:22,992 - DEBUG - Seen 17790 genes until now
+2026-06-12 12:18:22,993 - DEBUG - Parsing Chromosome 19 strand + [line 1350737]
+2026-06-12 12:18:23,273 - DEBUG - Done with 19+ [line 1435648]
+2026-06-12 12:18:23,273 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:23,281 - DEBUG - Seen 18804 genes until now
+2026-06-12 12:18:23,281 - DEBUG - Parsing Chromosome 2 strand - [line 1435649]
+2026-06-12 12:18:23,620 - DEBUG - Done with 2- [line 1542996]
+2026-06-12 12:18:23,620 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:23,625 - DEBUG - Seen 20037 genes until now
+2026-06-12 12:18:23,625 - DEBUG - Parsing Chromosome 2 strand + [line 1542997]
+2026-06-12 12:18:23,894 - DEBUG - Done with 2+ [line 1642863]
+2026-06-12 12:18:23,894 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:23,901 - DEBUG - Seen 21345 genes until now
+2026-06-12 12:18:23,901 - DEBUG - Parsing Chromosome 20 strand - [line 1642864]
+2026-06-12 12:18:24,013 - DEBUG - Done with 20- [line 1672442]
+2026-06-12 12:18:24,013 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:24,015 - DEBUG - Seen 21828 genes until now
+2026-06-12 12:18:24,015 - DEBUG - Parsing Chromosome 20 strand + [line 1672443]
+2026-06-12 12:18:24,151 - DEBUG - Done with 20+ [line 1707817]
+2026-06-12 12:18:24,151 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:24,155 - DEBUG - Seen 22309 genes until now
+2026-06-12 12:18:24,155 - DEBUG - Parsing Chromosome 21 strand - [line 1707818]
+2026-06-12 12:18:24,656 - DEBUG - Done with 21- [line 1722798]
+2026-06-12 12:18:24,657 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:24,657 - DEBUG - Seen 22596 genes until now
+2026-06-12 12:18:24,658 - DEBUG - Parsing Chromosome 21 strand + [line 1722799]
+2026-06-12 12:18:24,720 - DEBUG - Done with 21+ [line 1738981]
+2026-06-12 12:18:24,721 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:24,722 - DEBUG - Seen 22864 genes until now
+2026-06-12 12:18:24,722 - DEBUG - Parsing Chromosome 22 strand - [line 1738982]
+2026-06-12 12:18:24,819 - DEBUG - Done with 22- [line 1765357]
+2026-06-12 12:18:24,819 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:24,821 - DEBUG - Seen 23260 genes until now
+2026-06-12 12:18:24,821 - DEBUG - Parsing Chromosome 22 strand + [line 1765358]
+2026-06-12 12:18:24,944 - DEBUG - Done with 22+ [line 1797598]
+2026-06-12 12:18:24,944 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:24,945 - DEBUG - Seen 23765 genes until now
+2026-06-12 12:18:24,945 - DEBUG - Parsing Chromosome 3 strand - [line 1797599]
+2026-06-12 12:18:25,277 - DEBUG - Done with 3- [line 1887377]
+2026-06-12 12:18:25,277 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:25,282 - DEBUG - Seen 24693 genes until now
+2026-06-12 12:18:25,282 - DEBUG - Parsing Chromosome 3 strand + [line 1887378]
+2026-06-12 12:18:25,509 - DEBUG - Done with 3+ [line 1977011]
+2026-06-12 12:18:25,509 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:25,513 - DEBUG - Seen 25658 genes until now
+2026-06-12 12:18:25,514 - DEBUG - Parsing Chromosome 4 strand - [line 1977012]
+2026-06-12 12:18:25,656 - DEBUG - Done with 4- [line 2034238]
+2026-06-12 12:18:25,657 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:25,660 - DEBUG - Seen 26401 genes until now
+2026-06-12 12:18:25,660 - DEBUG - Parsing Chromosome 4 strand + [line 2034239]
+2026-06-12 12:18:25,810 - DEBUG - Done with 4+ [line 2094594]
+2026-06-12 12:18:25,810 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:25,813 - DEBUG - Seen 27191 genes until now
+2026-06-12 12:18:25,813 - DEBUG - Parsing Chromosome 5 strand - [line 2094595]
+2026-06-12 12:18:25,960 - DEBUG - Done with 5- [line 2152660]
+2026-06-12 12:18:25,960 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:25,963 - DEBUG - Seen 28071 genes until now
+2026-06-12 12:18:25,963 - DEBUG - Parsing Chromosome 5 strand + [line 2152661]
+2026-06-12 12:18:26,677 - DEBUG - Done with 5+ [line 2218657]
+2026-06-12 12:18:26,677 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:26,683 - DEBUG - Seen 29002 genes until now
+2026-06-12 12:18:26,683 - DEBUG - Parsing Chromosome 6 strand - [line 2218658]
+2026-06-12 12:18:26,963 - DEBUG - Done with 6- [line 2284937]
+2026-06-12 12:18:26,963 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:26,968 - DEBUG - Seen 29928 genes until now
+2026-06-12 12:18:26,968 - DEBUG - Parsing Chromosome 6 strand + [line 2284938]
+2026-06-12 12:18:27,179 - DEBUG - Done with 6+ [line 2345240]
+2026-06-12 12:18:27,179 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:27,183 - DEBUG - Seen 30829 genes until now
+2026-06-12 12:18:27,183 - DEBUG - Parsing Chromosome 7 strand - [line 2345241]
+2026-06-12 12:18:27,381 - DEBUG - Done with 7- [line 2406845]
+2026-06-12 12:18:27,381 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:27,386 - DEBUG - Seen 31621 genes until now
+2026-06-12 12:18:27,386 - DEBUG - Parsing Chromosome 7 strand + [line 2406846]
+2026-06-12 12:18:27,604 - DEBUG - Done with 7+ [line 2476014]
+2026-06-12 12:18:27,605 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:27,608 - DEBUG - Seen 32515 genes until now
+2026-06-12 12:18:27,608 - DEBUG - Parsing Chromosome 8 strand - [line 2476015]
+2026-06-12 12:18:27,742 - DEBUG - Done with 8- [line 2527366]
+2026-06-12 12:18:27,742 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:27,745 - DEBUG - Seen 33270 genes until now
+2026-06-12 12:18:27,745 - DEBUG - Parsing Chromosome 8 strand + [line 2527367]
+2026-06-12 12:18:27,874 - DEBUG - Done with 8+ [line 2577021]
+2026-06-12 12:18:27,874 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:27,877 - DEBUG - Seen 34010 genes until now
+2026-06-12 12:18:27,877 - DEBUG - Parsing Chromosome 9 strand - [line 2577022]
+2026-06-12 12:18:27,994 - DEBUG - Done with 9- [line 2622811]
+2026-06-12 12:18:27,994 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:27,996 - DEBUG - Seen 34681 genes until now
+2026-06-12 12:18:27,996 - DEBUG - Parsing Chromosome 9 strand + [line 2622812]
+2026-06-12 12:18:28,136 - DEBUG - Done with 9+ [line 2672374]
+2026-06-12 12:18:28,136 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:28,138 - DEBUG - Seen 35329 genes until now
+2026-06-12 12:18:28,139 - DEBUG - Parsing Chromosome M strand - [line 2672375]
+2026-06-12 12:18:28,139 - DEBUG - Done with M- [line 2672379]
+2026-06-12 12:18:28,139 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:28,139 - DEBUG - Seen 35330 genes until now
+2026-06-12 12:18:28,139 - DEBUG - Parsing Chromosome M strand + [line 2672380]
+2026-06-12 12:18:28,139 - DEBUG - Done with M+ [line 2672445]
+2026-06-12 12:18:28,139 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:28,139 - DEBUG - Seen 35342 genes until now
+2026-06-12 12:18:28,139 - DEBUG - Parsing Chromosome X strand - [line 2672446]
+2026-06-12 12:18:28,253 - DEBUG - Done with X- [line 2716088]
+2026-06-12 12:18:28,253 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:28,255 - DEBUG - Seen 35884 genes until now
+2026-06-12 12:18:28,255 - DEBUG - Parsing Chromosome X strand + [line 2716089]
+2026-06-12 12:18:28,390 - DEBUG - Done with X+ [line 2760500]
+2026-06-12 12:18:28,391 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:28,393 - DEBUG - Seen 36490 genes until now
+2026-06-12 12:18:28,394 - DEBUG - Parsing Chromosome Y strand - [line 2760501]
+2026-06-12 12:18:28,404 - DEBUG - Done with Y- [line 2763031]
+2026-06-12 12:18:28,404 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:28,404 - DEBUG - Seen 36543 genes until now
+2026-06-12 12:18:28,404 - DEBUG - Parsing Chromosome Y strand + [line 2763032]
+2026-06-12 12:18:28,416 - DEBUG - Assigning indexes to genes
+2026-06-12 12:18:28,417 - DEBUG - Done with Y+ [line 2765967]
+2026-06-12 12:18:28,417 - DEBUG - Fixing corner cases of transcript models containg intron longer than 1000Kbp
+2026-06-12 12:18:29,578 - DEBUG - Generated 2411536 features corresponding to 199138 transcript models from /nobackup/peer/fdeckert/cellranger/GRCh38-2020-A/GRCh38/genes/genes.gtf
+2026-06-12 12:18:29,598 - INFO - Scan /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/CoR_GvD_13_GvD117_transcriptome/possorted_genome_bam.bam to validate intron intervals
+2026-06-12 12:18:31,109 - DEBUG - Reading /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/CoR_GvD_13_GvD117_transcriptome/possorted_genome_bam.bam
+2026-06-12 12:18:31,131 - DEBUG - Read first 0 million reads
+2026-06-12 12:18:31,132 - DEBUG - Marking up chromosome 1
+2026-06-12 12:19:45,705 - DEBUG - Read first 10 million reads
+2026-06-12 12:21:03,007 - DEBUG - Read first 20 million reads
+2026-06-12 12:21:29,291 - DEBUG - Marking up chromosome 10
+2026-06-12 12:22:14,840 - DEBUG - Read first 30 million reads
+2026-06-12 12:22:34,313 - DEBUG - Marking up chromosome 11
+2026-06-12 12:23:28,169 - DEBUG - Read first 40 million reads
+2026-06-12 12:24:43,823 - DEBUG - Read first 50 million reads
+2026-06-12 12:24:58,657 - DEBUG - Marking up chromosome 12
+2026-06-12 12:26:01,231 - DEBUG - Read first 60 million reads
+2026-06-12 12:26:38,887 - DEBUG - Marking up chromosome 13
+2026-06-12 12:27:09,496 - DEBUG - Marking up chromosome 14
+2026-06-12 12:27:09,900 - DEBUG - Read first 70 million reads
+2026-06-12 12:28:14,850 - DEBUG - Marking up chromosome 15
+2026-06-12 12:28:35,293 - DEBUG - Read first 80 million reads
+2026-06-12 12:29:22,603 - DEBUG - Marking up chromosome 16
+2026-06-12 12:29:57,372 - DEBUG - Read first 90 million reads
+2026-06-12 12:30:47,376 - DEBUG - Marking up chromosome 17
+2026-06-12 12:31:39,566 - DEBUG - Read first 100 million reads
+2026-06-12 12:32:58,438 - DEBUG - Marking up chromosome 18
+2026-06-12 12:33:19,474 - DEBUG - Read first 110 million reads
+2026-06-12 12:33:23,970 - DEBUG - Marking up chromosome 19
+2026-06-12 12:35:03,212 - DEBUG - Read first 120 million reads
+2026-06-12 12:36:29,123 - DEBUG - Marking up chromosome 2
+2026-06-12 12:36:45,701 - DEBUG - Read first 130 million reads
+2026-06-12 12:38:36,629 - DEBUG - Read first 140 million reads
+2026-06-12 12:39:10,211 - DEBUG - Marking up chromosome 20
+2026-06-12 12:39:52,781 - DEBUG - Marking up chromosome 21
+2026-06-12 12:39:53,902 - DEBUG - Read first 150 million reads
+2026-06-12 12:40:06,164 - DEBUG - Read first 160 million reads
+2026-06-12 12:40:18,160 - DEBUG - Read first 170 million reads
+2026-06-12 12:40:30,169 - DEBUG - Read first 180 million reads
+2026-06-12 12:40:42,212 - DEBUG - Read first 190 million reads
+2026-06-12 12:40:54,461 - DEBUG - Read first 200 million reads
+2026-06-12 12:41:17,458 - DEBUG - Marking up chromosome 22
+2026-06-12 12:41:21,651 - DEBUG - Read first 210 million reads
+2026-06-12 12:41:49,247 - DEBUG - Marking up chromosome 3
+2026-06-12 12:42:27,783 - DEBUG - Read first 220 million reads
+2026-06-12 12:43:03,495 - DEBUG - Marking up chromosome 4
+2026-06-12 12:43:30,833 - DEBUG - Read first 230 million reads
+2026-06-12 12:43:50,295 - DEBUG - Marking up chromosome 5
+2026-06-12 12:44:34,130 - DEBUG - Read first 240 million reads
+2026-06-12 12:45:00,687 - DEBUG - Marking up chromosome 6
+2026-06-12 12:45:39,366 - DEBUG - Read first 250 million reads
+2026-06-12 12:46:40,937 - DEBUG - Read first 260 million reads
+2026-06-12 12:46:45,128 - DEBUG - Marking up chromosome 7
+2026-06-12 12:47:46,206 - DEBUG - Read first 270 million reads
+2026-06-12 12:47:54,067 - DEBUG - Marking up chromosome 8
+2026-06-12 12:48:38,163 - DEBUG - Marking up chromosome 9
+2026-06-12 12:48:49,018 - DEBUG - Read first 280 million reads
+2026-06-12 12:49:29,738 - DEBUG - Marking up chromosome MT
+2026-06-12 12:49:29,741 - WARNING - The .bam file refers to a chromosome 'MT+' not present in the annotation (.gtf) file
+2026-06-12 12:49:29,741 - WARNING - The .bam file refers to a chromosome 'MT-' not present in the annotation (.gtf) file
+2026-06-12 12:49:48,828 - DEBUG - Read first 290 million reads
+2026-06-12 12:50:42,050 - DEBUG - Read first 300 million reads
+2026-06-12 12:51:35,979 - DEBUG - Read first 310 million reads
+2026-06-12 12:52:22,876 - DEBUG - Read first 320 million reads
+2026-06-12 12:53:16,078 - DEBUG - Read first 330 million reads
+2026-06-12 12:53:50,879 - DEBUG - Marking up chromosome X
+2026-06-12 12:54:16,725 - DEBUG - Read first 340 million reads
+2026-06-12 12:54:36,235 - DEBUG - Marking up chromosome Y
+2026-06-12 12:54:37,693 - DEBUG - Marking up chromosome KI270728.1
+2026-06-12 12:54:37,694 - DEBUG - Marking up chromosome KI270727.1
+2026-06-12 12:54:37,695 - DEBUG - Marking up chromosome KI270442.1
+2026-06-12 12:54:37,696 - WARNING - The .bam file refers to a chromosome 'KI270442.1+' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,696 - WARNING - The .bam file refers to a chromosome 'KI270442.1-' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,701 - DEBUG - Marking up chromosome KI270729.1
+2026-06-12 12:54:37,701 - WARNING - The .bam file refers to a chromosome 'KI270729.1+' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,701 - WARNING - The .bam file refers to a chromosome 'KI270729.1-' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,702 - DEBUG - Marking up chromosome GL000225.1
+2026-06-12 12:54:37,702 - WARNING - The .bam file refers to a chromosome 'GL000225.1+' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,702 - WARNING - The .bam file refers to a chromosome 'GL000225.1-' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,702 - DEBUG - Marking up chromosome KI270743.1
+2026-06-12 12:54:37,702 - WARNING - The .bam file refers to a chromosome 'KI270743.1+' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,702 - WARNING - The .bam file refers to a chromosome 'KI270743.1-' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,703 - DEBUG - Marking up chromosome GL000008.2
+2026-06-12 12:54:37,703 - WARNING - The .bam file refers to a chromosome 'GL000008.2+' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,703 - WARNING - The .bam file refers to a chromosome 'GL000008.2-' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,705 - DEBUG - Marking up chromosome GL000009.2
+2026-06-12 12:54:37,705 - WARNING - The .bam file refers to a chromosome 'GL000009.2+' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,707 - DEBUG - Marking up chromosome KI270722.1
+2026-06-12 12:54:37,707 - WARNING - The .bam file refers to a chromosome 'KI270722.1+' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,707 - WARNING - The .bam file refers to a chromosome 'KI270722.1-' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,707 - DEBUG - Marking up chromosome GL000194.1
+2026-06-12 12:54:37,707 - WARNING - The .bam file refers to a chromosome 'GL000194.1+' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,720 - DEBUG - Marking up chromosome KI270742.1
+2026-06-12 12:54:37,720 - WARNING - The .bam file refers to a chromosome 'KI270742.1+' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,720 - WARNING - The .bam file refers to a chromosome 'KI270742.1-' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,722 - DEBUG - Marking up chromosome GL000205.2
+2026-06-12 12:54:37,722 - WARNING - The .bam file refers to a chromosome 'GL000205.2+' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,733 - DEBUG - Marking up chromosome GL000195.1
+2026-06-12 12:54:37,741 - DEBUG - Marking up chromosome KI270736.1
+2026-06-12 12:54:37,741 - WARNING - The .bam file refers to a chromosome 'KI270736.1+' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,741 - WARNING - The .bam file refers to a chromosome 'KI270736.1-' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,741 - DEBUG - Marking up chromosome KI270733.1
+2026-06-12 12:54:37,741 - WARNING - The .bam file refers to a chromosome 'KI270733.1+' not present in the annotation (.gtf) file
+2026-06-12 12:54:37,741 - WARNING - The .bam file refers to a chromosome 'KI270733.1-' not present in the annotation (.gtf) file
+2026-06-12 12:54:45,432 - DEBUG - Read first 350 million reads
+2026-06-12 12:54:57,940 - DEBUG - Read first 360 million reads
+2026-06-12 12:55:07,360 - DEBUG - Marking up chromosome GL000224.1
+2026-06-12 12:55:07,361 - WARNING - The .bam file refers to a chromosome 'GL000224.1+' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,361 - WARNING - The .bam file refers to a chromosome 'GL000224.1-' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,363 - DEBUG - Marking up chromosome GL000219.1
+2026-06-12 12:55:07,363 - WARNING - The .bam file refers to a chromosome 'GL000219.1+' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,450 - DEBUG - Marking up chromosome KI270719.1
+2026-06-12 12:55:07,451 - WARNING - The .bam file refers to a chromosome 'KI270719.1+' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,451 - WARNING - The .bam file refers to a chromosome 'KI270719.1-' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,452 - DEBUG - Marking up chromosome GL000216.2
+2026-06-12 12:55:07,452 - WARNING - The .bam file refers to a chromosome 'GL000216.2+' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,452 - WARNING - The .bam file refers to a chromosome 'GL000216.2-' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,452 - DEBUG - Marking up chromosome KI270712.1
+2026-06-12 12:55:07,452 - WARNING - The .bam file refers to a chromosome 'KI270712.1+' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,452 - WARNING - The .bam file refers to a chromosome 'KI270712.1-' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,453 - DEBUG - Marking up chromosome KI270706.1
+2026-06-12 12:55:07,453 - WARNING - The .bam file refers to a chromosome 'KI270706.1+' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,453 - WARNING - The .bam file refers to a chromosome 'KI270706.1-' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,459 - DEBUG - Marking up chromosome KI270725.1
+2026-06-12 12:55:07,459 - WARNING - The .bam file refers to a chromosome 'KI270725.1+' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,459 - WARNING - The .bam file refers to a chromosome 'KI270725.1-' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,459 - DEBUG - Marking up chromosome KI270744.1
+2026-06-12 12:55:07,459 - WARNING - The .bam file refers to a chromosome 'KI270744.1+' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,460 - WARNING - The .bam file refers to a chromosome 'KI270744.1-' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,463 - DEBUG - Marking up chromosome KI270734.1
+2026-06-12 12:55:07,466 - DEBUG - Marking up chromosome GL000213.1
+2026-06-12 12:55:07,467 - WARNING - The .bam file refers to a chromosome 'GL000213.1+' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,467 - DEBUG - Marking up chromosome GL000220.1
+2026-06-12 12:55:07,467 - WARNING - The .bam file refers to a chromosome 'GL000220.1+' not present in the annotation (.gtf) file
+2026-06-12 12:55:07,467 - WARNING - The .bam file refers to a chromosome 'GL000220.1-' not present in the annotation (.gtf) file
+2026-06-12 12:55:09,858 - DEBUG - Read first 370 million reads
+2026-06-12 12:55:21,637 - DEBUG - Read first 380 million reads
+2026-06-12 12:55:33,420 - DEBUG - Read first 390 million reads
+2026-06-12 12:55:45,178 - DEBUG - Read first 400 million reads
+2026-06-12 12:55:56,922 - DEBUG - Read first 410 million reads
+2026-06-12 12:56:08,715 - DEBUG - Read first 420 million reads
+2026-06-12 12:56:10,204 - DEBUG - Marking up chromosome GL000218.1
+2026-06-12 12:56:10,205 - WARNING - The .bam file refers to a chromosome 'GL000218.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,208 - DEBUG - Marking up chromosome KI270749.1
+2026-06-12 12:56:10,208 - WARNING - The .bam file refers to a chromosome 'KI270749.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,208 - WARNING - The .bam file refers to a chromosome 'KI270749.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,209 - DEBUG - Marking up chromosome KI270741.1
+2026-06-12 12:56:10,209 - WARNING - The .bam file refers to a chromosome 'KI270741.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,209 - WARNING - The .bam file refers to a chromosome 'KI270741.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,210 - DEBUG - Marking up chromosome GL000221.1
+2026-06-12 12:56:10,210 - WARNING - The .bam file refers to a chromosome 'GL000221.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,210 - WARNING - The .bam file refers to a chromosome 'GL000221.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,211 - DEBUG - Marking up chromosome KI270731.1
+2026-06-12 12:56:10,212 - WARNING - The .bam file refers to a chromosome 'KI270731.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,213 - DEBUG - Marking up chromosome KI270751.1
+2026-06-12 12:56:10,213 - WARNING - The .bam file refers to a chromosome 'KI270751.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,213 - WARNING - The .bam file refers to a chromosome 'KI270751.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,213 - DEBUG - Marking up chromosome KI270750.1
+2026-06-12 12:56:10,213 - WARNING - The .bam file refers to a chromosome 'KI270750.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,213 - WARNING - The .bam file refers to a chromosome 'KI270750.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,213 - DEBUG - Marking up chromosome KI270519.1
+2026-06-12 12:56:10,213 - WARNING - The .bam file refers to a chromosome 'KI270519.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,213 - WARNING - The .bam file refers to a chromosome 'KI270519.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,213 - DEBUG - Marking up chromosome GL000214.1
+2026-06-12 12:56:10,213 - WARNING - The .bam file refers to a chromosome 'GL000214.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,213 - WARNING - The .bam file refers to a chromosome 'GL000214.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,215 - DEBUG - Marking up chromosome KI270708.1
+2026-06-12 12:56:10,215 - WARNING - The .bam file refers to a chromosome 'KI270708.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,215 - WARNING - The .bam file refers to a chromosome 'KI270708.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,215 - DEBUG - Marking up chromosome KI270730.1
+2026-06-12 12:56:10,215 - WARNING - The .bam file refers to a chromosome 'KI270730.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,215 - WARNING - The .bam file refers to a chromosome 'KI270730.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,215 - DEBUG - Marking up chromosome KI270438.1
+2026-06-12 12:56:10,216 - WARNING - The .bam file refers to a chromosome 'KI270438.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,216 - WARNING - The .bam file refers to a chromosome 'KI270438.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,217 - DEBUG - Marking up chromosome KI270737.1
+2026-06-12 12:56:10,217 - WARNING - The .bam file refers to a chromosome 'KI270737.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,217 - WARNING - The .bam file refers to a chromosome 'KI270737.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,217 - DEBUG - Marking up chromosome KI270721.1
+2026-06-12 12:56:10,217 - WARNING - The .bam file refers to a chromosome 'KI270721.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,242 - DEBUG - Marking up chromosome KI270738.1
+2026-06-12 12:56:10,242 - WARNING - The .bam file refers to a chromosome 'KI270738.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,242 - WARNING - The .bam file refers to a chromosome 'KI270738.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,242 - DEBUG - Marking up chromosome KI270748.1
+2026-06-12 12:56:10,242 - WARNING - The .bam file refers to a chromosome 'KI270748.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,242 - WARNING - The .bam file refers to a chromosome 'KI270748.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,242 - DEBUG - Marking up chromosome KI270435.1
+2026-06-12 12:56:10,242 - WARNING - The .bam file refers to a chromosome 'KI270435.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,242 - WARNING - The .bam file refers to a chromosome 'KI270435.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,242 - DEBUG - Marking up chromosome GL000208.1
+2026-06-12 12:56:10,242 - WARNING - The .bam file refers to a chromosome 'GL000208.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,242 - WARNING - The .bam file refers to a chromosome 'GL000208.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,243 - DEBUG - Marking up chromosome KI270538.1
+2026-06-12 12:56:10,243 - WARNING - The .bam file refers to a chromosome 'KI270538.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,243 - WARNING - The .bam file refers to a chromosome 'KI270538.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,243 - DEBUG - Marking up chromosome KI270709.1
+2026-06-12 12:56:10,243 - WARNING - The .bam file refers to a chromosome 'KI270709.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,243 - WARNING - The .bam file refers to a chromosome 'KI270709.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,243 - DEBUG - Marking up chromosome KI270746.1
+2026-06-12 12:56:10,243 - WARNING - The .bam file refers to a chromosome 'KI270746.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,243 - WARNING - The .bam file refers to a chromosome 'KI270746.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,243 - DEBUG - Marking up chromosome KI270753.1
+2026-06-12 12:56:10,243 - WARNING - The .bam file refers to a chromosome 'KI270753.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,243 - WARNING - The .bam file refers to a chromosome 'KI270753.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,243 - DEBUG - Marking up chromosome KI270589.1
+2026-06-12 12:56:10,243 - WARNING - The .bam file refers to a chromosome 'KI270589.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,243 - WARNING - The .bam file refers to a chromosome 'KI270589.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,244 - DEBUG - Marking up chromosome KI270726.1
+2026-06-12 12:56:10,244 - WARNING - The .bam file refers to a chromosome 'KI270726.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,244 - DEBUG - Marking up chromosome KI270711.1
+2026-06-12 12:56:10,244 - WARNING - The .bam file refers to a chromosome 'KI270711.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,248 - DEBUG - Marking up chromosome KI270745.1
+2026-06-12 12:56:10,248 - WARNING - The .bam file refers to a chromosome 'KI270745.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,248 - WARNING - The .bam file refers to a chromosome 'KI270745.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,257 - DEBUG - Marking up chromosome KI270714.1
+2026-06-12 12:56:10,257 - WARNING - The .bam file refers to a chromosome 'KI270714.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,257 - WARNING - The .bam file refers to a chromosome 'KI270714.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,257 - DEBUG - Marking up chromosome KI270732.1
+2026-06-12 12:56:10,257 - WARNING - The .bam file refers to a chromosome 'KI270732.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,258 - WARNING - The .bam file refers to a chromosome 'KI270732.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,258 - DEBUG - Marking up chromosome KI270713.1
+2026-06-12 12:56:10,274 - DEBUG - Marking up chromosome KI270717.1
+2026-06-12 12:56:10,274 - WARNING - The .bam file refers to a chromosome 'KI270717.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,274 - WARNING - The .bam file refers to a chromosome 'KI270717.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,274 - DEBUG - Marking up chromosome KI270720.1
+2026-06-12 12:56:10,274 - WARNING - The .bam file refers to a chromosome 'KI270720.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,274 - WARNING - The .bam file refers to a chromosome 'KI270720.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,275 - DEBUG - Marking up chromosome KI270718.1
+2026-06-12 12:56:10,275 - WARNING - The .bam file refers to a chromosome 'KI270718.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,275 - WARNING - The .bam file refers to a chromosome 'KI270718.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,280 - DEBUG - Marking up chromosome KI270740.1
+2026-06-12 12:56:10,280 - WARNING - The .bam file refers to a chromosome 'KI270740.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,280 - WARNING - The .bam file refers to a chromosome 'KI270740.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,281 - DEBUG - Marking up chromosome KI270755.1
+2026-06-12 12:56:10,281 - WARNING - The .bam file refers to a chromosome 'KI270755.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,281 - WARNING - The .bam file refers to a chromosome 'KI270755.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,281 - DEBUG - Marking up chromosome KI270707.1
+2026-06-12 12:56:10,281 - WARNING - The .bam file refers to a chromosome 'KI270707.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,281 - WARNING - The .bam file refers to a chromosome 'KI270707.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,281 - DEBUG - Marking up chromosome KI270320.1
+2026-06-12 12:56:10,281 - WARNING - The .bam file refers to a chromosome 'KI270320.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,281 - WARNING - The .bam file refers to a chromosome 'KI270320.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,281 - DEBUG - Marking up chromosome KI270467.1
+2026-06-12 12:56:10,281 - WARNING - The .bam file refers to a chromosome 'KI270467.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,281 - WARNING - The .bam file refers to a chromosome 'KI270467.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,281 - DEBUG - Marking up chromosome KI270333.1
+2026-06-12 12:56:10,281 - WARNING - The .bam file refers to a chromosome 'KI270333.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,281 - WARNING - The .bam file refers to a chromosome 'KI270333.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,281 - DEBUG - Marking up chromosome KI270330.1
+2026-06-12 12:56:10,281 - WARNING - The .bam file refers to a chromosome 'KI270330.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,281 - WARNING - The .bam file refers to a chromosome 'KI270330.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,282 - DEBUG - Marking up chromosome KI270466.1
+2026-06-12 12:56:10,282 - WARNING - The .bam file refers to a chromosome 'KI270466.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,282 - WARNING - The .bam file refers to a chromosome 'KI270466.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,282 - DEBUG - Marking up chromosome KI270310.1
+2026-06-12 12:56:10,282 - WARNING - The .bam file refers to a chromosome 'KI270310.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,282 - WARNING - The .bam file refers to a chromosome 'KI270310.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,282 - DEBUG - Marking up chromosome KI270539.1
+2026-06-12 12:56:10,282 - WARNING - The .bam file refers to a chromosome 'KI270539.1+' not present in the annotation (.gtf) file
+2026-06-12 12:56:10,282 - WARNING - The .bam file refers to a chromosome 'KI270539.1-' not present in the annotation (.gtf) file
+2026-06-12 12:56:17,905 - DEBUG - Read first 430 million reads
+2026-06-12 12:56:26,790 - DEBUG - Read first 440 million reads
+2026-06-12 12:56:35,582 - DEBUG - Read first 450 million reads
+2026-06-12 12:56:44,397 - DEBUG - Read first 460 million reads
+2026-06-12 12:56:53,345 - DEBUG - Read first 470 million reads
+2026-06-12 12:57:02,316 - DEBUG - Read first 480 million reads
+2026-06-12 12:57:11,714 - DEBUG - Read first 490 million reads
+2026-06-12 12:57:20,850 - DEBUG - Read first 500 million reads
+2026-06-12 12:57:29,779 - DEBUG - Read first 510 million reads
+2026-06-12 12:57:32,409 - DEBUG - End of file. Reset index: start scanning from initial position.
+2026-06-12 12:57:32,410 - DEBUG - 20147027 reads were skipped because no apropiate cell or umi barcode was found
+2026-06-12 12:57:32,410 - INFO - Now just waiting that the bam sorting process terminates
+2026-06-12 12:57:32,410 - INFO - bam file #0 has been sorted
+2026-06-12 12:57:32,411 - DEBUG - Start molecule counting!
+2026-06-12 12:57:33,775 - DEBUG - Features available for chromosomes : ['GL000009.2-', 'GL000194.1-', 'GL000195.1-', 'GL000195.1+', 'GL000205.2-', 'GL000213.1-', 'GL000218.1-', 'GL000219.1-', 'KI270711.1-', 'KI270713.1-', 'KI270713.1+', 'KI270721.1+', 'KI270726.1+', 'KI270727.1-', 'KI270727.1+', 'KI270728.1-', 'KI270728.1+', 'KI270731.1-', 'KI270734.1-', 'KI270734.1+', '1-', '1+', '10-', '10+', '11-', '11+', '12-', '12+', '13-', '13+', '14-', '14+', '15-', '15+', '16-', '16+', '17-', '17+', '18-', '18+', '19-', '19+', '2-', '2+', '20-', '20+', '21-', '21+', '22-', '22+', '3-', '3+', '4-', '4+', '5-', '5+', '6-', '6+', '7-', '7+', '8-', '8+', '9-', '9+', 'M-', 'M+', 'X-', 'X+', 'Y-', 'Y+']
+2026-06-12 12:57:33,775 - DEBUG - Mask available for chromosomes : []
+2026-06-12 12:57:33,775 - DEBUG - Summarizing the results of intron validation.
+2026-06-12 12:57:34,069 - DEBUG - Validated 298297 introns (of which unique intervals 98395) out of 1106199 total possible introns (considering each possible transcript models).
+2026-06-12 12:57:34,069 - DEBUG - Reading /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/CoR_GvD_13_GvD117_transcriptome/cellsorted_possorted_genome_bam.bam
+2026-06-12 12:57:34,152 - DEBUG - Read first 0 million reads
+2026-06-12 12:58:12,814 - DEBUG - Read first 10 million reads
+2026-06-12 12:58:24,464 - DEBUG - Read first 20 million reads
+2026-06-12 12:59:00,699 - DEBUG - Read first 30 million reads
+2026-06-12 12:59:18,402 - DEBUG - Read first 40 million reads
+2026-06-12 12:59:29,777 - DEBUG - Read first 50 million reads
+2026-06-12 12:59:38,437 - DEBUG - Read first 60 million reads
+2026-06-12 13:00:24,411 - DEBUG - Counting for batch 1, containing 100 cells and 4192425 reads
+2026-06-12 13:00:41,421 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:00:46,528 - DEBUG - Read first 70 million reads
+2026-06-12 13:01:29,302 - DEBUG - Counting for batch 2, containing 100 cells and 4152120 reads
+2026-06-12 13:01:44,839 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:01:55,019 - DEBUG - Read first 80 million reads
+2026-06-12 13:02:39,341 - DEBUG - Counting for batch 3, containing 100 cells and 4747546 reads
+2026-06-12 13:02:59,048 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:03:03,727 - DEBUG - Read first 90 million reads
+2026-06-12 13:03:43,174 - DEBUG - Counting for batch 4, containing 100 cells and 3787907 reads
+2026-06-12 13:03:59,052 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:04:09,590 - DEBUG - Read first 100 million reads
+2026-06-12 13:04:42,308 - DEBUG - Counting for batch 5, containing 100 cells and 3781207 reads
+2026-06-12 13:04:56,487 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:05:16,307 - DEBUG - Read first 110 million reads
+2026-06-12 13:05:50,474 - DEBUG - Counting for batch 6, containing 100 cells and 4648539 reads
+2026-06-12 13:06:10,993 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:06:30,486 - DEBUG - Read first 120 million reads
+2026-06-12 13:06:53,965 - DEBUG - Counting for batch 7, containing 100 cells and 3810709 reads
+2026-06-12 13:07:10,161 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:07:36,865 - DEBUG - Read first 130 million reads
+2026-06-12 13:07:55,566 - DEBUG - Counting for batch 8, containing 100 cells and 4040112 reads
+2026-06-12 13:08:10,593 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:08:45,128 - DEBUG - Read first 140 million reads
+2026-06-12 13:08:57,309 - DEBUG - Counting for batch 9, containing 100 cells and 3996219 reads
+2026-06-12 13:09:11,724 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:09:50,811 - DEBUG - Read first 150 million reads
+2026-06-12 13:09:54,884 - DEBUG - Counting for batch 10, containing 100 cells and 3584316 reads
+2026-06-12 13:10:10,081 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:10:54,714 - DEBUG - Counting for batch 11, containing 100 cells and 3733028 reads
+2026-06-12 13:11:08,078 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:11:11,242 - DEBUG - Read first 160 million reads
+2026-06-12 13:11:48,584 - DEBUG - Counting for batch 12, containing 100 cells and 3614575 reads
+2026-06-12 13:12:03,692 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:12:16,647 - DEBUG - Read first 170 million reads
+2026-06-12 13:12:44,980 - DEBUG - Counting for batch 13, containing 100 cells and 3664262 reads
+2026-06-12 13:13:00,620 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:13:23,072 - DEBUG - Read first 180 million reads
+2026-06-12 13:13:45,293 - DEBUG - Counting for batch 14, containing 100 cells and 3914730 reads
+2026-06-12 13:13:59,679 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:14:32,487 - DEBUG - Read first 190 million reads
+2026-06-12 13:14:53,341 - DEBUG - Counting for batch 15, containing 100 cells and 4663164 reads
+2026-06-12 13:15:10,652 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:15:42,411 - DEBUG - Read first 200 million reads
+2026-06-12 13:15:48,795 - DEBUG - Counting for batch 16, containing 100 cells and 3141190 reads
+2026-06-12 13:16:02,666 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:16:48,556 - DEBUG - Read first 210 million reads
+2026-06-12 13:16:52,147 - DEBUG - Counting for batch 17, containing 100 cells and 4530439 reads
+2026-06-12 13:17:10,653 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:17:55,962 - DEBUG - Counting for batch 18, containing 100 cells and 3911473 reads
+2026-06-12 13:18:13,532 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:18:15,846 - DEBUG - Read first 220 million reads
+2026-06-12 13:18:56,011 - DEBUG - Counting for batch 19, containing 100 cells and 3749545 reads
+2026-06-12 13:19:09,680 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:19:20,222 - DEBUG - Read first 230 million reads
+2026-06-12 13:19:56,190 - DEBUG - Counting for batch 20, containing 100 cells and 4028170 reads
+2026-06-12 13:20:13,703 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:20:31,643 - DEBUG - Read first 240 million reads
+2026-06-12 13:20:57,124 - DEBUG - Counting for batch 21, containing 100 cells and 3958118 reads
+2026-06-12 13:21:13,984 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:21:38,620 - DEBUG - Read first 250 million reads
+2026-06-12 13:21:54,887 - DEBUG - Counting for batch 22, containing 100 cells and 3632038 reads
+2026-06-12 13:22:08,244 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:22:40,124 - DEBUG - Counting for batch 23, containing 100 cells and 2659105 reads
+2026-06-12 13:22:49,592 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:22:54,169 - DEBUG - Read first 260 million reads
+2026-06-12 13:23:30,055 - DEBUG - Counting for batch 24, containing 100 cells and 3391531 reads
+2026-06-12 13:23:42,328 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:23:56,881 - DEBUG - Read first 270 million reads
+2026-06-12 13:24:20,911 - DEBUG - Counting for batch 25, containing 100 cells and 3420274 reads
+2026-06-12 13:24:35,645 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:25:03,021 - DEBUG - Read first 280 million reads
+2026-06-12 13:25:24,069 - DEBUG - Counting for batch 26, containing 100 cells and 4493639 reads
+2026-06-12 13:25:42,837 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:26:12,968 - DEBUG - Read first 290 million reads
+2026-06-12 13:26:26,793 - DEBUG - Counting for batch 27, containing 100 cells and 3818504 reads
+2026-06-12 13:26:43,815 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:27:23,089 - DEBUG - Read first 300 million reads
+2026-06-12 13:27:30,419 - DEBUG - Counting for batch 28, containing 100 cells and 4309505 reads
+2026-06-12 13:27:48,289 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:28:28,639 - DEBUG - Counting for batch 29, containing 100 cells and 3405219 reads
+2026-06-12 13:28:41,163 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:28:46,759 - DEBUG - Read first 310 million reads
+2026-06-12 13:29:27,927 - DEBUG - Counting for batch 30, containing 100 cells and 4038030 reads
+2026-06-12 13:29:42,093 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:29:52,046 - DEBUG - Read first 320 million reads
+2026-06-12 13:30:19,439 - DEBUG - Counting for batch 31, containing 100 cells and 3117190 reads
+2026-06-12 13:30:30,623 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:30:56,302 - DEBUG - Read first 330 million reads
+2026-06-12 13:31:14,077 - DEBUG - Counting for batch 32, containing 100 cells and 3996900 reads
+2026-06-12 13:31:31,151 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:32:02,600 - DEBUG - Read first 340 million reads
+2026-06-12 13:32:13,228 - DEBUG - Counting for batch 33, containing 100 cells and 3616719 reads
+2026-06-12 13:32:29,012 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:33:09,904 - DEBUG - Read first 350 million reads
+2026-06-12 13:33:11,002 - DEBUG - Counting for batch 34, containing 100 cells and 3662460 reads
+2026-06-12 13:33:26,510 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:34:07,777 - DEBUG - Counting for batch 35, containing 100 cells and 3819743 reads
+2026-06-12 13:34:23,726 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:34:31,375 - DEBUG - Read first 360 million reads
+2026-06-12 13:35:10,522 - DEBUG - Counting for batch 36, containing 100 cells and 4231048 reads
+2026-06-12 13:35:28,518 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:35:41,471 - DEBUG - Read first 370 million reads
+2026-06-12 13:36:15,033 - DEBUG - Counting for batch 37, containing 100 cells and 4197378 reads
+2026-06-12 13:36:32,546 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:36:47,569 - DEBUG - Read first 380 million reads
+2026-06-12 13:37:17,179 - DEBUG - Counting for batch 38, containing 100 cells and 3862472 reads
+2026-06-12 13:37:33,634 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:37:53,921 - DEBUG - Read first 390 million reads
+2026-06-12 13:38:11,007 - DEBUG - Counting for batch 39, containing 100 cells and 3195350 reads
+2026-06-12 13:38:24,624 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:38:56,386 - DEBUG - Read first 400 million reads
+2026-06-12 13:39:01,986 - DEBUG - Counting for batch 40, containing 100 cells and 3308007 reads
+2026-06-12 13:39:14,004 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:39:59,561 - DEBUG - Counting for batch 41, containing 100 cells and 4026987 reads
+2026-06-12 13:40:16,380 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:40:19,796 - DEBUG - Read first 410 million reads
+2026-06-12 13:40:58,461 - DEBUG - Counting for batch 42, containing 100 cells and 3971444 reads
+2026-06-12 13:41:15,321 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:41:25,960 - DEBUG - Read first 420 million reads
+2026-06-12 13:41:51,882 - DEBUG - Counting for batch 43, containing 100 cells and 3032000 reads
+2026-06-12 13:42:05,209 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:42:27,809 - DEBUG - Read first 430 million reads
+2026-06-12 13:42:52,085 - DEBUG - Counting for batch 44, containing 100 cells and 4297293 reads
+2026-06-12 13:43:10,096 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:43:35,709 - DEBUG - Read first 440 million reads
+2026-06-12 13:43:47,834 - DEBUG - Counting for batch 45, containing 100 cells and 3305348 reads
+2026-06-12 13:43:59,942 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:44:42,753 - DEBUG - Read first 450 million reads
+2026-06-12 13:44:51,005 - DEBUG - Counting for batch 46, containing 100 cells and 4626071 reads
+2026-06-12 13:45:11,131 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:45:51,435 - DEBUG - Read first 460 million reads
+2026-06-12 13:45:53,525 - DEBUG - Counting for batch 47, containing 100 cells and 3755187 reads
+2026-06-12 13:46:09,447 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:46:48,489 - DEBUG - Counting for batch 48, containing 100 cells and 3339740 reads
+2026-06-12 13:47:02,950 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:47:08,952 - DEBUG - Read first 470 million reads
+2026-06-12 13:47:44,950 - DEBUG - Counting for batch 49, containing 100 cells and 3624056 reads
+2026-06-12 13:48:02,556 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:48:17,219 - DEBUG - Read first 480 million reads
+2026-06-12 13:48:52,949 - DEBUG - Counting for batch 50, containing 100 cells and 4508420 reads
+2026-06-12 13:49:11,756 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:49:28,209 - DEBUG - Read first 490 million reads
+2026-06-12 13:49:57,918 - DEBUG - Counting for batch 51, containing 100 cells and 4029533 reads
+2026-06-12 13:50:13,263 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:50:37,554 - DEBUG - Read first 500 million reads
+2026-06-12 13:50:56,078 - DEBUG - Counting for batch 52, containing 100 cells and 3651110 reads
+2026-06-12 13:51:10,236 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:51:42,351 - DEBUG - Read first 510 million reads
+2026-06-12 13:51:45,723 - DEBUG - Counting for batch 53, containing 100 cells and 2844386 reads
+2026-06-12 13:51:58,102 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:52:09,194 - DEBUG - Counting for batch 54, containing 17 cells and 1003411 reads
+2026-06-12 13:52:12,677 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2026-06-12 13:52:13,137 - DEBUG - 20147027 reads were skipped because no apropiate cell or umi barcode was found
+2026-06-12 13:52:13,170 - DEBUG - Counting done!
+2026-06-12 13:52:13,181 - DEBUG - Generating output file /research/peer/fdeckert/FD20250213HSCT/data/object/velocyto/CoR_GvD_13_GvD117_transcriptome/velocyto.loom
+2026-06-12 13:52:13,181 - DEBUG - Collecting row attributes
+2026-06-12 13:52:13,259 - DEBUG - Generating data table
+2026-06-12 13:52:13,994 - DEBUG - Writing loom file
+2026-06-12 13:52:14,944 - DEBUG - Creating converter from 5 to 3
+2026-06-12 13:52:14,946 - DEBUG - Creating converter from 3 to 5
+2026-06-12 13:52:20,870 - DEBUG - Terminated Succesfully!
