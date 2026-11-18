@@ -1,4 +1,5 @@
 # Data folder and files 
 data/
 result/
+.ipynb_checkpoints/
 *.html
